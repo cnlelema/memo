@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/zh/sys-sec/security-pol/</loc>
+    <lastmod>2019-08-12T23:54:26-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/sys-sec/security-pol/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/sys-sec/security-pol/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/zh/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/zh/sys-sec/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/sys-sec/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/sys-sec/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/tags/"
+                />
+  </url>
+  
+</urlset>

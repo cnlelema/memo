@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominator Tree on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/compilers/basics/dominator-tree/</link>
+    <description>Recent content in Dominator Tree on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 25 Oct 2019 15:45:02 -0400</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/compilers/basics/dominator-tree/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

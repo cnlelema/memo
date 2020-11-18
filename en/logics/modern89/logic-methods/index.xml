@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logic Methods on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/logics/modern89/logic-methods/</link>
+    <description>Recent content in Logic Methods on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 May 2020 23:09:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/logics/modern89/logic-methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

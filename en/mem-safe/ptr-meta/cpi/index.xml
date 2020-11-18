@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Pointer Integrity on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/cpi/</link>
+    <description>Recent content in Code Pointer Integrity on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Oct 2020 17:24:24 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/cpi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

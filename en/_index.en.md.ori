@@ -1,0 +1,180 @@
+---
+title: "Welcome"
+
+#
+# cheri     13
+# pri-sep   20
+#
+# pro-ana   30
+#
+# sys-sec   80
+#
+# os        90
+# compilers 90
+# arch -    91
+# langs -   92
+#
+# logics -  100
+#
+# iot -     200
+# 
+#
+# ai/ml -   400
+#
+# practice  800
+#
+# research  900
+# edu       910
+# - cs edu
+#
+---
+
+
+### 学而时习之，不亦说乎[^lunyu]
+
+Hellooo! Practice makes perfect. Here is hosted my memo tracking my practices of study! I will try to keep them organized. However, they will look like memory flakes while my interests keep changing and expanding. 
+
+<!-- Guide (for potential readers and myself):
+
+- Majority of contents will be snippets from the indicated references. They are put here either because it is worthy to be read again or because I do not understand them very well yet.
+- Research interests and challenging questions go to **Top Wonderings** section for each topic, which I (and probably you too) should dive into and find solutions for.
+- Plans to solve/study any problem go to **Todos** or **ToDones** section, which will be used to track the most important tasks to do. Should be sorted in terms of the urgency & importance. Any solved problems should be updated as memo somewhere.
+- Book shelf: Try to keep the most important and classic works covering any interested area; No need to read them thoroughly, but need to know which one should be refered to find answers.  -->
+
+### Todos
+
+
+- How to remove Compilers from trusted computing base, especially when compiler are heavily used for security solutions? 
+    - ComCert, etc.
+
+- What is proof carrying code? How to generate such code?
+
+- Automatic program partition?
+
+- Automatic program partition for privilege separation?
+- Automatic program partition for parallelism?
+- How does it looks like if all kinds of human activities are assisted and/or replaced by AI?
+  - Automated education?
+  - Automated factory working tasks?
+  - Automated farm farming tasks?
+  - Automated hospital health operations?
+  - Automated economical/Business activities?
+  - Automated law composing and enforcements?
+  - Automated human eating, clothing, housing, transportation?
+    - Will we need mouth to eat? 
+      - How about a tiny farmer inside your body and generates energy to your muscle without eating from the mouth?
+    - Will we need wear cloth? Will we need clothes?
+      - How about a AI assisted skin that will automatically on and off your skin based on your needs?
+
+### Book Shelf
+
+
+#### Math.FM.
+
+"Software Foundations, Volumn 1 - 4". By Benjamin C. Pierce, et al. 2019. [html](https://softwarefoundations.cis.upenn.edu/)
+
+"Logical Foundations for Computing Science". By Shen Enshao. 2006.
+
+"Logic for Computer Science." By Steve Reeves and Mike Clarke. 2003.
+
+"Rigorous Software Development: An Introduction to Program Verification". By Almeida, José Bacelar, Maria João Frade, Jorge Sousa Pinto, and Simão Melo de Sousa. 2011.
+
+"Homotopy Type Theory: Univalent Foundations of Mathematics". The Univalent Foundations Program, 2013.
+
+**Online Class Materials:**
+
+Principles of Computer Systems. MIT 6.826. [2019](https://6826.csail.mit.edu/2019/schedule.html), [2017](https://6826.csail.mit.edu/2017/schedule.html),  [2004](http://web.mit.edu/6.826/www/notes/).
+
+Systems Verification. Washington.edu CSE 599W. [2016](https://courses.cs.washington.edu/courses/cse599w/16sp/).
+
+Verified Systems Software. UPENN CIS 670. [2015](https://www.cis.upenn.edu/~bcpierce/courses/670Fall15/)
+
+Certified System Software. MIT 6.888. [2015](http://css.csail.mit.edu/6.888/2015/)
+
+Models of Computation. UTAH, CS3100. [2018](https://docs.google.com/document/d/e/2PACX-1vRwJy0sYVqMXOSuI-aCFbz5wFYDAJZ7-qS3_xkfeTyFqLP5nO2F413pbTseJPotsJtjUIeXSCcRWS1c/pub) [youtube](https://www.youtube.com/channel/UCY7OrGSmil3_87-cRqadKBg/videos)
+
+
+Constructive Logic. CMU, 15-317. [2019-fall](http://www.cs.cmu.edu/~crary/317-f19/schedule.html)
+
+#### Languages
+
+"Practical Foundations for Programming Languages". By Robert Harper. [2016](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf).
+
+"Types and Programming Languages". By Benjamin C. Pierce. 2002.
+
+"Advanced Topics in Types and Programming Languages". By Benjamin C. Pierce, editor. 2004.
+
+**Online Class Materials**
+
+"Programming Lauguage Design and Implementation". UR CSC 2/454. [2019](https://www.cs.rochester.edu/u/scott/courses/254/).
+
+"Types and Programming Languages". CMU, 15-814. [2019-fall](http://www.cs.cmu.edu/~fp/courses/15814-f19/)
+
+
+#### Program Analysis
+
+"Static Program Analysis". By Anders Møller and Michael I. Schwartzbach. [pdf/201911](https://cs.au.dk/~amoeller/spa/spa.pdf).
+
+"Principles of Program Analysis". By Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. 1998.
+
+
+#### Complexity
+
+"Introduction to Automata Theory, Languages, and Computation". By John E. Hopcroft, Rajeev Motwani, and Jeffery D. Ullman. 2006.
+
+"Computers and Intractability: A Guide to the Theory of NP-Completeness". By Micheal Garey and David S. Johnson. 1979.
+
+#### Algorithms
+
+"Introduction to Algorithms". By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. 2009.
+
+"The Art of Multiprocessor Programming". By Maurice Herlihy, and Nir Shavit. 2008.
+
+
+#### Compilers
+
+"Compilers: Principles, Techniques, and Tools". By Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman. 2nd ed. 2007.
+
+"Advanced Compiler Design and Implementation". By Steven S. Muchnick. 1997.
+
+"Engineering A Compiler". By Keith D. Cooper, and Linda Torczon. 2nd ed. 2012.
+
+
+"Optimizinig Compilers for Modern Architectures: A Dependence-based Approach". By Randy Allen, and Ken Kennedy. 2001.
+
+
+#### Com.Arch
+
+"Computer Organization and Design, The Hardware/Software Interface". By David A. Patterson, and John L. Hennessy. 5th ed. 2014.
+
+"Computer Architecture: A Quantitative Approach". By John L. Hennessy, and David A. Patterson. 5th ed. 2012.
+
+"Principles of Secure Processor Architecture Design". By Jakub Szefer. 2018.
+
+#### Com.Sys
+
+"Computer Systems: A Programmer's Perspective". By Randal E. Bryant, and David R. O'Hallaron. 3rd ed, 2015.
+
+"The Design and Implementation of the FreeBSD Operating System". By Marshall Kirk McKusick, George V. Neville-Neil, and Robert N.M. Watson, 2nd ed, 2014.
+
+"程序员的自我修养--链接、装载与库"。 作者：俞甲子/石凡/潘爱民。2009。
+
+"Linkers and Loaders". By John R. Levine. 1999.
+
+"Understanding the Linux Kernel". By Daniel P. Bovet, and Marco Cesati. 3rd ed. 2005.
+
+
+#### Computer Security
+
+"Computer Security: Art and Sciences". By Matt Bishop. 2nd edition, 2018.
+
+"Computer Security: A Hands-on Approach". By Wenliang Du. [2017](http://www.cis.syr.edu/~wedu/seed/book.html).
+
+#### Software Engineering Practice
+
+"Design Patterns: Elements of Reusable Object-Oriented Software". By GoF, 1994.
+
+《编程之美--微软技术面试心得》，电子工业出版社，2008。
+
+
+[^lunyu]: 子曰：‘学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？’ 《论语·学而》，[English translation](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/I):  The Master said, "Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?

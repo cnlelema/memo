@@ -1,0 +1,3028 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/temporal/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/intro/</loc>
+    <lastmod>2020-05-11T13:30:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/</loc>
+    <lastmod>2020-11-14T13:08:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/attack-data-op/2015ccs-jujutsu/</loc>
+    <lastmod>2020-04-10T16:28:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-otype/</loc>
+    <lastmod>2019-09-05T14:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/mipstop/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-perm/</loc>
+    <lastmod>2019-09-05T14:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/kernel-changes/</loc>
+    <lastmod>2019-10-27T14:32:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/intro/</loc>
+    <lastmod>2020-04-30T23:07:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/mizhang/</loc>
+    <lastmod>2020-11-17T18:12:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/songhan/2020-ofa/training/</loc>
+    <lastmod>2020-11-16T19:57:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/horovod/</loc>
+    <lastmod>2020-11-16T19:33:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/intro-ml/kernel/</loc>
+    <lastmod>2020-11-14T13:08:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/intro-ml/</loc>
+    <lastmod>2020-11-14T13:08:10-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/songhan/2020-ofa/tutorial/</loc>
+    <lastmod>2020-11-09T21:34:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/lane/2020-spinn/</loc>
+    <lastmod>2020-11-03T10:53:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/distributed/2018-horovod/</loc>
+    <lastmod>2020-10-27T19:26:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/distributed/</loc>
+    <lastmod>2020-10-27T19:26:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/songhan/2019-proxyless-nas/</loc>
+    <lastmod>2020-10-23T20:57:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/nas/2017-nas/</loc>
+    <lastmod>2020-10-25T19:54:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/songhan/2020-mcunet/</loc>
+    <lastmod>2020-11-09T19:40:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/nas/2019-survey/</loc>
+    <lastmod>2020-10-26T18:52:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/nas/</loc>
+    <lastmod>2020-10-25T19:17:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/lane/</loc>
+    <lastmod>2020-10-22T19:54:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/songhan/</loc>
+    <lastmod>2020-10-23T18:13:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/songhan/2020-ofa/</loc>
+    <lastmod>2020-11-10T09:54:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/arm/</loc>
+    <lastmod>2020-10-21T10:21:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/ai/</loc>
+    <lastmod>2020-10-22T19:15:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/english/</loc>
+    <lastmod>2020-10-20T17:28:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/cpi/2014-osdi/</loc>
+    <lastmod>2020-10-20T17:27:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/cpi/</loc>
+    <lastmod>2020-10-11T17:30:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/bios/margo-seltzer/</loc>
+    <lastmod>2020-10-08T22:01:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/bios/</loc>
+    <lastmod>2020-10-08T21:31:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/reading/</loc>
+    <lastmod>2020-10-07T12:33:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/exceptions/</loc>
+    <lastmod>2020-10-03T21:26:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/exceptions/landingpad/</loc>
+    <lastmod>2020-10-03T21:26:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-c-model/provenance/</loc>
+    <lastmod>2020-10-03T14:28:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/new-pass/</loc>
+    <lastmod>2020-10-02T12:01:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/passes/bound-allocas/</loc>
+    <lastmod>2020-10-02T11:39:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/table-gen/</loc>
+    <lastmod>2020-09-30T22:31:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/control-flow/ucfi/</loc>
+    <lastmod>2020-09-27T16:48:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/control-flow/</loc>
+    <lastmod>2020-09-21T09:48:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/translate/ccall/</loc>
+    <lastmod>2020-09-21T09:48:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/translate/</loc>
+    <lastmod>2020-09-16T20:46:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/translate/syscall/</loc>
+    <lastmod>2020-09-16T22:18:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/translate/branch-insts/</loc>
+    <lastmod>2020-09-16T21:00:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/debug-info/diexpr/</loc>
+    <lastmod>2020-09-14T21:01:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/debug-info/</loc>
+    <lastmod>2020-09-16T18:52:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/call-conv/syscall/</loc>
+    <lastmod>2020-09-11T20:37:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/call-conv/riscv-call/</loc>
+    <lastmod>2020-09-11T20:37:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/call-conv/mips-call/</loc>
+    <lastmod>2020-09-11T20:37:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/undecidability/</loc>
+    <lastmod>2020-09-04T09:27:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/escape-capture/</loc>
+    <lastmod>2020-09-04T09:27:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-949/</loc>
+    <lastmod>2020-09-02T22:33:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/tools/regression-tests/cheri/</loc>
+    <lastmod>2020-08-31T08:18:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/tools/regression-tests/</loc>
+    <lastmod>2020-08-31T08:18:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/naming/</loc>
+    <lastmod>2020-08-29T15:28:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mir/machine-function-pass/</loc>
+    <lastmod>2020-08-29T13:44:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/lto/</loc>
+    <lastmod>2020-08-29T11:08:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-c-model/into-c/undef/</loc>
+    <lastmod>2020-10-03T14:09:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-c-model/into-c/</loc>
+    <lastmod>2020-10-03T14:09:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/extending/add-dag/</loc>
+    <lastmod>2020-08-27T15:14:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/extending/add-instr/</loc>
+    <lastmod>2020-08-27T15:14:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/extending/</loc>
+    <lastmod>2020-08-25T19:27:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/extending/cheri-csetbounds/</loc>
+    <lastmod>2020-08-27T15:14:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/prolog-epilog/mips/</loc>
+    <lastmod>2020-08-25T16:13:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/jemalloc/</loc>
+    <lastmod>2020-08-24T09:16:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/elf-writer/</loc>
+    <lastmod>2020-08-15T21:08:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/elf-writer/elf-object-writer/</loc>
+    <lastmod>2020-08-15T22:00:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/relocations/</loc>
+    <lastmod>2020-08-15T23:01:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/inst-fetch/find_tb/</loc>
+    <lastmod>2020-08-12T23:37:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/inst-fetch/tb-invalidate/</loc>
+    <lastmod>2020-08-12T23:37:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/addr-trans/</loc>
+    <lastmod>2020-08-12T11:53:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/inst-fetch/inst-trans/</loc>
+    <lastmod>2020-08-12T23:04:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/inst-fetch/</loc>
+    <lastmod>2020-08-12T23:37:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/translate/legacy-ldst/</loc>
+    <lastmod>2020-09-16T20:46:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/vm/</loc>
+    <lastmod>2020-08-10T21:03:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/vm/page_fault/</loc>
+    <lastmod>2020-08-10T21:03:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/loading/init/</loc>
+    <lastmod>2020-08-10T09:49:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/ast/</loc>
+    <lastmod>2020-08-06T22:09:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/vnode/</loc>
+    <lastmod>2020-08-06T22:09:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/lld/relocation/sythetic-relocation-sections/</loc>
+    <lastmod>2020-08-06T21:01:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/lld/thunk/</loc>
+    <lastmod>2020-08-06T21:01:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/lld/relocation/</loc>
+    <lastmod>2020-08-05T18:30:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-linkers-loaders/linker-scripts/</loc>
+    <lastmod>2020-08-03T21:03:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/lld/linking/phdrs_cmds/</loc>
+    <lastmod>2020-08-03T12:18:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/loading/freebsd/</loc>
+    <lastmod>2020-08-09T17:08:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/loading/</loc>
+    <lastmod>2020-07-30T21:20:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/lld/linking/</loc>
+    <lastmod>2020-08-06T21:00:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/relocation/</loc>
+    <lastmod>2020-08-05T11:45:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/lld/</loc>
+    <lastmod>2020-07-28T15:17:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-streamer/mips-elf-streamer/</loc>
+    <lastmod>2020-08-16T08:20:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/asm-printer/global-print/</loc>
+    <lastmod>2020-08-29T14:07:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/new-section/</loc>
+    <lastmod>2020-07-27T23:00:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/selection-dag/legalize/</loc>
+    <lastmod>2020-07-26T00:22:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/selection-dag/legalize-types/</loc>
+    <lastmod>2020-07-26T00:22:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/prolog-epilog/</loc>
+    <lastmod>2020-08-25T19:20:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/selection-dag/instr-emission/</loc>
+    <lastmod>2020-07-26T00:22:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/calling-conv/</loc>
+    <lastmod>2020-07-23T15:57:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/debugloc/</loc>
+    <lastmod>2020-07-23T15:58:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/selection-dag/</loc>
+    <lastmod>2020-07-26T13:42:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/mips-isel/</loc>
+    <lastmod>2020-07-22T18:27:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/</loc>
+    <lastmod>2020-07-22T11:28:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/globalisel/</loc>
+    <lastmod>2020-07-22T10:01:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/globalisel/ir-translator/call-lowering/</loc>
+    <lastmod>2020-07-22T10:01:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/mscode/</loc>
+    <lastmod>2020-07-21T23:27:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/vim/</loc>
+    <lastmod>2020-07-21T23:27:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-streamer/mc-asm-streamer/</loc>
+    <lastmod>2020-08-16T08:20:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-streamer/mips-target-streamer/</loc>
+    <lastmod>2020-08-16T08:20:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-streamer/mc-object-streamer/</loc>
+    <lastmod>2020-08-16T08:20:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/globalisel/inst-sel/</loc>
+    <lastmod>2020-07-22T10:01:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/metadata/</loc>
+    <lastmod>2020-07-19T16:48:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/core-isel/globalisel/ir-translator/</loc>
+    <lastmod>2020-07-22T10:01:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/asm-printer/</loc>
+    <lastmod>2020-08-16T19:34:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-assembler/</loc>
+    <lastmod>2020-07-18T01:41:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-context/</loc>
+    <lastmod>2020-07-17T22:14:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/text/</loc>
+    <lastmod>2020-07-17T14:50:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/dwarf/</loc>
+    <lastmod>2020-07-28T20:02:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/object-file/</loc>
+    <lastmod>2020-07-19T23:04:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/stack-frame/</loc>
+    <lastmod>2020-08-15T17:30:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/mc-streamer/</loc>
+    <lastmod>2020-08-16T08:20:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/symbol-table/</loc>
+    <lastmod>2020-08-02T16:04:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/kami/</loc>
+    <lastmod>2020-07-15T10:41:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/coq/</loc>
+    <lastmod>2020-07-15T10:41:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/basics/dag/</loc>
+    <lastmod>2020-07-14T09:49:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-backend/globals/</loc>
+    <lastmod>2020-07-15T12:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-backend/obj-gen/</loc>
+    <lastmod>2020-07-15T12:28:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/global/</loc>
+    <lastmod>2020-07-15T12:41:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-elf/</loc>
+    <lastmod>2020-08-05T11:45:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/mpx/llvm-mpx/</loc>
+    <lastmod>2020-07-13T10:25:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/trace-cpu/</loc>
+    <lastmod>2020-07-03T22:22:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/mm/</loc>
+    <lastmod>2020-07-03T21:06:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/stats/</loc>
+    <lastmod>2020-06-26T10:31:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/guest-ram/code/</loc>
+    <lastmod>2020-08-12T10:52:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/guest-ram/</loc>
+    <lastmod>2020-08-12T10:52:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/basics/memory-manage/</loc>
+    <lastmod>2020-06-19T01:59:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/traffic-gen/</loc>
+    <lastmod>2020-06-19T10:52:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/memobj/</loc>
+    <lastmod>2020-06-18T16:34:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/extending/</loc>
+    <lastmod>2020-06-17T14:32:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/gem5/</loc>
+    <lastmod>2020-06-18T05:45:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/memtrace/simple/</loc>
+    <lastmod>2020-08-12T10:52:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/memtrace/</loc>
+    <lastmod>2020-08-12T10:52:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/rust/oxide/</loc>
+    <lastmod>2020-06-08T12:36:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/example-csc/</loc>
+    <lastmod>2020-06-08T12:37:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/inst-encoding/</loc>
+    <lastmod>2020-06-06T03:24:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/cheriops/cloadtags/</loc>
+    <lastmod>2020-06-05T18:57:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/writeback/</loc>
+    <lastmod>2020-06-01T22:57:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/mips/</loc>
+    <lastmod>2020-06-01T20:20:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheriabi/refinement/</loc>
+    <lastmod>2020-05-27T23:36:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheriabi/execve/</loc>
+    <lastmod>2020-05-27T23:36:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/icache/</loc>
+    <lastmod>2020-06-01T22:57:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/builtins/</loc>
+    <lastmod>2020-05-25T13:12:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/tag-mem/</loc>
+    <lastmod>2020-08-13T14:13:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/test/</loc>
+    <lastmod>2020-05-25T21:49:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-train/2018-mobile-crowd/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2019-jointdnn/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-train/2011-realtime-train/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-train/2019-sec-object/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2019-eurosys-ulayer/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-hotedge-inference/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-deepcache/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-ispn-deepx/2016-deepx-kit/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2017-emdl-mobirnn/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-mobisys-on-demand-compression/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-lctes-adaptive-selection/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2017-pmlr-mec/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-mobicom-nestdnn/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2020-asplos-patdnn/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/mobiles/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-ispn-deepx/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/automl/2013-kdd-auto-weka/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2016-isca-eie/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-train/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/opt-infer/2018-eccv-amc/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/automl/</loc>
+    <lastmod>2020-05-24T17:02:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-piccolo/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-flute/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/seminars/2020-sp/</loc>
+    <lastmod>2020-05-23T17:00:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/6s191/</loc>
+    <lastmod>2020-05-24T17:09:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/capability/cap/</loc>
+    <lastmod>2020-05-16T21:51:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/capability/psos/</loc>
+    <lastmod>2020-05-16T21:51:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/capability/</loc>
+    <lastmod>2020-05-16T21:51:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/tagsparams/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/fedarated/</loc>
+    <lastmod>2020-05-14T16:47:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/memtypes/data/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/expand-bits/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/tag-lookup/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/multi-level-tag-lookup/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/packages/connectable/get-put/</loc>
+    <lastmod>2020-05-07T17:35:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/packages/connectable/client-server/</loc>
+    <lastmod>2020-05-07T17:35:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/modern89/logic-methods/</loc>
+    <lastmod>2020-05-06T23:41:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/master-slave/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/l2cache/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/merge/</loc>
+    <lastmod>2020-06-01T23:00:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/mem-tag/addr-san/</loc>
+    <lastmod>2020-05-06T00:42:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/mem-tag/cheri-tag-mem/</loc>
+    <lastmod>2020-05-06T00:42:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/packages/connectable/</loc>
+    <lastmod>2020-05-06T00:33:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/packages/</loc>
+    <lastmod>2020-05-06T00:33:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/cache-core/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/linux/page-table/</loc>
+    <lastmod>2020-05-05T14:52:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/mips/cp0/regs/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/mips/cp0/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/cp0/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/memtypes/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/tag-controller/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/dcache/</loc>
+    <lastmod>2020-05-27T22:00:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/tlb/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/tagcache/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/memory/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/cheri-tlb/</loc>
+    <lastmod>2020-05-01T01:33:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/mem-tag/</loc>
+    <lastmod>2020-05-06T00:42:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/vmi/hwvmi/2016-flexcore/</loc>
+    <lastmod>2020-05-06T23:49:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2008-osdi-loki/</loc>
+    <lastmod>2020-04-30T01:41:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/llvm-elf/</loc>
+    <lastmod>2020-07-18T00:45:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-backend/regression/</loc>
+    <lastmod>2020-07-15T12:28:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/tools/</loc>
+    <lastmod>2020-04-28T16:02:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/call-conv/</loc>
+    <lastmod>2020-09-14T20:59:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/call-convention/</loc>
+    <lastmod>2020-04-28T16:02:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2020-java-partition-sgx/</loc>
+    <lastmod>2020-04-24T00:06:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2011-xoar/</loc>
+    <lastmod>2020-04-24T00:06:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/basics/mangling/</loc>
+    <lastmod>2020-04-23T21:18:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/hacking/cross/cheribuild/</loc>
+    <lastmod>2020-04-24T00:34:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/hacking/cross/</loc>
+    <lastmod>2020-04-08T09:37:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/execute/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/coprofp_conversion_functions/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/scheduler/</loc>
+    <lastmod>2020-06-01T10:07:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/memaccess/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/capcop/</loc>
+    <lastmod>2020-05-23T17:04:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/beri-isa/</loc>
+    <lastmod>2020-05-02T15:55:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/cheri-mips/</loc>
+    <lastmod>2020-05-30T18:51:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/seminars/2020-asplos/</loc>
+    <lastmod>2020-03-29T00:26:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/make/</loc>
+    <lastmod>2020-03-27T23:43:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/types/</loc>
+    <lastmod>2020-05-05T23:05:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/type-classes/</loc>
+    <lastmod>2020-03-19T00:36:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/5g/</loc>
+    <lastmod>2020-03-14T15:29:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/attacks/sgx/</loc>
+    <lastmod>2020-03-11T15:21:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/systemv/verilog/</loc>
+    <lastmod>2020-03-10T09:53:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/modules/</loc>
+    <lastmod>2020-04-06T13:01:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/env/aleaves/</loc>
+    <lastmod>2020-03-09T19:30:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2020-sec-firefox/</loc>
+    <lastmod>2020-02-27T10:36:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2016-sp-shreds/</loc>
+    <lastmod>2020-02-27T09:52:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2016-osdi-lwc/</loc>
+    <lastmod>2020-03-05T10:48:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/overflow/hbleed/</loc>
+    <lastmod>2020-03-05T10:28:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/overflow/</loc>
+    <lastmod>2020-03-05T10:28:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/tlm/</loc>
+    <lastmod>2020-02-21T20:16:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/bluespec/</loc>
+    <lastmod>2020-02-21T20:16:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/systemv/</loc>
+    <lastmod>2020-02-21T20:16:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/conf/edgeiot/</loc>
+    <lastmod>2020-02-15T23:49:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2015-atc-arbiter/</loc>
+    <lastmod>2020-01-28T17:08:08-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2015-salus/</loc>
+    <lastmod>2020-01-28T15:01:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2008-nsdi-wedge/</loc>
+    <lastmod>2020-01-28T15:01:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2016-ccs-smv/</loc>
+    <lastmod>2020-01-31T12:13:47-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/basics/</loc>
+    <lastmod>2020-01-28T14:44:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-linkers-loaders/</loc>
+    <lastmod>2020-07-16T00:04:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/intro/capsicum/</loc>
+    <lastmod>2020-07-30T13:59:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2015-soaap/</loc>
+    <lastmod>2020-02-06T11:04:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/papers/cspec/</loc>
+    <lastmod>2020-07-15T10:32:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/env/</loc>
+    <lastmod>2019-12-12T17:42:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/seminars/ur/</loc>
+    <lastmod>2019-12-04T11:41:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/seminars/</loc>
+    <lastmod>2019-12-02T11:58:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/constructive-logic/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/closure/</loc>
+    <lastmod>2019-11-27T23:41:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/lambda/lambda-lifting/</loc>
+    <lastmod>2019-11-27T23:41:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/lambda/</loc>
+    <lastmod>2019-11-27T22:50:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2018-reason-local/</loc>
+    <lastmod>2019-11-27T02:07:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/asm/mc-toll/</loc>
+    <lastmod>2019-11-25T21:29:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/mlta/crix/</loc>
+    <lastmod>2019-11-26T01:23:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/class-pldi/concurrent-langs/</loc>
+    <lastmod>2019-11-24T00:57:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/rings/</loc>
+    <lastmod>2019-11-24T01:24:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mc/</loc>
+    <lastmod>2020-07-27T11:53:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/mlta/read/</loc>
+    <lastmod>2019-11-26T11:06:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/mlta/</loc>
+    <lastmod>2019-11-23T15:13:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/</loc>
+    <lastmod>2020-05-09T21:10:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/andersen/</loc>
+    <lastmod>2019-11-23T14:49:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/steensgaard/</loc>
+    <lastmod>2019-11-23T14:49:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/mir/</loc>
+    <lastmod>2020-08-15T17:29:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/reach-def/</loc>
+    <lastmod>2019-11-17T20:15:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/2019ccs-layer-type/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/reg-alloc/</loc>
+    <lastmod>2020-07-15T12:28:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/sequoia/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/inst-iso/arm-inst-iso/</loc>
+    <lastmod>2019-11-12T16:30:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/asm/remill/</loc>
+    <lastmod>2019-11-12T23:49:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/asm/mcsema/</loc>
+    <lastmod>2019-11-12T23:49:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/asm/s2e/</loc>
+    <lastmod>2019-11-11T14:53:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/asm/revgen/</loc>
+    <lastmod>2019-11-11T14:31:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/conf/</loc>
+    <lastmod>2020-05-19T23:51:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/unikernels/demikernel/</loc>
+    <lastmod>2019-11-11T02:06:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/unikernels/</loc>
+    <lastmod>2019-11-11T02:06:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/calendar/</loc>
+    <lastmod>2019-11-10T23:59:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/ai/deep/tensorflow/</loc>
+    <lastmod>2020-05-24T13:19:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/tensors/</loc>
+    <lastmod>2020-05-23T21:44:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/abs-algebra/groups/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/abs-algebra/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/galois/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/abs-int/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/asm/</loc>
+    <lastmod>2019-11-24T02:24:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/proj/</loc>
+    <lastmod>2019-11-05T10:41:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/hacking/types/</loc>
+    <lastmod>2019-11-02T13:40:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/hacking/</loc>
+    <lastmod>2019-11-02T13:40:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/201904-secswift/</loc>
+    <lastmod>2019-11-02T00:45:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/attr/</loc>
+    <lastmod>2020-07-22T09:52:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/fatptr/</loc>
+    <lastmod>2019-11-01T11:39:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/passes/range-checker/</loc>
+    <lastmod>2020-10-02T11:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/addrspace/</loc>
+    <lastmod>2019-11-01T01:47:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/instvisitor/</loc>
+    <lastmod>2019-11-01T00:24:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/boot/</loc>
+    <lastmod>2020-04-30T21:33:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/sysinit/</loc>
+    <lastmod>2019-10-30T16:19:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/info-flow/2009-micro-cfo/</loc>
+    <lastmod>2019-10-30T02:35:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/papers/19-arm-os/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/diff-good-bad/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/papers/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/papers/intscope/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/temporal-logic/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/mc/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/isabelle/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/idt/</loc>
+    <lastmod>2019-10-30T15:58:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/silhouette/cves/</loc>
+    <lastmod>2019-10-30T01:16:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/silhouette/</loc>
+    <lastmod>2019-10-30T01:16:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/ccxx/mesh/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/ccxx/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/</loc>
+    <lastmod>2019-10-27T23:33:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freertos/</loc>
+    <lastmod>2019-10-27T14:15:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/basics/dominator-tree/</loc>
+    <lastmod>2019-10-25T16:21:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/basics/</loc>
+    <lastmod>2019-10-25T15:58:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/passes/</loc>
+    <lastmod>2019-11-01T01:48:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/paperwriting/discussions/</loc>
+    <lastmod>2019-10-25T14:38:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/pagebits/pool-dangling/</loc>
+    <lastmod>2019-10-25T15:12:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/modern89/</loc>
+    <lastmod>2020-05-06T23:05:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/ir/</loc>
+    <lastmod>2019-11-23T13:12:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/tag-ptr/</loc>
+    <lastmod>2019-10-18T16:00:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/vghost/svamem/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/batteryless/</loc>
+    <lastmod>2019-10-14T09:40:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2017-fm-compart/</loc>
+    <lastmod>2019-10-13T22:36:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/edge/migration/</loc>
+    <lastmod>2019-10-13T20:39:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/edge/</loc>
+    <lastmod>2019-10-13T20:39:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/manual/</loc>
+    <lastmod>2019-10-13T01:55:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2019-enclavedom/</loc>
+    <lastmod>2019-10-13T01:55:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2019-pyronia/</loc>
+    <lastmod>2020-02-27T09:46:39-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2018-unsafe-rust/</loc>
+    <lastmod>2020-02-27T10:31:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2012accs-android-ad/</loc>
+    <lastmod>2019-10-13T00:56:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/hardscope/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/ptr-auth/</loc>
+    <lastmod>2019-10-12T22:51:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxsw/byte-sfi/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/sok-stack/</loc>
+    <lastmod>2019-10-12T20:47:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-lang/ccured/</loc>
+    <lastmod>2019-10-12T20:47:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/hwstack/</loc>
+    <lastmod>2019-10-12T20:41:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/1994pldi-translator/</loc>
+    <lastmod>2019-10-12T20:41:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/mpx/bogo/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/rings/lord-x86/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/rings/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/2018-micro-stache/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2018-breakapp/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/epoxy/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/pagebits/hypersafe/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-lang/nesc/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/attack-rop/2014ndds-persistent/</loc>
+    <lastmod>2020-03-05T10:28:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/attacks/rop/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/pump/</loc>
+    <lastmod>2020-06-15T22:01:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/mix-langs/fun-tal/</loc>
+    <lastmod>2019-10-09T16:31:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/verify/sec-gap/</loc>
+    <lastmod>2019-10-09T16:31:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/verify/next700/</loc>
+    <lastmod>2019-10-09T16:31:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/mix-langs/</loc>
+    <lastmod>2019-11-09T00:53:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/types/gradual-typing/</loc>
+    <lastmod>2019-10-09T16:31:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/neverland/</loc>
+    <lastmod>2019-10-11T16:30:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/security-pol/bell-lapadula/</loc>
+    <lastmod>2019-10-08T00:02:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/tapl/</loc>
+    <lastmod>2019-10-06T22:45:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/tapl/semantic-style/</loc>
+    <lastmod>2019-10-07T15:54:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/vg_code/</loc>
+    <lastmod>2019-10-14T16:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/secure-tlb/</loc>
+    <lastmod>2019-10-06T00:03:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/vmi/hwvmi/</loc>
+    <lastmod>2020-05-06T23:49:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/verify/comcert/</loc>
+    <lastmod>2019-10-06T00:10:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/types/sec-type/</loc>
+    <lastmod>2019-10-05T00:39:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/types/info-flow-type/</loc>
+    <lastmod>2019-10-05T00:39:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/detection/hw-monitor/</loc>
+    <lastmod>2019-10-06T20:25:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/verify/binary-verify/</loc>
+    <lastmod>2019-10-04T23:01:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/verify/</loc>
+    <lastmod>2019-10-13T22:36:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/kernel-cap/grep-cap/</loc>
+    <lastmod>2019-10-27T14:15:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/data-layout/</loc>
+    <lastmod>2019-11-01T01:47:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/</loc>
+    <lastmod>2020-07-26T13:42:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-seal/</loc>
+    <lastmod>2019-09-26T11:11:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/cheriops/</loc>
+    <lastmod>2019-09-23T02:30:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/basics/</loc>
+    <lastmod>2020-05-27T22:01:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/build/</loc>
+    <lastmod>2019-09-20T12:17:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/hacking/sandbox_user/</loc>
+    <lastmod>2019-09-23T02:30:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/gdb/</loc>
+    <lastmod>2019-09-18T15:36:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/regs/</loc>
+    <lastmod>2019-09-23T02:30:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/hacking/hello/</loc>
+    <lastmod>2019-09-12T11:47:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/class-pldi/workshops/</loc>
+    <lastmod>2019-11-10T23:27:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-sandbox/class-object/</loc>
+    <lastmod>2019-09-05T16:39:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-sandbox/sandbox-methods/</loc>
+    <lastmod>2019-09-05T14:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/dinosaur/</loc>
+    <lastmod>2019-09-01T16:03:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheriabi/chericwrappers/</loc>
+    <lastmod>2019-09-01T16:03:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/mips/instructions/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/mips/regs/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/arch-asm/</loc>
+    <lastmod>2020-07-19T23:44:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/mips/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-ccall/trampolines/</loc>
+    <lastmod>2019-10-27T14:15:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/instructions/csc/</loc>
+    <lastmod>2019-08-29T16:42:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/specialregs/</loc>
+    <lastmod>2019-08-29T16:42:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/instructions/cgetdefault/</loc>
+    <lastmod>2019-08-29T16:42:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/instructions/</loc>
+    <lastmod>2019-08-29T16:42:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/class-adv/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/class-pldi/ch1/</loc>
+    <lastmod>2019-10-07T10:26:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/unrhdr/</loc>
+    <lastmod>2019-08-28T16:47:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-otype/user-obj/</loc>
+    <lastmod>2019-09-05T14:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheriabi/llvm-builtins/</loc>
+    <lastmod>2019-09-05T16:43:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/extending/intrinsics/</loc>
+    <lastmod>2020-08-25T19:27:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/llvm/</loc>
+    <lastmod>2020-09-28T20:36:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/linux/lubuntu/</loc>
+    <lastmod>2019-08-25T19:23:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/linux/</loc>
+    <lastmod>2019-08-24T22:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheriabi/tradeoff/</loc>
+    <lastmod>2019-08-24T23:01:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/rsync/</loc>
+    <lastmod>2019-08-24T20:46:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/cscope/</loc>
+    <lastmod>2019-08-26T10:39:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/tools/</loc>
+    <lastmod>2019-08-20T14:03:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/cpu_switch/</loc>
+    <lastmod>2019-08-19T12:17:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/sfi/armor/</loc>
+    <lastmod>2019-08-18T23:25:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/sfi/</loc>
+    <lastmod>2019-08-18T23:25:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxsw/embed-usfi/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/minion/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/nesc/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/nescheck/</loc>
+    <lastmod>2019-10-12T17:22:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/paperwriting/</loc>
+    <lastmod>2020-09-11T11:17:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxsw/nacl/pnacl/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/msinterview/</loc>
+    <lastmod>2019-08-13T15:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/tamper-resistance/</loc>
+    <lastmod>2019-08-13T00:49:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/detection/prima/</loc>
+    <lastmod>2019-08-13T00:39:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/info-flow/</loc>
+    <lastmod>2019-08-13T00:28:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/detection/flicker/</loc>
+    <lastmod>2019-08-13T00:28:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/detection/verifyexe/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/uxom/</loc>
+    <lastmod>2019-10-12T20:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2003pe/</loc>
+    <lastmod>2019-08-19T11:48:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/basic-backend/</loc>
+    <lastmod>2020-07-15T21:05:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/go/setup/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/l4/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2019privana/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/aop/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2017-enclave/</loc>
+    <lastmod>2020-01-14T20:19:21-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2007web/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/2004privtrans/</loc>
+    <lastmod>2019-10-17T16:04:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/runtimechecks/funcptrs/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/go/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/rust/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/rust/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/2002controlc/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/runtimechecks/arraychecks/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/hott/intro/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/hott/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/runtimecheck/jones-kelly/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/runtimecheck/ruwas-lam/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/runtimecheck/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/interprocedural/cfg/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/interprocedural/</loc>
+    <lastmod>2020-09-27T16:48:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/dsa/passes/localdatastructures/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/dsa/passes/datastructures/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/dsa/passes/tddatastructures/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/dsa/passes/eqtddatastructures/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/dsa/passes/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/passes/stackcheck/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/passes/arraybnd/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/passes/ptrchecks/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/passes/poolchecks/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/riscv/attacks/sp-analog/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/riscv/attacks/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/cets/runtime/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/hwsw/securehwsw/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/gnu-hurd/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/freebsd/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/minix3/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/kernel-cap/</loc>
+    <lastmod>2019-10-27T14:15:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/intro/motivation/</loc>
+    <lastmod>2020-01-14T20:53:30-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/linux/execve/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/dsa/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/complexity/halting/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/security-pol/</loc>
+    <lastmod>2019-10-08T00:02:57-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/sys-sec/security-pol/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/sys-sec/security-pol/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/2003nogc/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/poolalloc/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/go/tour/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/2005embed/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/basics/riscv/</loc>
+    <lastmod>2020-05-05T00:59:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/class-user/</loc>
+    <lastmod>2019-09-10T13:58:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/steensgaard/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/</loc>
+    <lastmod>2020-10-08T21:10:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-sys/</loc>
+    <lastmod>2019-09-09T14:39:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/stores/ccall-tests/</loc>
+    <lastmod>2019-09-03T16:24:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/inst-iso/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-ccall/</loc>
+    <lastmod>2019-09-03T16:24:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/attacks/conpe/</loc>
+    <lastmod>2019-08-15T13:52:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/attacks/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pri-sep/</loc>
+    <lastmod>2020-01-14T20:13:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/typesys/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/cets/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/context-switch/</loc>
+    <lastmod>2019-10-27T14:32:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/pointer-ana/</loc>
+    <lastmod>2020-08-07T09:36:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/lowfat/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/</loc>
+    <lastmod>2020-01-14T14:11:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/attacks/data-op/</loc>
+    <lastmod>2019-10-12T16:48:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-stack/</loc>
+    <lastmod>2019-09-04T23:28:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-enter/</loc>
+    <lastmod>2019-09-05T16:39:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-sandbox/</loc>
+    <lastmod>2019-09-09T17:01:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/softbound/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/pagebits/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-otype/kern-obj/</loc>
+    <lastmod>2019-10-27T14:15:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/defences/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/runtimechecks/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/trusted-stack/</loc>
+    <lastmod>2019-10-27T14:15:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/hardbound/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/llvaos/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/</loc>
+    <lastmod>2020-08-07T09:36:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-c-model/</loc>
+    <lastmod>2020-10-03T14:09:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/mmachine/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/mpx/</loc>
+    <lastmod>2020-07-11T23:52:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/pagebits/mpk/</loc>
+    <lastmod>2019-10-12T17:06:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/ssm/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/sgx/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxhw/trustzone/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/detection/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/signal/</loc>
+    <lastmod>2019-10-27T14:32:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/svaos/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheriabi/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/hwsw/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/memcopy/</loc>
+    <lastmod>2019-10-27T14:32:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/booting/</loc>
+    <lastmod>2020-05-01T11:15:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/vghost/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-cc/</loc>
+    <lastmod>2020-09-01T17:59:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-temporal/</loc>
+    <lastmod>2019-10-28T15:21:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/process/</loc>
+    <lastmod>2020-04-30T16:53:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/intrin/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/intrumentation/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/</loc>
+    <lastmod>2019-08-12T23:45:28-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/sys-sec/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/sys-sec/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/</loc>
+    <lastmod>2019-10-27T14:32:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freebsd/cheri-user/</loc>
+    <lastmod>2019-10-27T14:24:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-freertos/</loc>
+    <lastmod>2019-10-27T14:55:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/</loc>
+    <lastmod>2020-08-07T09:52:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-rtos/</loc>
+    <lastmod>2019-10-28T14:52:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-hypervisor/</loc>
+    <lastmod>2019-10-28T15:48:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-cloud/</loc>
+    <lastmod>2019-10-28T16:11:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/</loc>
+    <lastmod>2019-09-30T14:24:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/pro-ana/basics/complexity/</loc>
+    <lastmod>2019-11-17T19:04:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/safecode/passes/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/linux/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/os/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-fm/</loc>
+    <lastmod>2019-08-23T22:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-link/</loc>
+    <lastmod>2019-08-23T22:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/</loc>
+    <lastmod>2019-08-10T21:50:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/</loc>
+    <lastmod>2019-11-20T10:25:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/fm/</loc>
+    <lastmod>2020-05-06T23:48:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/codegen/call-conv/cc-cheri-ccall/</loc>
+    <lastmod>2020-09-14T20:59:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/</loc>
+    <lastmod>2020-05-07T00:49:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxsw/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/logics/class-logic/</loc>
+    <lastmod>2019-10-20T22:01:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/class-pldi/</loc>
+    <lastmod>2020-08-07T09:58:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/boxsw/nacl/</loc>
+    <lastmod>2019-10-13T00:20:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/stores/ssh/</loc>
+    <lastmod>2019-09-03T16:24:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-isa/</loc>
+    <lastmod>2019-08-23T22:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-tag/</loc>
+    <lastmod>2020-07-03T10:39:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-elf/</loc>
+    <lastmod>2020-05-02T15:51:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/beri/</loc>
+    <lastmod>2020-05-03T00:32:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-x86/</loc>
+    <lastmod>2019-09-28T10:23:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/langs/proofcc/</loc>
+    <lastmod>2019-11-27T22:13:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-compile/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-qemu/</loc>
+    <lastmod>2020-08-12T23:02:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/tal/</loc>
+    <lastmod>2019-11-27T23:06:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/hwsw/kcofi/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/arch/sva/</loc>
+    <lastmod>2020-08-31T18:37:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/compilers/auto-parallel/</loc>
+    <lastmod>2019-11-25T21:29:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/langs/types/</loc>
+    <lastmod>2019-10-05T00:39:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/iot/</loc>
+    <lastmod>2019-10-06T20:25:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-llvm/</loc>
+    <lastmod>2019-11-01T09:38:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-sandbox/sandbox-loader/</loc>
+    <lastmod>2019-09-05T16:39:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/libcheri-invoke/</loc>
+    <lastmod>2019-09-05T14:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/edu/csed/</loc>
+    <lastmod>2020-11-16T19:42:18-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/sec-lang/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/sys-sec/vmi/</loc>
+    <lastmod>2020-05-06T23:49:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/practice/</loc>
+    <lastmod>2019-11-08T16:38:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/</loc>
+    <lastmod>2020-03-05T10:28:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/attack-data-op/</loc>
+    <lastmod>2020-03-05T10:28:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/</loc>
+    <lastmod>2020-10-21T11:17:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/hacking/</loc>
+    <lastmod>2020-04-04T12:20:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/edu/</loc>
+    <lastmod>2020-10-27T21:04:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/attacks/attack-rop/</loc>
+    <lastmod>2020-03-05T10:28:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/mem-safe/ripe/</loc>
+    <lastmod>2020-01-14T14:27:19-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/research/logs/</loc>
+    <lastmod>2019-10-09T09:14:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/cheri/cheri-domain/stores/</loc>
+    <lastmod>2019-09-03T16:24:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/en/</loc>
+    <lastmod>2020-11-16T19:37:00-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cnlelema.github.io/memo/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/"
+                />
+  </url>
+  
+</urlset>

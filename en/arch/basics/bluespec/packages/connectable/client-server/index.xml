@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client Server on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/arch/basics/bluespec/packages/connectable/client-server/</link>
+    <description>Recent content in Client Server on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 May 2020 16:54:59 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/arch/basics/bluespec/packages/connectable/client-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

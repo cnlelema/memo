@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxide: The Essence of Rust on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/langs/langs/rust/oxide/</link>
+    <description>Recent content in Oxide: The Essence of Rust on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Jun 2020 12:31:10 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/langs/langs/rust/oxide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
