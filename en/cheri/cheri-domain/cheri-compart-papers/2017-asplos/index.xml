@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 Asplos: CHERI JNI: Sinking the Java security model into the C on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-compart-papers/2017-asplos/</link>
+    <description>Recent content in 2017 Asplos: CHERI JNI: Sinking the Java security model into the C on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Dec 2020 20:35:42 -0800</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-compart-papers/2017-asplos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

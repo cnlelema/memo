@@ -2,17 +2,23 @@
 title: "Welcome"
 
 #
-# cheri     13
+# cheri     11
+#
 # pri-sep   20
 #
 # pro-ana   30
 #
-# sys-sec   80
+# sys-sec   40
+# mem-safe  42
 #
-# os        90
-# compilers 90
-# arch -    91
-# langs -   92
+# os        50
+#
+# compilers 60
+# codegen   62
+#
+# arch -    70
+# 
+# langs -   80
 #
 # logics -  100
 #
@@ -24,6 +30,7 @@ title: "Welcome"
 # practice  800
 #
 # research  900
+# 
 # edu       910
 # - cs edu
 #
@@ -45,7 +52,7 @@ Hellooo! Practice makes perfect. Here is hosted my memo tracking my practices of
 
 
 - How to remove Compilers from trusted computing base, especially when compiler are heavily used for security solutions? 
-    - ComCert, etc.
+    - CompCert, etc.
 
 - What is proof carrying code? How to generate such code?
 

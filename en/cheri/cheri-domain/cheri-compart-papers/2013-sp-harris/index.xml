@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Declarative, Temporal, and Practical Programming with Capabilities on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-compart-papers/2013-sp-harris/</link>
+    <description>Recent content in Declarative, Temporal, and Practical Programming with Capabilities on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 13 Jul 2021 09:29:48 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/cheri/cheri-domain/cheri-compart-papers/2013-sp-harris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
