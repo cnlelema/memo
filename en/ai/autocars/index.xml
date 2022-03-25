@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomous Driving Cars on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/ai/autocars/</link>
+    <description>Recent content in Autonomous Driving Cars on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Sep 2021 02:30:08 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/ai/autocars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

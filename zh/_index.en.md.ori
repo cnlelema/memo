@@ -27,12 +27,15 @@ title: "Welcome"
 #
 # ai/ml -   400
 #
+# books     700
+#
 # practice  800
 #
 # research  900
 # 
 # edu       910
 # - cs edu
+#
 #
 ---
 
@@ -177,6 +180,8 @@ Constructive Logic. CMU, 15-317. [2019-fall](http://www.cs.cmu.edu/~crary/317-f1
 
 "Computer Security: A Hands-on Approach". By Wenliang Du. [2017](http://www.cis.syr.edu/~wedu/seed/book.html).
 
+"Cryptography and Network Security: Principles and Practices". By William Stallings. 4th edition. 2006.
+
 #### Software Engineering Practice
 
 "Design Patterns: Elements of Reusable Object-Oriented Software". By GoF, 1994.
@@ -185,3 +190,4 @@ Constructive Logic. CMU, 15-317. [2019-fall](http://www.cs.cmu.edu/~crary/317-f1
 
 
 [^lunyu]: 子曰：‘学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？’ 《论语·学而》，[English translation](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/I):  The Master said, "Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?
+

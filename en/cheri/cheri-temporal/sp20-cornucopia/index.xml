@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cornucopia: Temporal Safety for CHERI heaps on Lele&#39;s Memo</title>
+    <title>[2020 Oakland] Cornucopia: Temporal Safety for CHERI heaps on Lele&#39;s Memo</title>
     <link>https://cnlelema.github.io/memo/en/cheri/cheri-temporal/sp20-cornucopia/</link>
-    <description>Recent content in Cornucopia: Temporal Safety for CHERI heaps on Lele&#39;s Memo</description>
+    <description>Recent content in [2020 Oakland] Cornucopia: Temporal Safety for CHERI heaps on Lele&#39;s Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 13 Jul 2021 13:12:37 -0700</lastBuildDate>

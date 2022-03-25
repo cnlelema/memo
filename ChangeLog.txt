@@ -1,4 +1,846 @@
 
+2022-03-25 16:38:02 +0800 aa62528
+
+    update outcontext
+
+
+
+
+2022-03-25 15:53:18 +0800 936c114
+
+    add out-context as submodules
+
+
+
+
+2022-03-25 13:26:09 +0800 bd1f318
+
+    update mte link; fm smc todo
+
+
+
+
+2022-03-24 15:21:11 +0800 ae36723
+
+    automaton --> symbolic model checking
+
+
+
+
+2022-03-24 14:31:46 +0800 98fd81b
+
+    update
+
+
+
+
+2022-03-24 11:38:26 +0800 1bb8eaa
+
+    update language history, LTL, CTL, CCS, TLA
+
+
+
+
+2022-03-24 11:31:22 +0800 63d543f
+
+    eda standard: PSL fm language
+
+
+
+
+2022-03-24 11:26:21 +0800 49844d6
+
+    update reference chps
+
+
+
+
+2022-03-24 11:24:21 +0800 c796f84
+
+    rename logic-v to languages
+
+
+
+
+2022-03-24 09:52:14 +0800 801b17e
+
+    add filecheck script
+
+
+
+
+2022-03-22 14:27:00 +0800 9aa053e
+
+    update out of context
+
+
+
+
+2022-03-22 13:26:32 +0800 4560132
+
+    vivado tip
+
+
+
+
+2022-03-22 13:21:08 +0800 759cc08
+
+    add a link of eda-fm
+
+
+
+
+2022-03-22 12:35:10 +0800 aa5d002
+
+    fm ver in eda: properties to verify
+
+
+
+
+2022-03-21 11:00:01 +0800 922577d
+
+    symbolic verification example
+
+
+
+
+2022-03-21 10:27:06 +0800 1c27da6
+
+    todo: fm property v
+
+
+
+
+2022-03-21 10:25:06 +0800 fc2ee7e
+
+    digital sim in logic verification
+
+
+
+
+2022-03-21 10:17:06 +0800 149ca7a
+
+    revise headings
+
+
+
+
+2022-03-21 10:15:46 +0800 9ed0bed
+
+    logic verification: languages, fm not so much
+
+
+
+
+2022-03-17 09:29:05 +0800 77f8355
+
+    examples of PSL temporal
+
+
+
+
+2022-03-16 16:02:02 +0800 5c32034
+
+    fm in eda: c and rtl functionally correct
+
+
+
+
+2022-03-16 15:35:40 +0800 bd1504c
+
+    eda book reading
+
+
+
+
+2022-03-15 17:24:04 +0800 b63bc80
+
+    add books for fm
+
+
+
+
+2022-03-14 14:27:47 +0800 950e911
+
+    eda intro
+
+
+
+
+2022-03-11 17:29:14 +0800 2dc4201
+
+    update fm in arch: todo fm in eda book
+
+
+
+
+2022-03-11 15:10:23 +0800 0413ee8
+
+    minor update fm mc
+
+
+
+
+2022-03-09 16:31:38 +0800 171cc93
+
+    fm
+
+
+
+
+2022-02-23 17:45:00 +0800 0a55064
+
+    todo: fm methods
+
+
+
+
+2022-02-17 13:22:33 +0800 94d1618
+
+    gem5 archs and o3cpu stages
+
+
+
+
+2022-02-16 14:41:53 +0800 cdc42aa
+
+    minor correction
+
+
+
+
+2022-02-15 10:46:05 +0800 fd02892
+
+    gem5 kvm
+
+
+
+
+2022-02-15 10:27:20 +0800 a3b75d7
+
+    add a post: an armful of cheris
+
+
+
+
+2022-02-14 17:27:37 +0800 d80e577
+
+    gem5 kvm
+
+
+
+
+2022-02-14 16:31:43 +0800 e41c4e5
+
+    tweak
+
+
+
+
+2022-02-14 16:29:24 +0800 06a9b01
+
+    pros for cheri
+
+
+
+
+2022-02-14 16:25:54 +0800 bf1fdd1
+
+    msrc: cheri 43% -- 70%
+
+
+
+
+2022-02-14 16:19:57 +0800 4a175a0
+
+    add link for cheri intro, from MSRC
+
+
+
+
+2022-02-14 16:19:09 +0800 e7cfd13
+
+    add link for cheri intro
+
+
+
+
+2022-02-14 15:35:22 +0800 e384c64
+
+    heap protection on win 8/8.1
+
+
+
+
+2022-02-14 15:05:05 +0800 1051fb9
+
+    windows heap protection
+
+
+
+
+2022-02-14 11:54:59 +0800 1d77e5d
+
+    todo: type confusing in cheri
+
+
+
+
+2022-02-14 11:33:39 +0800 1ebe420
+
+    todo cheri cfi
+
+
+
+
+2022-02-14 11:03:59 +0800 a65c645
+
+    add command checksec/objdump
+
+
+
+
+2022-02-14 10:58:30 +0800 bbea0b8
+
+    done relro: compilation options
+
+
+
+
+2022-02-14 10:32:25 +0800 b004b66
+
+    todo relro
+
+
+
+
+2022-02-10 17:12:52 +0800 98895ff
+
+    native client
+
+
+
+
+2022-02-08 17:37:45 +0800 2603508
+
+    countermeasures
+
+
+
+
+2022-02-08 15:33:21 +0800 bac7bce
+
+    problem definition -- micro arch channels
+
+
+
+
+2022-02-08 11:00:29 +0800 50dbd04
+
+    fence.t
+
+
+
+
+2022-02-08 10:44:26 +0800 f7e8c6d
+
+    move spectres to attacks
+
+
+
+
+2022-02-08 10:42:34 +0800 da59a0b
+
+    todo side-channel attacks/defences
+
+
+
+
+2022-02-07 16:56:34 +0800 7844c9f
+
+    proposed features
+
+
+
+
+2022-02-07 16:40:20 +0800 0749153
+
+    add iopmp
+
+
+
+
+2022-01-29 13:19:06 +0800 2bf0571
+
+    riscv-sail structure
+
+
+
+
+2022-01-28 16:57:33 +0800 1c0b137
+
+    sail riscv
+
+
+
+
+2022-01-25 17:37:35 +0800 ddb3dce
+
+    sail files
+
+
+
+
+2022-01-25 14:56:07 +0800 2dca19e
+
+    add sail
+
+
+
+
+2022-01-18 16:40:48 +0800 a0e9318
+
+    todo spectre variants
+
+
+
+
+2022-01-18 16:31:42 +0800 c177ec1
+
+    todo safemem
+
+
+
+
+2022-01-17 16:46:44 +0800 dcb132f
+
+    move califorms to asan
+
+
+
+
+2022-01-17 16:45:56 +0800 e43ac18
+
+    califorms
+
+
+
+
+2022-01-17 13:43:27 +0800 2d90433
+
+    asan
+
+
+
+
+2022-01-17 10:00:15 +0800 e02830d
+
+    ignore hugo.exe
+
+
+
+
+2022-01-10 10:18:38 +0800 e28f121
+
+    add hugo bin for windows
+
+
+
+
+2021-12-29 10:23:33 +0800 7d8077a
+
+    todo sysv
+
+
+
+
+2021-12-29 10:13:56 +0800 845d205
+
+    todo UVM notes
+
+
+
+
+2021-12-29 10:02:54 +0800 0ca1235
+
+    move rtl-v up
+
+
+
+
+2021-12-28 17:28:05 +0800 e849e7c
+
+    todo rtl v
+
+
+
+
+2021-12-28 15:58:32 +0800 d26cb42
+
+    obj cap
+
+
+
+
+2021-12-20 10:58:31 +0800 19b1eaf
+
+    cheri seal two types
+
+
+
+
+2021-12-10 09:12:24 +0800 441984f
+
+    move citations
+
+
+
+
+2021-12-08 09:50:41 +0800 1fb01b2
+
+    riscv term hart, hw threads
+
+
+
+
+2021-12-06 16:57:15 +0800 e6b7191
+
+    answers for questions in rigorous
+
+
+
+
+2021-12-06 16:26:55 +0800 8c8c92a
+
+    new fm in arch'
+
+
+
+
+2021-12-06 13:58:55 +0800 7a97aa4
+
+    ask fm in isa and fm in eda
+
+
+
+
+2021-12-06 12:56:16 +0800 8756772
+
+    rigorous
+
+
+
+
+2021-12-06 11:21:27 +0800 e0c43a7
+
+    full name of capability
+
+
+
+
+2021-12-06 11:20:13 +0800 7035438
+
+    add 2019 rigorous links
+
+
+
+
+2021-12-06 10:44:14 +0800 969f932
+
+    cap vs acl
+
+
+
+
+2021-12-06 10:43:54 +0800 139a9d3
+
+    add backup of hugo binaries and src
+
+
+
+
+2021-12-06 10:04:43 +0800 d742256
+
+    add confused authority.
+
+a program holds two or more authorities, can be mis-used for non-intentional design
+
+
+
+2021-12-03 11:31:12 +0800 343e0c6
+
+    update background
+
+
+
+
+2021-12-03 11:08:52 +0800 7ebd162
+
+    add rigorous
+
+
+
+
+2021-12-03 10:56:53 +0800 4932c59
+
+    update overview, 2019-sp rigorous
+
+
+
+
+2021-11-19 17:29:01 +0800 10ce7b6
+
+    cornucopia
+
+
+
+
+2021-11-19 16:23:56 +0800 853a4ac
+
+    sweep optimization
+
+
+
+
+2021-11-19 13:15:45 +0800 a8f6dbe
+
+    rename
+
+
+
+
+2021-09-05 02:31:58 -0700 e92d762
+
+    todo: v2x
+
+
+
+
+2021-09-05 02:31:13 -0700 e8ebbf7
+
+    todo: autonomous driving
+
+
+
+
+2021-09-05 02:28:32 -0700 de76876
+
+    add some vendors
+
+
+
+
+2021-08-31 10:01:25 -0700 8a01182
+
+    into ai chips
+
+
+
+
+2021-08-31 09:22:56 -0700 a60fca6
+
+    cpu, gpu, fpga, asic
+
+
+
+
+2021-08-31 08:56:12 -0700 4799d2e
+
+    add ai chips
+
+
+
+
+2021-08-31 08:49:36 -0700 897bd06
+
+    add ai/ml
+
+
+
+
+2021-08-28 22:09:30 -0700 1983802
+
+    todo: FreeRTOS impl
+
+
+
+
+2021-08-28 22:06:30 -0700 fbaa0e2
+
+    rtos fundamentals in FreeRTOS site
+
+
+
+
+2021-08-28 21:37:10 -0700 b34c1df
+
+    add rtos; move dinosaur to basics
+
+
+
+
+2021-08-07 18:47:44 -0700 3a615e7
+
+    add note: book/ tab: the links to books reading notes
+
+
+
+
+2021-08-07 18:45:31 -0700 f6f9eff
+
+    todo cpi
+
+
+
+
+2021-08-07 18:45:02 -0700 f46bacf
+
+    book shelf link
+
+
+
+
+2021-07-19 00:01:25 -0700 d71f473
+
+    todo nested kernel
+
+
+
+
+2021-07-18 23:49:11 -0700 4386d89
+
+    todo BGI evaluation
+
+
+
+
+2021-07-18 23:46:16 -0700 d4ab43b
+
+    a list of apps for priv sep
+
+
+
+
+2021-07-18 22:16:20 -0700 54c26aa
+
+    todo bell-lapadula biba etc
+
+
+
+
+2021-07-17 20:11:58 -0700 0c95ad9
+
+    openssl with ERIM, overhead vs SFI with intel MPX
+
+
+
+
+2021-07-17 19:48:33 -0700 ddc6ed7
+
+    todo ERIM mpx.
+
+
+
+
+2021-07-17 18:29:08 -0700 ba9f957
+
+    softbound metadata
+
+
+
+
+2021-07-17 18:22:09 -0700 9c30786
+
+    softbound
+
+
+
+
+2021-07-17 17:32:26 -0700 9638986
+
+    todo in cets
+
+
+
+
+2021-07-17 17:31:40 -0700 c3fa5f8
+
+    CETS: function call: arguments extended with key/locks.
+
+
+
+
+2021-07-17 17:22:48 -0700 3aec77f
+
+    lock and key in CETS
+
+
+
+
+2021-07-17 16:16:55 -0700 c5817bd
+
+    overview CETS
+
+
+
+
+2021-07-17 12:28:06 -0700 47cdc86
+
+    hardbound
+
+
+
+
+2021-07-14 23:04:37 -0700 36b2cd2
+
+    cets: valgrind 10x overhead
+
+but no dangling pointers to reallocated data location
+
+
+
+2021-07-14 22:49:56 -0700 16fb9cb
+
+    todo cets temporal
+
+
+
+
+2021-07-14 09:07:02 -0700 5cf4d5a
+
+    cnspp: 概念联系，本书内容
+
+
+
+
+2021-07-14 08:55:38 -0700 7982797
+
+    概念
+
+
+
+
+2021-07-14 08:43:27 -0700 5abfb76
+
+    a list of reading notes
+
+
+
+
+2021-07-14 08:37:56 -0700 d75dee0
+
+    add a book
+
+
+
+
+2021-07-14 08:34:43 -0700 14e3050
+
+    todo: 课本复习：网络安全‘
+
+
+
+
 2021-07-14 08:34:23 -0700 920b6f8
 
     todo cherivoke
