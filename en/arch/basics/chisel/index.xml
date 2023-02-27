@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chisel on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/arch/basics/chisel/</link>
+    <description>Recent content in Chisel on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Sep 2022 09:46:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/arch/basics/chisel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

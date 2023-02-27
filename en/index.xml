@@ -12,10 +12,10 @@
     
     <item>
       <title>BOGO: Buy Spatial Memory Safety, Get Temporal Memory Safety (Almost) Free</title>
-      <link>https://cnlelema.github.io/memo/en/arch/basics/x86/mpx/bogo/</link>
+      <link>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/mpx/bogo/</link>
       <pubDate>Sat, 12 Oct 2019 20:29:22 -0400</pubDate>
       
-      <guid>https://cnlelema.github.io/memo/en/arch/basics/x86/mpx/bogo/</guid>
+      <guid>https://cnlelema.github.io/memo/en/mem-safe/ptr-meta/mpx/bogo/</guid>
       <description>Reference 1
  LLVM MPX (BOGO)  Q&amp;amp;A How to determine the size of object? How to store the bound info in MPX? How to do bound checking? How to choose the instrumentation point? A Map from instruction to the pointer it want to access? Reference 1 Overview A module pass: class llmpx: public ModulePass runOnModule(Module &amp;amp;) Methods: mpxPass(Module &amp;amp;) harden_cfi(Module &amp;amp;) create_global_constants(Module &amp;amp;) collect_safe_access(Module &amp;amp;) transform_functions(Module &amp;amp;) transform_global(Module &amp;amp;)</description>
     </item>

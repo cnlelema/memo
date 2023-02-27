@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://cnlelema.github.io/memo/zh/logics/book-soft/v1-lf/",
+	"title": "第一卷 逻辑基础",
+	"tags": [],
+	"description": "",
+	"content": " Preface Overview 这一卷介绍三个内容：\n 用于阐述和判定程序特性的基本的逻辑工具 如何使用推理辅助器来构造严密的逻辑语句 函数式编程（既作为一个简化程序分析的编程工具，也是一个计算机编程与逻辑学之间的桥梁）  "
+},
+{
 	"uri": "https://cnlelema.github.io/memo/zh/sys-sec/security-pol/",
 	"title": "安全策略",
 	"tags": [],
@@ -16,6 +23,13 @@
 {
 	"uri": "https://cnlelema.github.io/memo/zh/categories/",
 	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://cnlelema.github.io/memo/zh/logics/",
+	"title": "Logics",
 	"tags": [],
 	"description": "",
 	"content": ""

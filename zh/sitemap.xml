@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cnlelema.github.io/memo/zh/logics/book-soft/v1-lf/</loc>
+    <lastmod>2022-12-14T09:35:55+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/logics/book-soft/v1-lf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/logics/book-soft/v1-lf/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cnlelema.github.io/memo/zh/sys-sec/security-pol/</loc>
     <lastmod>2019-08-12T23:54:26-04:00</lastmod>
     <xhtml:link
@@ -53,6 +68,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://cnlelema.github.io/memo/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cnlelema.github.io/memo/zh/logics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cnlelema.github.io/memo/en/logics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cnlelema.github.io/memo/zh/logics/"
                 />
   </url>
   

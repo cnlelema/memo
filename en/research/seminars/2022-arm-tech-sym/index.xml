@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 Arm Tech Symposia on Lele&#39;s Memo</title>
+    <link>https://cnlelema.github.io/memo/en/research/seminars/2022-arm-tech-sym/</link>
+    <description>Recent content in 2022 Arm Tech Symposia on Lele&#39;s Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 Nov 2022 17:55:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/en/research/seminars/2022-arm-tech-sym/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

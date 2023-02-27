@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>第一卷 逻辑基础 on 乐乐的笔记</title>
+    <link>https://cnlelema.github.io/memo/zh/logics/book-soft/v1-lf/</link>
+    <description>Recent content in 第一卷 逻辑基础 on 乐乐的笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 29 Apr 2021 00:31:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://cnlelema.github.io/memo/zh/logics/book-soft/v1-lf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

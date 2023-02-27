@@ -1,565 +1,1402 @@
 
-2022-03-25 16:38:02 +0800 aa62528
+2023-02-27 20:37:55 +0800 7b4e073
+
+    todo capmode in cheri
+
+
+
+
+2023-02-27 20:33:24 +0800 e85d85e
+
+    verilog module syntax
+
+
+
+
+2023-02-27 20:24:17 +0800 fc80712
+
+    UPEC: auto derived model. But how?
+
+
+
+
+2023-02-23 11:35:00 +0800 ea5270c
+
+    todo upec continuing
+
+
+
+
+2023-02-22 21:15:40 +0800 41c8450
+
+    ibex and cheri-ibex notes
+
+learn verilog module
+
+
+
+2023-02-22 12:01:18 +0800 35e107b
+
+    Merge branch 'master'
+
+
+
+
+2023-02-22 12:00:55 +0800 7cc9f90
+
+    updates: ibex todo; move sonic-boom to riscv/sonic-boom; verilog notes
+
+
+
+
+2023-02-20 14:19:21 +0800 a747d96
+
+    cheriot
+
+
+
+
+2023-02-16 21:17:23 +0800 9e9831f
+
+    todo upec cheri iot
+
+
+
+
+2023-02-14 11:17:34 +0800 41544c6
+
+    upec -- ctl -- path quantifiers and linear-time operators
+
+
+
+
+2023-02-08 17:03:15 +0800 3f589f1
+
+    updates - update Readme.md - update default, use ## title - add j-ext for riscv - todo upec paper for detecting side channels in arch using fm - update asan notes
+
+
+
+
+2023-02-08 10:04:33 +0800 a08ef48
+
+    reorder docs:
+
+- move mpk/mte/mpx/ptr-auth to mem-safe subfolders (mem-tag/ptr-meta)
+- add intel ccc to ptr-meta
+
+
+
+2023-02-07 12:06:40 +0800 9a77fcc
+
+    add symbols, math 220 duality
+
+
+
+
+2023-02-07 11:23:23 +0800 cf94ce8
+
+    math 220 update; sf class link
+
+
+
+
+2023-02-07 10:53:35 +0800 02116eb
+
+    add video links
+
+
+
+
+2023-02-07 10:49:12 +0800 05bedb2
+
+    add class links from peking: sa and sf
+
+
+
+
+2023-02-02 17:56:26 +0800 9ae406e
+
+    software foudation class from xiong yingfei
+
+
+
+
+2023-01-31 15:48:04 +0800 a367a6e
+
+    hoare triples; boolean exprs;
+
+
+
+
+2023-01-29 14:58:28 +0800 20855f4
+
+    intro cheri
+
+
+
+
+2023-01-29 13:59:36 +0800 6cb6383
+
+    inductive reasoning vs deductive reasoning, examples
+
+
+
+
+2023-01-29 10:22:33 +0800 565ed64
+
+    fm class: equality, func evaluation
+
+
+
+
+2023-01-20 18:10:45 +0800 0cf68d7
+
+    logics: class notes
+
+- source of knowledge, authority, inductive, deductive;
+- type system. -- deductive reasoning.
+- foundation of mathematics: incompleteness theorem. halting problem. undecidable semantics properties.
+    - Godel, Turing, Rice.
+- math 220, formal methods, pepperdine university.
+    - textual substitution (t.s.), remove unnecessary parenthesis(r.u.p)
+    - inference rule: a horizontal line
+    - four laws of equality: reflex. symm, trans, leib. (common sense)
+    - todo func evaluation
+
+
+
+2023-01-20 18:07:07 +0800 e078eec
+
+    links for class at youtube
+
+
+
+
+2023-01-03 10:38:07 +0800 9a57621
+
+    kami, monads, todoing
+
+
+
+
+2022-12-23 12:14:01 +0800 1ce1cf8
+
+    islaris
+
+
+
+
+2022-12-22 15:25:30 +0800 ec2e85b
+
+    islaris todo, full model
+
+
+
+
+2022-12-20 09:52:37 +0800 9b73ec7
+
+    spatial conjunction P*Q
+
+
+
+
+2022-12-19 15:35:51 +0800 f33f887
+
+    links for symbols
+
+
+
+
+2022-12-19 15:17:00 +0800 58a8e0b
+
+    separation logic: local vs global
+
+
+
+
+2022-12-19 10:47:46 +0800 e96791b
+
+    separation logic: local reasoning
+
+
+
+
+2022-12-19 10:34:27 +0800 adee870
+
+    todo separation logic
+
+
+
+
+2022-12-16 14:19:20 +0800 e8b0a7e
+
+    verilog vs chisel
+
+
+
+
+2022-12-15 13:24:21 +0800 fd9f87d
+
+    monad notes. type constructors Maybe.
+
+
+
+
+2022-12-14 15:38:53 +0800 0bb9cd6
+
+    todo scade
+
+
+
+
+2022-12-14 15:31:26 +0800 de14d2b
+
+    order cert
+
+
+
+
+2022-12-14 15:24:54 +0800 8cf107e
+
+    hugo commands
+
+
+
+
+2022-12-14 09:35:55 +0800 b58b5c6
+
+    Chisel;logic foundation; monads; x86-TSO HOL4
+
+- chisel: Type parameters. def myMux [T<:Data](sel: Bool, tPath: T, fPath: T): T = {...}
+- sf: reading preface and translate to Chinese
+- monads: moved to a standalone page, todo: add examples;
+- HOL4 and tso-x86 proving from P. Swell.
+
+
+
+2022-12-07 14:30:46 +0800 73071a7
+
+    update liveness/safety/fairness
+
+
+
+
+2022-12-06 14:56:24 +0800 4e2816a
+
+    orders in logics
+
+
+
+
+2022-12-06 14:50:48 +0800 1934303
+
+    move fm-in-arch to logics
+
+
+
+
+2022-12-05 09:36:25 +0800 c53b66e
+
+    todo cert: asil, cc, psa
+
+
+
+
+2022-11-29 14:50:05 +0800 b3e94f6
+
+    todo camkes
+
+
+
+
+2022-11-25 17:43:56 +0800 91a6ae7
+
+    add reference
+
+
+
+
+2022-11-25 17:42:49 +0800 71b6f89
+
+    update fm: Verifable C restrictions on C lang -- more strict than CompCert Clight
+
+
+
+
+2022-11-25 10:47:44 +0800 53bcb3e
+
+    todo cert 26262;
+
+
+
+
+2022-11-25 10:45:04 +0800 5f6e791
+
+    todo ada
+
+
+
+
+2022-11-25 10:43:48 +0800 af207b5
+
+    todo cap encoding mode
+
+
+
+
+2022-11-22 15:41:08 +0800 29239f3
+
+    cheri isa updates: sail description, content ordering
+
+
+
+
+2022-11-22 15:36:05 +0800 8da40c9
+
+    update cheri regs for mips
+
+
+
+
+2022-11-22 09:47:27 +0800 1f9c9d9
+
+    todo sail description for cheri isa
+
+
+
+
+2022-11-21 13:58:44 +0800 bf3d7bd
+
+    story link
+
+
+
+
+2022-11-21 09:39:02 +0800 45ead7f
+
+    cheri bin ext ongoing
+
+
+
+
+2022-11-21 09:35:50 +0800 148b2c0
+
+    todo: cheri on arm riscv mips, and x86
+
+
+
+
+2022-11-11 10:41:23 +0800 e041ad3
+
+    add sec eng book;
+
+
+
+
+2022-11-11 09:27:14 +0800 7985103
+
+    fix link and title
+
+
+
+
+2022-11-11 09:21:24 +0800 c18b36e
+
+    move book shelf to page books/shelf/
+
+
+
+
+2022-11-09 17:28:38 +0800 585fc30
+
+    add classes links
+
+
+
+
+2022-11-07 16:48:39 +0800 2e1cf9e
+
+    coq = Gallina + Tactics
+
+
+
+
+2022-11-07 12:34:14 +0800 4e43d90
+
+    add z3 as tool in logics;
+
+move coq/isabelle/kami to tools/
+
+
+
+2022-11-07 10:04:30 +0800 2d45d11
+
+    add sf video link;
+
+add pump notes
+
+
+
+2022-10-09 11:44:02 +0800 657bf30
+
+    update watchdog
+
+
+
+
+2022-10-09 11:30:32 +0800 5b69ed4
+
+    watch dog notes
+
+
+
+
+2022-10-08 14:29:19 +0800 72fcee9
+
+    update sel4 notes: priv modes and wcet
+
+
+
+
+2022-10-08 14:28:49 +0800 c25e743
+
+    add page: What’s the smallest variety of CHERI?
+
+
+
+
+2022-10-08 13:58:03 +0800 e37525a
+
+    add fpga page; systemv notes
+
+
+
+
+2022-09-30 10:14:55 +0800 8007b44
+
+    todo learn chisel
+
+
+
+
+2022-09-23 09:30:19 +0800 7ee3c17
+
+    todo chisel
+
+
+
+
+2022-09-19 08:53:06 +0800 d6a8d07
+
+    todo risc-v imp. dover coreguard
+
+
+
+
+2022-09-16 10:41:19 +0800 6f938ab
+
+    todo pump questions
+
+
+
+
+2022-09-16 10:39:40 +0800 7e70e1d
+
+    ignore files after extraction
+
+
+
+
+2022-07-20 09:49:21 +0800 343cd12
+
+    todo cfi bending
+
+
+
+
+2022-07-08 14:37:35 +0800 f22ba8b
+
+    data op done; todo cfi bending
+
+
+
+
+2022-07-08 13:23:33 +0800 31ddf4d
+
+    todo dop
+
+
+
+
+2022-07-08 11:13:51 +0800 afadf22
+
+    move jujutsu to jop
+
+
+
+
+2022-07-06 17:18:58 +0800 c77285b
+
+    memory consistency for parallel cores/programs;
+
+
+
+
+2022-07-06 14:34:03 +0800 581bf3d
+
+    reorder
+
+
+
+
+2022-07-06 14:32:50 +0800 4e20885
+
+    todo memory consistency
+
+
+
+
+2022-07-05 14:43:53 +0800 1a3c237
+
+    add c lang: setjump/longjump
+
+
+
+
+2022-07-04 10:02:20 +0800 b68ff09
+
+    minor update: Gem5 -> gem5
+
+
+
+
+2022-06-29 13:54:43 +0800 db785cf
+
+    full system todo
+
+
+
+
+2022-06-29 10:38:04 +0800 f4856ff
+
+    update gem5 ruby: in SLICC
+
+
+
+
+2022-06-29 10:26:46 +0800 fa34a21
+
+    gem5 ruby todo
+
+
+
+
+2022-06-27 10:29:50 +0800 5ab8e32
+
+    notes on git rebase
+
+
+
+
+2022-06-24 17:21:02 +0800 762bd88
+
+    concrete semantics ongoing; add code reasoing fundmtls
+
+
+
+
+2022-06-24 15:47:08 +0800 d08c01d
+
+    abstract exp of isabelle
+
+
+
+
+2022-06-24 14:35:04 +0800 82d4247
+
+    add latex match symbols
+
+
+
+
+2022-06-23 11:12:17 +0800 411558f
+
+    isabelle proof
+
+
+
+
+2022-06-22 16:45:24 +0800 20b2b45
+
+    sail monad example todo
+
+
+
+
+2022-06-22 16:30:53 +0800 e37ebba
+
+    sail isabelle
+
+
+
+
+2022-06-22 15:12:56 +0800 f017b8f
+
+    update sail
+
+
+
+
+2022-06-13 17:59:48 +0800 e818302
+
+    added lattice
+
+
+
+
+2022-06-13 13:53:22 +0800 89be27b
+
+    pump patents
+
+
+
+
+2022-06-13 10:08:55 +0800 95f684b
+
+    update provenance
+
+
+
+
+2022-06-02 16:42:44 +0800 a0004d7
+
+    update mmp
+
+
+
+
+2022-06-02 14:32:36 +0800 e432bdf
+
+    todo mondrian tag
+
+
+
+
+2022-06-02 13:57:13 +0800 a53ce83
+
+    safe mem
+
+
+
+
+2022-06-02 10:32:55 +0800 3b4b50b
+
+    todo safemem: ecc for memory safety(leaks/corruption)
+
+
+
+
+2022-04-27 11:26:30 +0800 da40d09
+
+    command moved
+
+
+
+
+2022-04-27 11:25:59 +0800 719cda5
+
+    another git command
+
+
+
+
+2022-04-27 11:07:00 +0800 eb5208e
+
+     a git command
+
+
+
+
+2022-04-22 09:57:28 +0800 f9ca8f8
+
+    remove out-context (deinit)
+
+
+
+
+2022-04-22 09:43:33 +0800 cd6699b
+
+    update time protection
+
+
+
+
+2022-04-21 10:14:27 +0800 c055bf3
+
+    move time protection to a single page
+
+
+
+
+2022-04-21 10:01:13 +0800 9608de2
+
+    update out-context;
+
+
+
+
+2022-04-21 09:59:43 +0800 8d53a97
+
+    update sel4; move time protection to sel4 folder
+
+
+
+
+2022-04-12 06:52:21 +0800 9c796ec
+
+    update time prot
+
+
+
+
+2022-04-08 10:03:14 +0800 7daa077
+
+    add arm instructions to reset/partition
+
+
+
+
+2022-04-07 10:32:54 +0800 ca7f2de
+
+    update x86 instructions to partition/reset for time protection
+
+
+
+
+2022-04-01 10:32:09 +0800 aed8101
+
+    uarch: time protection
+
+
+
+
+2022-03-30 19:08:20 +0800 0168391
+
+    sel4 design process
+
+
+
+
+2022-03-29 19:44:12 +0800 37fd273
+
+    sel4 overview
+
+
+
+
+2022-03-29 14:42:40 +0800 3aa9fcd
+
+    update sel4/ time protection
+
+
+
+
+2022-03-29 11:33:01 +0800 748ad05
+
+    todo sel4; update oc
+
+
+
+
+2022-03-29 07:59:03 +0800 96e3124
+
+    update sonic boom learning notes
+
+
+
+
+2022-03-28 11:03:15 +0800 7602c9f
+
+    plans
+
+
+
+
+2022-03-28 11:00:13 +0800 2fd5cfb
+
+    add todo list
+
+
+
+
+2022-03-28 10:52:37 +0800 e898985
+
+    update arch order; add sonicboom/c910 todo
+
+
+
+
+2022-03-25 16:38:02 +0800 9f9075f
 
     update outcontext
 
 
 
 
-2022-03-25 15:53:18 +0800 936c114
+2022-03-25 15:53:18 +0800 eb28579
 
     add out-context as submodules
 
 
 
 
-2022-03-25 13:26:09 +0800 bd1f318
+2022-03-25 13:26:09 +0800 c8a24c5
 
     update mte link; fm smc todo
 
 
 
 
-2022-03-24 15:21:11 +0800 ae36723
+2022-03-24 15:21:11 +0800 da38e95
 
     automaton --> symbolic model checking
 
 
 
 
-2022-03-24 14:31:46 +0800 98fd81b
+2022-03-24 14:31:46 +0800 dded9ae
 
     update
 
 
 
 
-2022-03-24 11:38:26 +0800 1bb8eaa
+2022-03-24 11:38:26 +0800 eabc14b
 
     update language history, LTL, CTL, CCS, TLA
 
 
 
 
-2022-03-24 11:31:22 +0800 63d543f
+2022-03-24 11:31:22 +0800 5b2be60
 
     eda standard: PSL fm language
 
 
 
 
-2022-03-24 11:26:21 +0800 49844d6
+2022-03-24 11:26:21 +0800 c517489
 
     update reference chps
 
 
 
 
-2022-03-24 11:24:21 +0800 c796f84
+2022-03-24 11:24:21 +0800 3772f11
 
     rename logic-v to languages
 
 
 
 
-2022-03-24 09:52:14 +0800 801b17e
+2022-03-24 09:52:14 +0800 7e3de34
 
     add filecheck script
 
 
 
 
-2022-03-22 14:27:00 +0800 9aa053e
+2022-03-22 14:27:00 +0800 c485a0f
 
     update out of context
 
 
 
 
-2022-03-22 13:26:32 +0800 4560132
+2022-03-22 13:26:32 +0800 cd8aefc
 
     vivado tip
 
 
 
 
-2022-03-22 13:21:08 +0800 759cc08
+2022-03-22 13:21:08 +0800 ed1ff03
 
     add a link of eda-fm
 
 
 
 
-2022-03-22 12:35:10 +0800 aa5d002
+2022-03-22 12:35:10 +0800 30c27d5
 
     fm ver in eda: properties to verify
 
 
 
 
-2022-03-21 11:00:01 +0800 922577d
+2022-03-21 11:00:01 +0800 84e07f9
 
     symbolic verification example
 
 
 
 
-2022-03-21 10:27:06 +0800 1c27da6
+2022-03-21 10:27:06 +0800 66df03d
 
     todo: fm property v
 
 
 
 
-2022-03-21 10:25:06 +0800 fc2ee7e
+2022-03-21 10:25:06 +0800 b0cc3dd
 
     digital sim in logic verification
 
 
 
 
-2022-03-21 10:17:06 +0800 149ca7a
+2022-03-21 10:17:06 +0800 170490e
 
     revise headings
 
 
 
 
-2022-03-21 10:15:46 +0800 9ed0bed
+2022-03-21 10:15:46 +0800 0cca8b7
 
     logic verification: languages, fm not so much
 
 
 
 
-2022-03-17 09:29:05 +0800 77f8355
+2022-03-17 09:29:05 +0800 4849441
 
     examples of PSL temporal
 
 
 
 
-2022-03-16 16:02:02 +0800 5c32034
+2022-03-16 16:02:02 +0800 e5f1b5c
 
     fm in eda: c and rtl functionally correct
 
 
 
 
-2022-03-16 15:35:40 +0800 bd1504c
+2022-03-16 15:35:40 +0800 33b0e9d
 
     eda book reading
 
 
 
 
-2022-03-15 17:24:04 +0800 b63bc80
+2022-03-15 17:24:04 +0800 9371262
 
     add books for fm
 
 
 
 
-2022-03-14 14:27:47 +0800 950e911
+2022-03-14 14:27:47 +0800 8e304b2
 
     eda intro
 
 
 
 
-2022-03-11 17:29:14 +0800 2dc4201
+2022-03-11 17:29:14 +0800 ba99774
 
     update fm in arch: todo fm in eda book
 
 
 
 
-2022-03-11 15:10:23 +0800 0413ee8
+2022-03-11 15:10:23 +0800 77b63ab
 
     minor update fm mc
 
 
 
 
-2022-03-09 16:31:38 +0800 171cc93
+2022-03-09 16:31:38 +0800 1a0d8fa
 
     fm
 
 
 
 
-2022-02-23 17:45:00 +0800 0a55064
+2022-02-23 17:45:00 +0800 a8468a6
 
     todo: fm methods
 
 
 
 
-2022-02-17 13:22:33 +0800 94d1618
+2022-02-17 13:22:33 +0800 57fede1
 
     gem5 archs and o3cpu stages
 
 
 
 
-2022-02-16 14:41:53 +0800 cdc42aa
+2022-02-16 14:41:53 +0800 faf3e94
 
     minor correction
 
 
 
 
-2022-02-15 10:46:05 +0800 fd02892
+2022-02-15 10:46:05 +0800 4372c54
 
     gem5 kvm
 
 
 
 
-2022-02-15 10:27:20 +0800 a3b75d7
+2022-02-15 10:27:20 +0800 2884030
 
     add a post: an armful of cheris
 
 
 
 
-2022-02-14 17:27:37 +0800 d80e577
+2022-02-14 17:27:37 +0800 f71145f
 
     gem5 kvm
 
 
 
 
-2022-02-14 16:31:43 +0800 e41c4e5
+2022-02-14 16:31:43 +0800 5bb6539
 
     tweak
 
 
 
 
-2022-02-14 16:29:24 +0800 06a9b01
+2022-02-14 16:29:24 +0800 75124c5
 
     pros for cheri
 
 
 
 
-2022-02-14 16:25:54 +0800 bf1fdd1
+2022-02-14 16:25:54 +0800 4790ffb
 
     msrc: cheri 43% -- 70%
 
 
 
 
-2022-02-14 16:19:57 +0800 4a175a0
+2022-02-14 16:19:57 +0800 0ea25da
 
     add link for cheri intro, from MSRC
 
 
 
 
-2022-02-14 16:19:09 +0800 e7cfd13
+2022-02-14 16:19:09 +0800 7b51e38
 
     add link for cheri intro
 
 
 
 
-2022-02-14 15:35:22 +0800 e384c64
+2022-02-14 15:35:22 +0800 4c29332
 
     heap protection on win 8/8.1
 
 
 
 
-2022-02-14 15:05:05 +0800 1051fb9
+2022-02-14 15:05:05 +0800 53e554f
 
     windows heap protection
 
 
 
 
-2022-02-14 11:54:59 +0800 1d77e5d
+2022-02-14 11:54:59 +0800 039f9cb
 
     todo: type confusing in cheri
 
 
 
 
-2022-02-14 11:33:39 +0800 1ebe420
+2022-02-14 11:33:39 +0800 8481e1c
 
     todo cheri cfi
 
 
 
 
-2022-02-14 11:03:59 +0800 a65c645
+2022-02-14 11:03:59 +0800 5f9f818
 
     add command checksec/objdump
 
 
 
 
-2022-02-14 10:58:30 +0800 bbea0b8
+2022-02-14 10:58:30 +0800 f3d6041
 
     done relro: compilation options
 
 
 
 
-2022-02-14 10:32:25 +0800 b004b66
+2022-02-14 10:32:25 +0800 ccd825b
 
     todo relro
 
 
 
 
-2022-02-10 17:12:52 +0800 98895ff
+2022-02-10 17:12:52 +0800 0945a6c
 
     native client
 
 
 
 
-2022-02-08 17:37:45 +0800 2603508
+2022-02-08 17:37:45 +0800 0c4dbbd
 
     countermeasures
 
 
 
 
-2022-02-08 15:33:21 +0800 bac7bce
+2022-02-08 15:33:21 +0800 2d3cce8
 
     problem definition -- micro arch channels
 
 
 
 
-2022-02-08 11:00:29 +0800 50dbd04
+2022-02-08 11:00:29 +0800 9931464
 
     fence.t
 
 
 
 
-2022-02-08 10:44:26 +0800 f7e8c6d
+2022-02-08 10:44:26 +0800 b138e82
 
     move spectres to attacks
 
 
 
 
-2022-02-08 10:42:34 +0800 da59a0b
+2022-02-08 10:42:34 +0800 d5ac076
 
     todo side-channel attacks/defences
 
 
 
 
-2022-02-07 16:56:34 +0800 7844c9f
+2022-02-07 16:56:34 +0800 5f57902
 
     proposed features
 
 
 
 
-2022-02-07 16:40:20 +0800 0749153
+2022-02-07 16:40:20 +0800 5c21f65
 
     add iopmp
 
 
 
 
-2022-01-29 13:19:06 +0800 2bf0571
+2022-01-29 13:19:06 +0800 05a727c
 
     riscv-sail structure
 
 
 
 
-2022-01-28 16:57:33 +0800 1c0b137
+2022-01-28 16:57:33 +0800 b1e2ede
 
     sail riscv
 
 
 
 
-2022-01-25 17:37:35 +0800 ddb3dce
+2022-01-25 17:37:35 +0800 0fedf7f
 
     sail files
 
 
 
 
-2022-01-25 14:56:07 +0800 2dca19e
+2022-01-25 14:56:07 +0800 3bb5d47
 
     add sail
 
 
 
 
-2022-01-18 16:40:48 +0800 a0e9318
+2022-01-18 16:40:48 +0800 4e5e21c
 
     todo spectre variants
 
 
 
 
-2022-01-18 16:31:42 +0800 c177ec1
+2022-01-18 16:31:42 +0800 e9f74d6
 
     todo safemem
 
 
 
 
-2022-01-17 16:46:44 +0800 dcb132f
+2022-01-17 16:46:44 +0800 2ae0917
 
     move califorms to asan
 
 
 
 
-2022-01-17 16:45:56 +0800 e43ac18
+2022-01-17 16:45:56 +0800 9f8d1fb
 
     califorms
 
 
 
 
-2022-01-17 13:43:27 +0800 2d90433
+2022-01-17 13:43:27 +0800 252bc04
 
     asan
 
 
 
 
-2022-01-17 10:00:15 +0800 e02830d
+2022-01-17 10:00:15 +0800 775586c
 
     ignore hugo.exe
 
 
 
 
-2022-01-10 10:18:38 +0800 e28f121
+2022-01-10 10:18:38 +0800 0f820b2
 
     add hugo bin for windows
 
 
 
 
-2021-12-29 10:23:33 +0800 7d8077a
+2021-12-29 10:23:33 +0800 a343767
 
     todo sysv
 
 
 
 
-2021-12-29 10:13:56 +0800 845d205
+2021-12-29 10:13:56 +0800 9d385e0
 
     todo UVM notes
 
 
 
 
-2021-12-29 10:02:54 +0800 0ca1235
+2021-12-29 10:02:54 +0800 9bd091d
 
     move rtl-v up
 
 
 
 
-2021-12-28 17:28:05 +0800 e849e7c
+2021-12-28 17:28:05 +0800 d91850f
 
     todo rtl v
 
 
 
 
-2021-12-28 15:58:32 +0800 d26cb42
+2021-12-28 15:58:32 +0800 68cf431
 
     obj cap
 
 
 
 
-2021-12-20 10:58:31 +0800 19b1eaf
+2021-12-20 10:58:31 +0800 b65dbe1
 
     cheri seal two types
 
 
 
 
-2021-12-10 09:12:24 +0800 441984f
+2021-12-10 09:12:24 +0800 142816d
 
     move citations
 
 
 
 
-2021-12-08 09:50:41 +0800 1fb01b2
+2021-12-08 09:50:41 +0800 8054f25
 
     riscv term hart, hw threads
 
 
 
 
-2021-12-06 16:57:15 +0800 e6b7191
+2021-12-06 16:57:15 +0800 3feed99
 
     answers for questions in rigorous
 
 
 
 
-2021-12-06 16:26:55 +0800 8c8c92a
+2021-12-06 16:26:55 +0800 47f7a33
 
     new fm in arch'
 
 
 
 
-2021-12-06 13:58:55 +0800 7a97aa4
+2021-12-06 13:58:55 +0800 09226bf
 
     ask fm in isa and fm in eda
 
 
 
 
-2021-12-06 12:56:16 +0800 8756772
+2021-12-06 12:56:16 +0800 a9d5491
 
     rigorous
 
 
 
 
-2021-12-06 11:21:27 +0800 e0c43a7
+2021-12-06 11:21:27 +0800 ece71d2
 
     full name of capability
 
 
 
 
-2021-12-06 11:20:13 +0800 7035438
+2021-12-06 11:20:13 +0800 a9b4141
 
     add 2019 rigorous links
 
 
 
 
-2021-12-06 10:44:14 +0800 969f932
+2021-12-06 10:44:14 +0800 1763ae2
 
     cap vs acl
 
 
 
 
-2021-12-06 10:43:54 +0800 139a9d3
+2021-12-06 10:43:54 +0800 bfc826a
 
     add backup of hugo binaries and src
 
 
 
 
-2021-12-06 10:04:43 +0800 d742256
+2021-12-06 10:04:43 +0800 17cedf6
 
     add confused authority.
 
@@ -567,231 +1404,231 @@ a program holds two or more authorities, can be mis-used for non-intentional des
 
 
 
-2021-12-03 11:31:12 +0800 343e0c6
+2021-12-03 11:31:12 +0800 4f2b5a2
 
     update background
 
 
 
 
-2021-12-03 11:08:52 +0800 7ebd162
+2021-12-03 11:08:52 +0800 aa9c117
 
     add rigorous
 
 
 
 
-2021-12-03 10:56:53 +0800 4932c59
+2021-12-03 10:56:53 +0800 6c5b6c9
 
     update overview, 2019-sp rigorous
 
 
 
 
-2021-11-19 17:29:01 +0800 10ce7b6
+2021-11-19 17:29:01 +0800 9864654
 
     cornucopia
 
 
 
 
-2021-11-19 16:23:56 +0800 853a4ac
+2021-11-19 16:23:56 +0800 67245d6
 
     sweep optimization
 
 
 
 
-2021-11-19 13:15:45 +0800 a8f6dbe
+2021-11-19 13:15:45 +0800 8d4027a
 
     rename
 
 
 
 
-2021-09-05 02:31:58 -0700 e92d762
+2021-09-05 02:31:58 -0700 6f1c53d
 
     todo: v2x
 
 
 
 
-2021-09-05 02:31:13 -0700 e8ebbf7
+2021-09-05 02:31:13 -0700 ac30053
 
     todo: autonomous driving
 
 
 
 
-2021-09-05 02:28:32 -0700 de76876
+2021-09-05 02:28:32 -0700 b222d1a
 
     add some vendors
 
 
 
 
-2021-08-31 10:01:25 -0700 8a01182
+2021-08-31 10:01:25 -0700 ef8be13
 
     into ai chips
 
 
 
 
-2021-08-31 09:22:56 -0700 a60fca6
+2021-08-31 09:22:56 -0700 aa59d06
 
     cpu, gpu, fpga, asic
 
 
 
 
-2021-08-31 08:56:12 -0700 4799d2e
+2021-08-31 08:56:12 -0700 ad9ce43
 
     add ai chips
 
 
 
 
-2021-08-31 08:49:36 -0700 897bd06
+2021-08-31 08:49:36 -0700 4f5abf2
 
     add ai/ml
 
 
 
 
-2021-08-28 22:09:30 -0700 1983802
+2021-08-28 22:09:30 -0700 9a5027d
 
     todo: FreeRTOS impl
 
 
 
 
-2021-08-28 22:06:30 -0700 fbaa0e2
+2021-08-28 22:06:30 -0700 ca3e9a0
 
     rtos fundamentals in FreeRTOS site
 
 
 
 
-2021-08-28 21:37:10 -0700 b34c1df
+2021-08-28 21:37:10 -0700 b43582d
 
     add rtos; move dinosaur to basics
 
 
 
 
-2021-08-07 18:47:44 -0700 3a615e7
+2021-08-07 18:47:44 -0700 4fb3595
 
     add note: book/ tab: the links to books reading notes
 
 
 
 
-2021-08-07 18:45:31 -0700 f6f9eff
+2021-08-07 18:45:31 -0700 addba48
 
     todo cpi
 
 
 
 
-2021-08-07 18:45:02 -0700 f46bacf
+2021-08-07 18:45:02 -0700 845ac36
 
     book shelf link
 
 
 
 
-2021-07-19 00:01:25 -0700 d71f473
+2021-07-19 00:01:25 -0700 be7ebb8
 
     todo nested kernel
 
 
 
 
-2021-07-18 23:49:11 -0700 4386d89
+2021-07-18 23:49:11 -0700 3893622
 
     todo BGI evaluation
 
 
 
 
-2021-07-18 23:46:16 -0700 d4ab43b
+2021-07-18 23:46:16 -0700 56381aa
 
     a list of apps for priv sep
 
 
 
 
-2021-07-18 22:16:20 -0700 54c26aa
+2021-07-18 22:16:20 -0700 6d7ccdc
 
     todo bell-lapadula biba etc
 
 
 
 
-2021-07-17 20:11:58 -0700 0c95ad9
+2021-07-17 20:11:58 -0700 225703e
 
     openssl with ERIM, overhead vs SFI with intel MPX
 
 
 
 
-2021-07-17 19:48:33 -0700 ddc6ed7
+2021-07-17 19:48:33 -0700 bcc144b
 
     todo ERIM mpx.
 
 
 
 
-2021-07-17 18:29:08 -0700 ba9f957
+2021-07-17 18:29:08 -0700 6d55339
 
     softbound metadata
 
 
 
 
-2021-07-17 18:22:09 -0700 9c30786
+2021-07-17 18:22:09 -0700 4f10ce7
 
     softbound
 
 
 
 
-2021-07-17 17:32:26 -0700 9638986
+2021-07-17 17:32:26 -0700 f75d7ad
 
     todo in cets
 
 
 
 
-2021-07-17 17:31:40 -0700 c3fa5f8
+2021-07-17 17:31:40 -0700 658c51d
 
     CETS: function call: arguments extended with key/locks.
 
 
 
 
-2021-07-17 17:22:48 -0700 3aec77f
+2021-07-17 17:22:48 -0700 475aa07
 
     lock and key in CETS
 
 
 
 
-2021-07-17 16:16:55 -0700 c5817bd
+2021-07-17 16:16:55 -0700 7b522d5
 
     overview CETS
 
 
 
 
-2021-07-17 12:28:06 -0700 47cdc86
+2021-07-17 12:28:06 -0700 1bddc88
 
     hardbound
 
 
 
 
-2021-07-14 23:04:37 -0700 36b2cd2
+2021-07-14 23:04:37 -0700 92ca6e2
 
     cets: valgrind 10x overhead
 
@@ -799,469 +1636,469 @@ but no dangling pointers to reallocated data location
 
 
 
-2021-07-14 22:49:56 -0700 16fb9cb
+2021-07-14 22:49:56 -0700 18277b0
 
     todo cets temporal
 
 
 
 
-2021-07-14 09:07:02 -0700 5cf4d5a
+2021-07-14 09:07:02 -0700 38c517d
 
     cnspp: 概念联系，本书内容
 
 
 
 
-2021-07-14 08:55:38 -0700 7982797
+2021-07-14 08:55:38 -0700 d054577
 
     概念
 
 
 
 
-2021-07-14 08:43:27 -0700 5abfb76
+2021-07-14 08:43:27 -0700 be1aeae
 
     a list of reading notes
 
 
 
 
-2021-07-14 08:37:56 -0700 d75dee0
+2021-07-14 08:37:56 -0700 897bba5
 
     add a book
 
 
 
 
-2021-07-14 08:34:43 -0700 14e3050
+2021-07-14 08:34:43 -0700 f954410
 
     todo: 课本复习：网络安全‘
 
 
 
 
-2021-07-14 08:34:23 -0700 920b6f8
+2021-07-14 08:34:23 -0700 4991244
 
     todo cherivoke
 
 
 
 
-2021-07-13 13:24:55 -0700 fa3eb6b
+2021-07-13 13:24:55 -0700 a0ce322
 
     CHERIvoke
 
 
 
 
-2021-07-13 13:18:02 -0700 afb132c
+2021-07-13 13:18:02 -0700 de3f93d
 
     tweak title
 
 
 
 
-2021-07-13 13:17:09 -0700 acf359e
+2021-07-13 13:17:09 -0700 6165847
 
     todo cheri temporal
 
 
 
 
-2021-07-13 12:46:04 -0700 7b5a73a
+2021-07-13 12:46:04 -0700 21beb07
 
     one way to protect.
 
 
 
 
-2021-07-13 12:40:10 -0700 323bce2
+2021-07-13 12:40:10 -0700 2d90e0f
 
     wget vul intro.
 
 
 
 
-2021-07-13 12:20:05 -0700 c9772d3
+2021-07-13 12:20:05 -0700 c011518
 
     intro capsicum in harris; todo: challenge details.
 
 
 
 
-2021-07-13 11:51:19 -0700 155b036
+2021-07-13 11:51:19 -0700 f065ea5
 
     harris motivation (capweave).
 
 
 
 
-2021-07-13 11:39:08 -0700 17e0d86
+2021-07-13 11:39:08 -0700 493db8b
 
     move 2013 sp harris to cheri domain
 
 
 
 
-2021-07-13 10:34:39 -0700 125c70d
+2021-07-13 10:34:39 -0700 7fa2427
 
     todo; temporal
 
 
 
 
-2021-07-13 10:31:53 -0700 facd95b
+2021-07-13 10:31:53 -0700 6eb1a8e
 
     reorder cheri-domain
 
 
 
 
-2021-07-13 10:06:37 -0700 5907c79
+2021-07-13 10:06:37 -0700 b6e1765
 
     cheri reorder; todo
 
 
 
 
-2021-07-13 09:57:08 -0700 5135060
+2021-07-13 09:57:08 -0700 42a4820
 
     rename file
 
 
 
 
-2021-07-13 09:54:28 -0700 92f5f97
+2021-07-13 09:54:28 -0700 963ac02
 
     move fm compart to cheri-domain papers
 
 
 
 
-2021-07-13 09:46:56 -0700 2b5ed52
+2021-07-13 09:46:56 -0700 ed87da1
 
     move capsicum and cheri compart papers to cheri/cheri-domain
 
 
 
 
-2021-07-10 21:31:32 -0700 18e4f53
+2021-07-10 21:31:32 -0700 9df784f
 
     soaap and wedge evaluation impl
 
 
 
 
-2021-07-08 10:59:43 -0700 97ad8fa
+2021-07-08 10:59:43 -0700 b1750bb
 
     minior update
 
 
 
 
-2021-07-08 10:59:04 -0700 4b00df8
+2021-07-08 10:59:04 -0700 012356f
 
     update order
 
 
 
 
-2021-07-08 10:50:02 -0700 29f2978
+2021-07-08 10:50:02 -0700 6ac258f
 
     update title
 
 
 
 
-2021-07-08 10:43:05 -0700 8484b20
+2021-07-08 10:43:05 -0700 d1f66d4
 
     move intel mpx from ptr-meta to arch/basics/x86/
 
 
 
 
-2021-07-08 10:38:55 -0700 dde5dec
+2021-07-08 10:38:55 -0700 c2ca6d2
 
     mpk explained
 
 
 
 
-2021-07-06 19:30:57 -0700 91b7ff3
+2021-07-06 19:30:57 -0700 198c780
 
     add new line
 
 
 
 
-2021-07-06 11:37:23 -0700 3440e9b
+2021-07-06 11:37:23 -0700 fc74e3e
 
     reduce counter only after printed.
 
 
 
 
-2021-07-06 11:32:51 -0700 24f8579
+2021-07-06 11:32:51 -0700 ce98657
 
     ignore 8 lines
 
 
 
 
-2021-07-06 11:28:43 -0700 7040f04
+2021-07-06 11:28:43 -0700 bb0450f
 
     add ;
 
 
 
 
-2021-07-06 11:25:29 -0700 9d8a20f
+2021-07-06 11:25:29 -0700 d354d08
 
     print for debug
 
 
 
 
-2021-07-06 11:16:01 -0700 afdfd4e
+2021-07-06 11:16:01 -0700 6577238
 
     ignore first 7 lines
 
 
 
 
-2021-07-06 11:13:55 -0700 2a71f72
+2021-07-06 11:13:55 -0700 1e18fd1
 
     add comments
 
 
 
 
-2021-07-06 11:13:12 -0700 17e05ff
+2021-07-06 11:13:12 -0700 5409f63
 
     ignore first three lines
 
 
 
 
-2021-07-06 11:07:40 -0700 0b5ddd1
+2021-07-06 11:07:40 -0700 fd39ad2
 
     add notes
 
 
 
 
-2021-07-06 11:00:08 -0700 0082c54
+2021-07-06 11:00:08 -0700 9450117
 
     insert cmt # to first column
 
 
 
 
-2021-07-06 10:18:29 -0700 40d0a30
+2021-07-06 10:18:29 -0700 1ade1d3
 
     remove edit link
 
 
 
 
-2021-07-06 00:05:52 -0700 8850f4c
+2021-07-06 00:05:52 -0700 b02359d
 
     ARM MTE explained. Tagged memory with lock and key.
 
 
 
 
-2021-07-05 22:03:37 -0700 b3aca8d
+2021-07-05 22:03:37 -0700 ab7d285
 
     70% mem safety citation
 
 
 
 
-2021-07-05 12:43:00 -0700 42c7dce
+2021-07-05 12:43:00 -0700 4d9f74a
 
     link to arm pointer auth
 
 
 
 
-2021-07-05 12:41:49 -0700 b54ed09
+2021-07-05 12:41:49 -0700 bfde263
 
     move pointer auth to arm/basics/
 
 
 
 
-2021-07-05 12:38:06 -0700 4a4f4ca
+2021-07-05 12:38:06 -0700 46c9798
 
     in fat link tweak
 
 
 
 
-2021-07-05 12:12:18 -0700 d060e52
+2021-07-05 12:12:18 -0700 9761522
 
     add TTBR
 
 
 
 
-2021-07-05 12:09:13 -0700 c5c7100
+2021-07-05 12:09:13 -0700 37a65c9
 
     pointer auth in arm
 
 
 
 
-2021-07-05 11:25:56 -0700 6e057bb
+2021-07-05 11:25:56 -0700 c86f3a9
 
     update links to mem tags
 
 
 
 
-2021-07-05 11:22:43 -0700 ca7f743
+2021-07-05 11:22:43 -0700 4de975f
 
     add link to cheri tag; remove the page for cheri tag
 
 
 
 
-2021-07-05 11:19:10 -0700 0314eb0
+2021-07-05 11:19:10 -0700 6bf9101
 
     Add ARM MTE todo;
 
 
 
 
-2021-07-05 11:18:52 -0700 57d656b
+2021-07-05 11:18:52 -0700 b2f1729
 
     Update mem tag references
 
 
 
 
-2021-07-04 21:12:39 -0700 6acfd49
+2021-07-04 21:12:39 -0700 3e92bdf
 
     todo asplos 2021 in-fat spatial subobject.
 
 
 
 
-2021-07-04 18:10:43 -0700 538dd09
+2021-07-04 18:10:43 -0700 3ea5d10
 
     TrustZone attacks and details
 
 
 
 
-2021-07-04 17:26:39 -0700 61bd809
+2021-07-04 17:26:39 -0700 b6825ed
 
     add trustzone to arch/arm
 
 
 
 
-2021-07-04 17:18:12 -0700 9fddeb7
+2021-07-04 17:18:12 -0700 bef3188
 
     stones coding
 
 
 
 
-2021-06-23 09:14:01 -0700 74ad9ef
+2021-06-23 09:14:01 -0700 6d9320b
 
     mlta: fix format
 
 
 
 
-2021-06-16 00:25:05 -0700 67ded1f
+2021-06-16 00:25:05 -0700 37682ed
 
     todo: 数位成本和
 
 
 
 
-2021-06-16 00:24:44 -0700 a9b6c1e
+2021-06-16 00:24:44 -0700 032f270
 
     todo arm VMSA
 
 
 
 
-2021-06-16 00:21:43 -0700 ccd6d1b
+2021-06-16 00:21:43 -0700 e7174d5
 
     数位成本和
 
 
 
 
-2021-06-15 23:28:33 -0700 a96f331
+2021-06-15 23:28:33 -0700 4ebf1d0
 
     错误回顾
 
 
 
 
-2021-06-14 20:05:18 -0700 e5a96c2
+2021-06-14 20:05:18 -0700 2deac96
 
     反转括号子串
 
 
 
 
-2021-06-14 19:55:14 -0700 e090cb3
+2021-06-14 19:55:14 -0700 e005508
 
     todo 错误笔记
 
 
 
 
-2021-06-11 18:55:23 -0700 9f622b6
+2021-06-11 18:55:23 -0700 022cb65
 
     dp introduction
 
 
 
 
-2021-06-08 12:35:54 -0700 f0580c6
+2021-06-08 12:35:54 -0700 8d5500d
 
     todo rigorous eng.
 
 
 
 
-2021-05-22 11:46:44 -0700 495ebd4
+2021-05-22 11:46:44 -0700 78b250b
 
     add link to TR 940
 
 
 
 
-2021-05-22 11:42:52 -0700 a9a632c
+2021-05-22 11:42:52 -0700 e4468d0
 
     Abstract actions and the mapping of instruction -> actions
 
 
 
 
-2021-05-18 12:47:44 -0700 d42be86
+2021-05-18 12:47:44 -0700 8082519
 
     你的选择，你的资产
 
 
 
 
-2021-05-18 12:45:05 -0700 37a6297
+2021-05-18 12:45:05 -0700 300a4db
 
     工作状态的建议：追求best的人，机会找上门
 
 
 
 
-2021-05-18 12:08:43 -0700 0d9f4c4
+2021-05-18 12:08:43 -0700 3dbf326
 
     任何组织都有不足，考虑自己的需要金字塔；
 
@@ -1269,266 +2106,266 @@ but no dangling pointers to reallocated data location
 
 
 
-2021-05-18 11:28:39 -0700 420071e
+2021-05-18 11:28:39 -0700 89fbb08
 
     翻译，选择难度大，难免失误
 
 
 
 
-2021-05-18 10:43:59 -0700 5959857
+2021-05-18 10:43:59 -0700 28256e1
 
     翻译第一句：宏观想法
 
 
 
 
-2021-05-18 10:40:21 -0700 a08c402
+2021-05-18 10:40:21 -0700 6111853
 
     update order
 
 
 
 
-2021-05-18 10:40:10 -0700 285c0dd
+2021-05-18 10:40:10 -0700 b5a818d
 
     Job choice
 
 
 
 
-2021-05-18 09:27:32 -0700 108cf82
+2021-05-18 09:27:32 -0700 1a88034
 
     Order in research/
 
 
 
 
-2021-05-18 09:18:35 -0700 63c6a01
+2021-05-18 09:18:35 -0700 e6eefaa
 
     More
 
 
 
 
-2021-05-18 09:18:09 -0700 edf9697
+2021-05-18 09:18:09 -0700 3fa4261
 
     TODO find directions.
 
 
 
 
-2021-05-18 09:17:39 -0700 9461363
+2021-05-18 09:17:39 -0700 bcafc0b
 
     Correction: remove referee （裁判）, use reference
 
 
 
 
-2021-05-18 09:15:44 -0700 0a15f58
+2021-05-18 09:15:44 -0700 3e6926e
 
     todo: job choices
 
 
 
 
-2021-05-18 09:15:33 -0700 4827d9a
+2021-05-18 09:15:33 -0700 d88092c
 
     Coq destruct shorthand intros [|x]
 
 
 
 
-2021-05-18 09:14:48 -0700 55c2c13
+2021-05-18 09:14:48 -0700 06b52be
 
     Goals of abstract actions.
 
 
 
 
-2021-05-13 20:45:25 -0700 3446342
+2021-05-13 20:45:25 -0700 a568fe9
 
     remove -
 
 
 
 
-2021-05-13 20:42:22 -0700 f31dc5a
+2021-05-13 20:42:22 -0700 0b690d9
 
     reorder
 
 
 
 
-2021-05-13 20:40:26 -0700 8f221da
+2021-05-13 20:40:26 -0700 c190e2e
 
     proof for andb_true_elim2, the true=false proof.
 
 
 
 
-2021-05-11 22:55:35 -0700 daec995
+2021-05-11 22:55:35 -0700 1e8a3e1
 
     Automation of proof in cheri-mips
 
 
 
 
-2021-05-11 22:42:19 -0700 c8e7efd
+2021-05-11 22:42:19 -0700 d63b7fa
 
     todo security property details.
 
 
 
 
-2021-05-11 22:35:38 -0700 4fd900f
+2021-05-11 22:35:38 -0700 04bba7d
 
     order over capabilities
 
 
 
 
-2021-05-11 19:08:39 -0700 16591dc
+2021-05-11 19:08:39 -0700 22371e4
 
     lightweight rigorous engineering
 
 
 
 
-2021-05-10 23:26:10 -0700 8817e3c
+2021-05-10 23:26:10 -0700 c1f0895
 
     Evaluation of rigorous engineering: bugs found.
 
 
 
 
-2021-05-10 23:11:27 -0700 bfe849d
+2021-05-10 23:11:27 -0700 43a5aea
 
     local/global caps in cheri.
 
 
 
 
-2021-05-10 17:51:36 -0700 5db8273
+2021-05-10 17:51:36 -0700 20079d4
 
     overview cheri hardware rigorous eng.
 
 
 
 
-2021-05-10 17:25:49 -0700 cb6910f
+2021-05-10 17:25:49 -0700 b35d3c5
 
     memory safety issues for security.
 
 
 
 
-2021-05-10 17:11:17 -0700 b9ad042
+2021-05-10 17:11:17 -0700 e56324e
 
     todo rigorous cheri hardware.
 
 
 
 
-2021-05-10 17:03:41 -0700 8fd947a
+2021-05-10 17:03:41 -0700 a96da15
 
     destruct.
 
 
 
 
-2021-05-10 16:56:15 -0700 e7e097b
+2021-05-10 16:56:15 -0700 72c56a0
 
     todo verification of compilers, os.
 
 
 
 
-2021-05-05 21:42:00 -0700 1946cb9
+2021-05-05 21:42:00 -0700 446fcec
 
     Proof by rewrite.
 
 
 
 
-2021-05-05 19:33:01 -0700 af13a9a
+2021-05-05 19:33:01 -0700 925a91e
 
     proof by simpl.
 
 
 
 
-2021-05-05 16:27:18 -0700 7ef99cb
+2021-05-05 16:27:18 -0700 50fc01a
 
     More fixpoint definitions.
 
 
 
 
-2021-05-02 19:26:00 -0700 0f80b46
+2021-05-02 19:26:00 -0700 c29bfed
 
     Fixpoint natural numbers.
 
 
 
 
-2021-04-30 23:47:21 -0700 08d2233
+2021-04-30 23:47:21 -0700 b4a7582
 
     inductive type defs; admitted command
 
 
 
 
-2021-04-30 16:23:09 -0700 fdf3147
+2021-04-30 16:23:09 -0700 060be30
 
     coq Example Notation cmds
 
 
 
 
-2021-04-30 13:54:06 -0700 086756a
+2021-04-30 13:54:06 -0700 bea73b7
 
     order chapters
 
 
 
 
-2021-04-29 20:30:31 -0700 a70887b
+2021-04-29 20:30:31 -0700 a67d64c
 
     sf: preface of v1
 
 
 
 
-2021-04-29 00:32:15 -0700 00f665b
+2021-04-29 00:32:15 -0700 c4229a4
 
     todo: software foundations.
 
 
 
 
-2021-04-29 00:19:40 -0700 b0dd878
+2021-04-29 00:19:40 -0700 70ee756
 
     ai history todo
 
 
 
 
-2021-04-29 00:10:25 -0700 ad8278d
+2021-04-29 00:10:25 -0700 94dc128
 
     todo: 1967 compiler verfication idea
 
 
 
 
-2021-03-26 19:45:09 -0700 9cfb6d7
+2021-03-26 19:45:09 -0700 3362444
 
     todo compiler 1960s
 
 
 
 
-2020-12-19 12:53:12 -0800 36938ec
+2020-12-19 12:53:12 -0800 047f059
 
     two paper from ucam:
 
@@ -1536,511 +2373,511 @@ uTiles and Sirius
 
 
 
-2020-12-19 12:50:10 -0800 994a429
+2020-12-19 12:50:10 -0800 a0eed74
 
     ISCA'20 "Nested enclave: supporting fine-grained hierarchical isolation with SGX."
 
 
 
 
-2020-12-19 12:47:18 -0800 9366d14
+2020-12-19 12:47:18 -0800 93e8ad1
 
     Tsai, Chia-Che, Jeongseok Son, Bhushan Jain, John McAvey, Raluca Ada Popa, and Donald E. Porter. "Civet: An Efficient Java Partitioning Framework for Hardware Enclaves." In 29th {USENIX} Security Symposium ({USENIX} Security 20). 2020.
 
 
 
 
-2020-12-19 12:43:36 -0800 05b6a67
+2020-12-19 12:43:36 -0800 f41fd13
 
     2020 sec: Donky
 
 
 
 
-2020-12-19 12:32:58 -0800 38dbdb6
+2020-12-19 12:32:58 -0800 47f4cbe
 
     remove manual
 
 
 
 
-2020-12-19 12:31:39 -0800 dd05790
+2020-12-19 12:31:39 -0800 3b75aec
 
     update default orider as 0
 
 
 
 
-2020-12-19 12:29:08 -0800 98ecb8f
+2020-12-19 12:29:08 -0800 6d285e7
 
     make default weight as 0
 
 
 
 
-2020-12-19 12:24:15 -0800 697e100
+2020-12-19 12:24:15 -0800 e185f88
 
     sorting categories
 
 
 
 
-2020-12-19 11:57:35 -0800 f205497
+2020-12-19 11:57:35 -0800 399e14b
 
     rename autosep to smart-sep
 
 
 
 
-2020-12-19 11:42:29 -0800 8de290f
+2020-12-19 11:42:29 -0800 e75b14e
 
     box-process
 
 
 
 
-2020-12-19 11:36:59 -0800 ba092f9
+2020-12-19 11:36:59 -0800 a94bec0
 
     rename arm instruction isolation
 
 
 
 
-2020-12-19 11:35:29 -0800 98bb8a3
+2020-12-19 11:35:29 -0800 8119180
 
     auto sep PrivAna
 
 
 
 
-2020-12-19 11:33:28 -0800 92d7833
+2020-12-19 11:33:28 -0800 a0f558a
 
     box formal methods
 
 
 
 
-2020-12-19 11:29:08 -0800 aa22d59
+2020-12-19 11:29:08 -0800 1b882d8
 
     box-cap
 
 
 
 
-2020-12-19 11:26:06 -0800 0087bb5
+2020-12-19 11:26:06 -0800 961e149
 
     language based separation; finegrained separation in firefox
 
 
 
 
-2020-12-19 11:18:11 -0800 a7dad1f
+2020-12-19 11:18:11 -0800 10d7480
 
     Safebricks: Shielding network functions in the cloud Single trace attack against RSA key generation in Intel SGX SSL
 
 
 
 
-2020-12-19 11:10:51 -0800 35b8259
+2020-12-19 11:10:51 -0800 82a4ade
 
     Racing in Hyperspace: Closing Hyper-ThreadingSide Channels on SGX with Contrived Data Races
 
 
 
 
-2020-12-19 11:09:28 -0800 6ad36a8
+2020-12-19 11:09:28 -0800 6f9ab72
 
     box-sgx/attack-sgx
 
 
 
 
-2020-12-19 11:07:10 -0800 b55d25e
+2020-12-19 11:07:10 -0800 03d17be
 
     sgx protection and attacks
 
 
 
 
-2020-12-19 10:40:26 -0800 a1a239f
+2020-12-19 10:40:26 -0800 5a7491d
 
     inst isolation on ARM
 
 
 
 
-2020-12-19 10:38:24 -0800 6a83291
+2020-12-19 10:38:24 -0800 5d969fe
 
     move mem-safe/hw|swbox to pri-sep/
 
 
 
 
-2020-12-19 10:30:25 -0800 11e2097
+2020-12-19 10:30:25 -0800 fa08262
 
     2004 asplos info flow tracking
 
 
 
 
-2020-12-19 10:27:49 -0800 70a7cf9
+2020-12-19 10:27:49 -0800 2fd3b49
 
     1989 identity cap
 
 
 
 
-2020-12-08 21:18:06 -0800 12751ed
+2020-12-08 21:18:06 -0800 883d13a
 
     todo cheri obj caps
 
 
 
 
-2020-12-08 20:49:29 -0800 9f6626a
+2020-12-08 20:49:29 -0800 a153475
 
     todo 2012 usenix sec adsplit
 
 
 
 
-2020-12-08 20:44:15 -0800 37ea07f
+2020-12-08 20:44:15 -0800 0d07289
 
     todo 2009 chrome compartment
 
 
 
 
-2020-12-08 20:31:45 -0800 5ef209d
+2020-12-08 20:31:45 -0800 9a9206c
 
     move cheri capsicum
 
 
 
 
-2020-12-08 19:02:05 -0800 3dc8183
+2020-12-08 19:02:05 -0800 166c437
 
     todo Capsicum
 
 
 
 
-2020-12-04 20:50:50 -0800 ae85f68
+2020-12-04 20:50:50 -0800 1503778
 
     summary of PM
 
 
 
 
-2020-12-04 20:21:45 -0800 3a1f200
+2020-12-04 20:21:45 -0800 cd51403
 
     TODO: program mandering.
 
 
 
 
-2020-11-30 17:47:22 -0800 1a7b89c
+2020-11-30 17:47:22 -0800 58c80c1
 
     update
 
 
 
 
-2020-11-22 17:03:54 -0800 19b85e0
+2020-11-22 17:03:54 -0800 1ab74ee
 
     FedML and comments
 
 
 
 
-2020-11-22 16:29:28 -0800 0641a18
+2020-11-22 16:29:28 -0800 64c70c1
 
     Summary for AdDroid
 
 
 
 
-2020-11-21 21:29:09 -0800 273265d
+2020-11-21 21:29:09 -0800 e011a53
 
     Yes. we can do the same thing. seems straight forward to build this prototype
 
 
 
 
-2020-11-21 21:27:54 -0800 8b16a60
+2020-11-21 21:27:54 -0800 b36621f
 
     Ask about page boundary
 
 
 
 
-2020-11-21 21:26:46 -0800 2eef994
+2020-11-21 21:26:46 -0800 346f0d5
 
     EnclaveDom: page tags;
 
 
 
 
-2020-11-21 21:20:55 -0800 da2c697
+2020-11-21 21:20:55 -0800 c3bc1e0
 
     todo EnclaveDom challenges???
 
 
 
 
-2020-11-19 22:34:43 -0800 07e180b
+2020-11-19 22:34:43 -0800 28672ed
 
     mizhang SCYLLA
 
 
 
 
-2020-11-19 21:44:34 -0800 46dcef4
+2020-11-19 21:44:34 -0800 2493489
 
     2020 NeurIPS
 
 
 
 
-2020-11-19 19:08:39 -0800 8aca7fd
+2020-11-19 19:08:39 -0800 9bd088b
 
     todo, mi zhang
 
 
 
 
-2020-11-17 18:12:11 -0800 09534ce
+2020-11-17 18:12:11 -0800 2512e3a
 
     todo Papers from Mi Zhang
 
 
 
 
-2020-11-16 19:57:34 -0800 72e8995
+2020-11-16 19:57:34 -0800 52e80b0
 
     Once for all, how to train?
 
 
 
 
-2020-11-16 19:42:18 -0800 103302c
+2020-11-16 19:42:18 -0800 69dfdeb
 
     history and AI
 
 
 
 
-2020-11-16 19:37:00 -0800 34f02bc
+2020-11-16 19:37:00 -0800 ada7ec2
 
     Automated education?
 
 
 
 
-2020-11-16 19:33:34 -0800 a05f6ae
+2020-11-16 19:33:34 -0800 b280e72
 
     Run Horovod
 
 
 
 
-2020-11-16 17:59:08 -0800 92ee06f
+2020-11-16 17:59:08 -0800 5fd96f2
 
     Horovod: code example.
 
 
 
 
-2020-11-15 19:32:42 -0800 0859d85
+2020-11-15 19:32:42 -0800 439985e
 
     horovod: baidu post and 2009 FSU paper.
 
 
 
 
-2020-11-15 19:19:10 -0800 a9b651a
+2020-11-15 19:19:10 -0800 197b59f
 
     horovod motivation
 
 
 
 
-2020-11-14 18:43:37 -0800 2f7f227
+2020-11-14 18:43:37 -0800 815c969
 
     todo horovod
 
 
 
 
-2020-11-14 13:08:10 -0800 90f4a47
+2020-11-14 13:08:10 -0800 0327154
 
     updates
 
 
 
 
-2020-11-10 10:02:42 -0800 15018c9
+2020-11-10 10:02:42 -0800 33af978
 
     intro to ML
 
 
 
 
-2020-11-10 09:54:54 -0800 85073b2
+2020-11-10 09:54:54 -0800 54b68ec
 
     formula in latex
 
 
 
 
-2020-11-09 21:34:16 -0800 ba5de62
+2020-11-09 21:34:16 -0800 088032d
 
     ofa: tutorial
 
 
 
 
-2020-11-09 20:10:18 -0800 73482d0
+2020-11-09 20:10:18 -0800 bf41290
 
     formalization
 
 
 
 
-2020-11-09 19:56:26 -0800 aa9549b
+2020-11-09 19:56:26 -0800 29d8571
 
     OFA network.
 
 
 
 
-2020-11-09 19:40:52 -0800 1557f6b
+2020-11-09 19:40:52 -0800 666987e
 
     mcunet concepts
 
 
 
 
-2020-11-03 11:04:24 -0800 32c3603
+2020-11-03 11:04:24 -0800 62e9c8b
 
     techniques in MCUNet
 
 
 
 
-2020-11-03 10:53:17 -0800 a136070
+2020-11-03 10:53:17 -0800 b2dd697
 
     Lane, SPINN
 
 
 
 
-2020-11-03 10:19:33 -0800 b990947
+2020-11-03 10:19:33 -0800 28241ad
 
     update
 
 
 
 
-2020-10-27 21:23:51 -0700 f006544
+2020-10-27 21:23:51 -0700 e5be468
 
     Another fiction.
 
 
 
 
-2020-10-27 21:12:48 -0700 98160db
+2020-10-27 21:12:48 -0700 b86c833
 
     Comment the guides
 
 
 
 
-2020-10-27 21:11:21 -0700 d3e41f4
+2020-10-27 21:11:21 -0700 724210e
 
     Fiction: machine use human as tool; not human use machine as tool.
 
 
 
 
-2020-10-27 21:06:49 -0700 e0123ad
+2020-10-27 21:06:49 -0700 00d1732
 
     Question for the era of educations by AI.
 
 
 
 
-2020-10-27 21:04:07 -0700 6a5f642
+2020-10-27 21:04:07 -0700 b3c6396
 
     order
 
 
 
 
-2020-10-27 20:40:42 -0700 1715fca
+2020-10-27 20:40:42 -0700 9fea365
 
     test
 
 
 
 
-2020-10-27 20:35:29 -0700 9fadd11
+2020-10-27 20:35:29 -0700 6b74701
 
     教育
 
 
 
 
-2020-10-27 20:35:23 -0700 ff39ec5
+2020-10-27 20:35:23 -0700 6a6c236
 
     details in MCU
 
 
 
 
-2020-10-27 20:33:47 -0700 1e38530
+2020-10-27 20:33:47 -0700 5e5629a
 
     move csedu to edu
 
 
 
 
-2020-10-27 19:35:34 -0700 3a228ac
+2020-10-27 19:35:34 -0700 f5688ee
 
     update
 
 
 
 
-2020-10-27 19:26:36 -0700 8383c3f
+2020-10-27 19:26:36 -0700 8d53924
 
     todo 2018 hovorod
 
 
 
 
-2020-10-26 18:52:48 -0700 e6df1f9
+2020-10-26 18:52:48 -0700 4748a2e
 
     Three stage for neural archi search.
 
 
 
 
-2020-10-25 19:54:42 -0700 3963f83
+2020-10-25 19:54:42 -0700 0b0bb29
 
     todo nas and survey
 
 
 
 
-2020-10-25 19:17:25 -0700 283dce4
+2020-10-25 19:17:25 -0700 e82504e
 
     date
 
 
 
 
-2020-10-24 19:56:45 -0700 8a879da
+2020-10-24 19:56:45 -0700 b1ce74b
 
     Three NAS components
 
@@ -2048,182 +2885,182 @@ todo: human models vs human designed models
 
 
 
-2020-10-23 22:22:13 -0700 a0adf9b
+2020-10-23 22:22:13 -0700 23f85a3
 
     move once-for-all to ai/
 
 
 
 
-2020-10-23 22:17:36 -0700 da0e5d5
+2020-10-23 22:17:36 -0700 4498f00
 
     reorder top menu; iot csed ai
 
 
 
 
-2020-10-23 20:57:39 -0700 b1838a8
+2020-10-23 20:57:39 -0700 3835909
 
     ongoing MCUNet paper
 
 
 
 
-2020-10-23 18:57:23 -0700 797fddc
+2020-10-23 18:57:23 -0700 e0280ba
 
     ask
 
 
 
 
-2020-10-23 18:56:13 -0700 5521382
+2020-10-23 18:56:13 -0700 acc54fc
 
     ask: cs for education: human power vs computer power in an ultimate race?
 
 
 
 
-2020-10-23 18:52:35 -0700 5332cec
+2020-10-23 18:52:35 -0700 7a7f7ed
 
     ask cs for education
 
 
 
 
-2020-10-23 18:13:40 -0700 55bb4e2
+2020-10-23 18:13:40 -0700 6f39e8f
 
     todo nas paper; mcunet
 
 
 
 
-2020-10-23 13:00:36 -0700 350fb51
+2020-10-23 13:00:36 -0700 e5f70c1
 
     todo nas components
 
 
 
 
-2020-10-23 12:20:48 -0700 79e2516
+2020-10-23 12:20:48 -0700 7f2161c
 
     nas in automl image
 
 
 
 
-2020-10-23 12:05:58 -0700 b3e6067
+2020-10-23 12:05:58 -0700 617ba3d
 
     some nas code/papers
 
 
 
 
-2020-10-22 19:54:23 -0700 797d4a6
+2020-10-22 19:54:23 -0700 1e11abe
 
     paper list from Song and Lane
 
 
 
 
-2020-10-22 19:15:01 -0700 7e8b227
+2020-10-22 19:15:01 -0700 d7e6b60
 
     More devices.
 
 
 
 
-2020-10-22 11:20:51 -0700 273334b
+2020-10-22 11:20:51 -0700 011c489
 
     16-17 fpga.
 
 
 
 
-2020-10-21 19:04:18 -0700 4a7e5d0
+2020-10-21 19:04:18 -0700 aa67bee
 
     tracking devices in 2016
 
 
 
 
-2020-10-21 11:17:56 -0700 7995405
+2020-10-21 11:17:56 -0700 6eae31d
 
     “We met once a week,” Dr. Hinton said in an interview. “Sometimes it ended in a shouting match, sometimes not.”
 
 
 
 
-2020-10-21 10:21:51 -0700 efb1604
+2020-10-21 10:21:51 -0700 090bd69
 
     arm and gem5
 
 
 
 
-2020-10-21 09:46:02 -0700 6030cef
+2020-10-21 09:46:02 -0700 1e94cb4
 
     formating
 
 
 
 
-2020-10-21 09:45:45 -0700 a5ae8de
+2020-10-21 09:45:45 -0700 7e94961
 
     More papers from Song
 
 
 
 
-2020-10-20 19:58:36 -0700 0b41425
+2020-10-20 19:58:36 -0700 1e08894
 
     Ask: how to recognize faked digital information (Photos, voices) by AI?
 
 
 
 
-2020-10-20 17:28:38 -0700 a139ac8
+2020-10-20 17:28:38 -0700 7fefe58
 
     devices in Once for all
 
 
 
 
-2020-10-20 17:28:14 -0700 0bbbab5
+2020-10-20 17:28:14 -0700 8c4ce3b
 
     notes on english words
 
 
 
 
-2020-10-20 17:27:38 -0700 d08d8ea
+2020-10-20 17:27:38 -0700 76831a8
 
     cpi detials
 
 
 
 
-2020-10-11 19:56:33 -0700 ca0519d
+2020-10-11 19:56:33 -0700 61c6203
 
     overview of CPI
 
 
 
 
-2020-10-11 17:30:31 -0700 9e3f978
+2020-10-11 17:30:31 -0700 183856d
 
     to read: CPI
 
 
 
 
-2020-10-08 22:01:19 -0700 512ea27
+2020-10-08 22:01:19 -0700 8eb6292
 
     continue: draw a line.
 
 
 
 
-2020-10-08 21:31:53 -0700 fefdfcf
+2020-10-08 21:31:53 -0700 e316117
 
     People of Systems & Architecture: Margo I. Seltzer
 
@@ -2231,28 +3068,28 @@ todo: human models vs human designed models
 
 
 
-2020-10-08 21:10:59 -0700 4606a7d
+2020-10-08 21:10:59 -0700 6abc072
 
     cheri blog post: planting cheri tree
 
 
 
 
-2020-10-07 12:52:03 -0700 c60f13a
+2020-10-07 12:52:03 -0700 fe80ccf
 
     Writing notes!
 
 
 
 
-2020-10-07 12:39:32 -0700 95726f1
+2020-10-07 12:39:32 -0700 e75732d
 
     Arguably, all great systems are just reinventing ideas and reevaulating assumptions in light of changing technology trends, but don't let that stop you. I made my career that way, you can too!
 
 
 
 
-2020-10-07 12:33:56 -0700 42fe774
+2020-10-07 12:33:56 -0700 561ce4d
 
     guide for PHD and readings.
 
@@ -2260,35 +3097,35 @@ Just dive in and start doing some research -- anything -- even if you think it m
 
 
 
-2020-10-03 21:26:45 -0700 ac77754
+2020-10-03 21:26:45 -0700 872500e
 
     LLVM exception, landing pad.
 
 
 
 
-2020-10-03 14:28:20 -0700 01b862d
+2020-10-03 14:28:20 -0700 c62506a
 
     problem of current c memory semantic
 
 
 
 
-2020-10-03 14:09:35 -0700 cc9d02b
+2020-10-03 14:09:35 -0700 3db6059
 
     cheri c, pointer provenance, todo
 
 
 
 
-2020-10-02 12:01:49 -0700 b094a9e
+2020-10-02 12:01:49 -0700 adaaf82
 
     list of steps from mshockwave;
 
 
 
 
-2020-10-02 11:39:06 -0700 7a0a5c3
+2020-10-02 11:39:06 -0700 942ef82
 
     boundallocas: bound checking for stack object.
 
@@ -2296,21 +3133,21 @@ convert to pointer, check pointer in cheri, convert it back to nonpointer as bef
 
 
 
-2020-10-02 11:34:13 -0700 4e3ae2f
+2020-10-02 11:34:13 -0700 69238d8
 
     rangecheck only in mips
 
 
 
 
-2020-10-01 21:59:14 -0700 6e38623
+2020-10-01 21:59:14 -0700 090e45f
 
     summary of range checker
 
 
 
 
-2020-10-01 21:31:31 -0700 13a77e4
+2020-10-01 21:31:31 -0700 800e401
 
     go through the logic of range checker.
 
@@ -2320,182 +3157,182 @@ Then add cheri_cap_bounds_set instruction to set the bound info of the pointer
 
 
 
-2020-10-01 18:02:27 -0700 a984a87
+2020-10-01 18:02:27 -0700 f47b01d
 
     Range Check pass, todo.
 
 
 
 
-2020-10-01 17:24:32 -0700 949222d
+2020-10-01 17:24:32 -0700 014a375
 
     bound allocas steps in CHERI
 
 
 
 
-2020-10-01 14:39:07 -0700 6e4ec7e
+2020-10-01 14:39:07 -0700 c151279
 
     todo cheriboundalloca pass
 
 
 
 
-2020-09-30 22:31:34 -0700 e24614a
+2020-09-30 22:31:34 -0700 94bc9ab
 
     CheriRangeChecker pass.
 
 
 
 
-2020-09-28 20:36:41 -0700 01c2f70
+2020-09-28 20:36:41 -0700 9b06f22
 
     table-gen todo
 
 
 
 
-2020-09-27 16:48:22 -0700 abb6952
+2020-09-27 16:48:22 -0700 812d016
 
     inter-procedural data flow analysis
 
 
 
 
-2020-09-21 09:48:34 -0700 db7b60c
+2020-09-21 09:48:34 -0700 7cefbe8
 
     todo ucfi
 
 
 
 
-2020-09-21 09:48:06 -0700 7fecbdb
+2020-09-21 09:48:06 -0700 e6c4223
 
     track ccall call conv
 
 
 
 
-2020-09-16 23:50:25 -0700 a68b99d
+2020-09-16 23:50:25 -0700 3547b77
 
     ccall call paths gen_branch
 
 
 
 
-2020-09-16 22:18:21 -0700 5ccc17f
+2020-09-16 22:18:21 -0700 8f7d651
 
     add call path to syscall invoking
 
 
 
 
-2020-09-16 21:00:37 -0700 4052cbb
+2020-09-16 21:00:37 -0700 143caf6
 
     tracking syscall impl in qemu
 
 
 
 
-2020-09-16 20:46:05 -0700 e0c8d78
+2020-09-16 20:46:05 -0700 536fd2b
 
     group inst translation; add syscall inst
 
 
 
 
-2020-09-16 20:37:07 -0700 0e465c8
+2020-09-16 20:37:07 -0700 d47ab75
 
     tracking gen_compute_branch call path (QEMU/MIPS)
 
 
 
 
-2020-09-16 19:02:45 -0700 05d9870
+2020-09-16 19:02:45 -0700 681228d
 
     todoing tracking the call/ret instructions in qemu
 
 
 
 
-2020-09-16 18:52:20 -0700 629fa63
+2020-09-16 18:52:20 -0700 c29b145
 
     todo object scoping in llvm
 
 
 
 
-2020-09-15 15:00:54 -0700 1023be7
+2020-09-15 15:00:54 -0700 38cb21f
 
     llvm debug intrinsics overview
 
 
 
 
-2020-09-14 21:01:13 -0700 a23b750
+2020-09-14 21:01:13 -0700 1d36395
 
     llvm.dbg.addr
 
 
 
 
-2020-09-14 20:59:05 -0700 30732a1
+2020-09-14 20:59:05 -0700 5330f97
 
     call path cc
 
 
 
 
-2020-09-13 13:50:52 -0700 36961a0
+2020-09-13 13:50:52 -0700 ab3ce8c
 
     mips cc
 
 
 
 
-2020-09-12 16:30:57 -0700 6076ec1
+2020-09-12 16:30:57 -0700 029ed66
 
     the cheri ccall calling conv def in llvm
 
 
 
 
-2020-09-12 16:30:36 -0700 01eaa65
+2020-09-12 16:30:36 -0700 e30d703
 
     revise notes on llvm calling conv interfaces
 
 
 
 
-2020-09-11 20:37:19 -0700 1d7b4c7
+2020-09-11 20:37:19 -0700 0e0ce69
 
     move call conv one level up
 
 
 
 
-2020-09-11 20:36:56 -0700 0680671
+2020-09-11 20:36:56 -0700 0000388
 
     mov call-conv
 
 
 
 
-2020-09-11 11:17:27 -0700 a416d48
+2020-09-11 11:17:27 -0700 6ce00d8
 
     mips call conv: .td files todo
 
 
 
 
-2020-09-11 11:17:08 -0700 90da16a
+2020-09-11 11:17:08 -0700 12f34f7
 
     writing video
 
 
 
 
-2020-09-10 22:00:37 -0700 860c8e5
+2020-09-10 22:00:37 -0700 26a1a80
 
     code list for calling conv;
 
@@ -2503,168 +3340,168 @@ todo Mips/RISCV calling conv
 
 
 
-2020-09-10 19:15:25 -0700 560f7dc
+2020-09-10 19:15:25 -0700 03c46f7
 
     calling convention in llvm
 
 
 
 
-2020-09-04 09:27:46 -0700 74ff938
+2020-09-04 09:27:46 -0700 b4d4774
 
     escape/capture; undecidability of aa
 
 
 
 
-2020-09-02 22:33:35 -0700 076f685
+2020-09-02 22:33:35 -0700 162f823
 
     cheri c/c++
 
 
 
 
-2020-09-01 18:00:03 -0700 cbf7be2
+2020-09-01 18:00:03 -0700 2320221
 
     todo: cheri full spatial safety for c/c++
 
 
 
 
-2020-09-01 17:59:18 -0700 f6ef20e
+2020-09-01 17:59:18 -0700 4d5e578
 
     evaluation on CHERI-CC
 
 
 
 
-2020-08-31 18:37:52 -0700 cf9814d
+2020-08-31 18:37:52 -0700 ede82e9
 
     move sva to arch
 
 
 
 
-2020-08-31 08:18:26 -0700 77befcc
+2020-08-31 08:18:26 -0700 b33f791
 
     todo cheri-llvm regression test
 
 
 
 
-2020-08-29 15:28:10 -0700 5394e0b
+2020-08-29 15:28:10 -0700 eb84701
 
     the value symtable naming in LLVM
 
 
 
 
-2020-08-29 14:07:00 -0700 09be9f8
+2020-08-29 14:07:00 -0700 22eaafb
 
     add more info for global emission in asmprinter
 
 
 
 
-2020-08-29 13:44:22 -0700 ca22ed7
+2020-08-29 13:44:22 -0700 98451bc
 
     machine function pass impl: a function pass that calls runOnMachineFunction internally.
 
 
 
 
-2020-08-29 13:00:12 -0700 ca8164c
+2020-08-29 13:00:12 -0700 2ac8a43
 
     todo: machine function pass vs functin pass
 
 
 
 
-2020-08-29 11:08:01 -0700 2e14159
+2020-08-29 11:08:01 -0700 a23e46b
 
     lto llvm
 
 
 
 
-2020-08-29 11:00:24 -0700 6657503
+2020-08-29 11:00:24 -0700 9b8dfb3
 
     todo cheri c semantics
 
 
 
 
-2020-08-28 22:31:46 -0700 ffebd2c
+2020-08-28 22:31:46 -0700 c02363b
 
     semantics of C analysis tools...
 
 
 
 
-2020-08-28 22:11:40 -0700 ff14582
+2020-08-28 22:11:40 -0700 a618e36
 
     effective types
 
 
 
 
-2020-08-28 20:56:00 -0700 86844ae
+2020-08-28 20:56:00 -0700 f23cf08
 
     unspecified values/padding values
 
 
 
 
-2020-08-28 20:24:15 -0700 2bd08be
+2020-08-28 20:24:15 -0700 a064c7c
 
     pointer copying semantics, a de facto
 
 
 
 
-2020-08-28 20:13:11 -0700 ffff8d0
+2020-08-28 20:13:11 -0700 f05e5ea
 
     out of bounds in fm model
 
 
 
 
-2020-08-28 13:32:04 -0700 3e279ff
+2020-08-28 13:32:04 -0700 63d405c
 
     table 1 in pdp11 paper
 
 
 
 
-2020-08-28 13:22:20 -0700 21a6679
+2020-08-28 13:22:20 -0700 b5c6b21
 
     Q2: equality testing on pointers
 
 
 
 
-2020-08-27 22:01:36 -0700 2017f38
+2020-08-27 22:01:36 -0700 51ec3c3
 
     Q9 provenance.
 
 
 
 
-2020-08-27 20:01:10 -0700 43f15a2
+2020-08-27 20:01:10 -0700 738a810
 
     example code for pointer provenance
 
 
 
 
-2020-08-27 19:20:50 -0700 7ba070e
+2020-08-27 19:20:50 -0700 7dd2b37
 
     overview of contributions of Cerberus
 
 
 
 
-2020-08-27 17:16:51 -0700 b09d343
+2020-08-27 17:16:51 -0700 9f3f1fd
 
     into depth of C: three problems;
 
@@ -2672,56 +3509,56 @@ todo: Cerberus
 
 
 
-2020-08-27 15:14:05 -0700 06ee888
+2020-08-27 15:14:05 -0700 3b984b0
 
     tracking llvm intrinsics cheri csetbounds etc
 
 
 
 
-2020-08-27 14:51:32 -0700 1f7d717
+2020-08-27 14:51:32 -0700 0e45321
 
     todo: c undef from Wang X
 
 
 
 
-2020-08-27 14:38:02 -0700 712e1d6
+2020-08-27 14:38:02 -0700 de7c3db
 
     new guide
 
 
 
 
-2020-08-27 14:14:13 -0700 6d1dce8
+2020-08-27 14:14:13 -0700 d412100
 
     de facto c abstract
 
 
 
 
-2020-08-27 14:06:14 -0700 48b4c56
+2020-08-27 14:06:14 -0700 46311a7
 
     c
 
 
 
 
-2020-08-25 19:27:41 -0700 1b5b9d5
+2020-08-25 19:27:41 -0700 b96a1c5
 
     todo: extending llvm by new intrinsics/inst/DAG
 
 
 
 
-2020-08-25 19:20:23 -0700 6e13dab
+2020-08-25 19:20:23 -0700 224be3b
 
     add src
 
 
 
 
-2020-08-25 16:13:52 -0700 253454f
+2020-08-25 16:13:52 -0700 3c2c531
 
     found the place where the instruction of spilling ret addr is built.
 
@@ -2731,56 +3568,56 @@ called in PEI::spillCalleeSavedRegs
 
 
 
-2020-08-25 13:37:34 -0700 21d76f0
+2020-08-25 13:37:34 -0700 8dbe071
 
     yuanzhuo pai video on ai and 5G
 
 
 
 
-2020-08-24 09:16:28 -0700 48d09f4
+2020-08-24 09:16:28 -0700 05f4343
 
     jemalloc
 
 
 
 
-2020-08-16 19:34:20 -0700 aa6d88c
+2020-08-16 19:34:20 -0700 105cbb6
 
     note on asmprinter
 
 
 
 
-2020-08-16 08:20:47 -0700 887095b
+2020-08-16 08:20:47 -0700 b3bb241
 
     minor update on AsmPrinter and Streamers
 
 
 
 
-2020-08-15 23:01:05 -0700 40e7592
+2020-08-15 23:01:05 -0700 72ccaf7
 
     revise title
 
 
 
 
-2020-08-15 22:00:19 -0700 3fd5b6f
+2020-08-15 22:00:19 -0700 c130fb3
 
     elf object writer overview
 
 
 
 
-2020-08-15 21:49:43 -0700 22626f4
+2020-08-15 21:49:43 -0700 ef33b10
 
     tracking relocation section creation
 
 
 
 
-2020-08-15 21:08:35 -0700 d5ba42e
+2020-08-15 21:08:35 -0700 0435179
 
     ELFWriter: states and interfaces.
 
@@ -2788,42 +3625,42 @@ It has functions to write section headers, section header entries, and write rel
 
 
 
-2020-08-15 19:56:20 -0700 4752579
+2020-08-15 19:56:20 -0700 8d8c820
 
     todo relocation and elf writers
 
 
 
 
-2020-08-15 17:30:29 -0700 32b4c55
+2020-08-15 17:30:29 -0700 5f8860e
 
     memo on stack frame reading
 
 
 
 
-2020-08-15 17:29:55 -0700 802217f
+2020-08-15 17:29:55 -0700 d316232
 
     memo on MIR reading.
 
 
 
 
-2020-08-15 17:29:08 -0700 5da574b
+2020-08-15 17:29:08 -0700 ecaa120
 
     todo: relocation in llvm codegen
 
 
 
 
-2020-08-14 11:18:50 -0700 97f1f86
+2020-08-14 11:18:50 -0700 7a3ae2a
 
     update archetypes
 
 
 
 
-2020-08-13 14:13:09 -0700 a41df63
+2020-08-13 14:13:09 -0700 92f2367
 
     a summary of tag_bit_set/get funcs.
 
@@ -2832,112 +3669,112 @@ Tag blocks only allocated if it is being set once.
 
 
 
-2020-08-12 23:37:37 -0700 5ed9fcd
+2020-08-12 23:37:37 -0700 b449fde
 
     qemu inst fetch: block translation and invalidation
 
 
 
 
-2020-08-12 23:04:46 -0700 aeb1788
+2020-08-12 23:04:46 -0700 2c6b059
 
     link for QEMU translator internals
 
 
 
 
-2020-08-12 23:02:04 -0700 884584f
+2020-08-12 23:02:04 -0700 116f006
 
     add qemu dev guide
 
 
 
 
-2020-08-12 11:53:22 -0700 7e65222
+2020-08-12 11:53:22 -0700 15a2e1e
 
     remove non-related comments
 
 
 
 
-2020-08-12 11:04:38 -0700 184e2e1
+2020-08-12 11:04:38 -0700 4b2c4af
 
     qemu: tracking addr trans in mips
 
 
 
 
-2020-08-12 10:52:14 -0700 392607e
+2020-08-12 10:52:14 -0700 0455eb4
 
     move guest ram and memtrace one level up
 
 
 
 
-2020-08-11 23:44:54 -0700 5707b03
+2020-08-11 23:44:54 -0700 5f6b4d3
 
     tracking qemu instruction translation and exe
 
 
 
 
-2020-08-10 23:40:34 -0700 b3ddee8
+2020-08-10 23:40:34 -0700 155238d
 
     track inst fetch: upper call path
 
 
 
 
-2020-08-10 23:07:38 -0700 c398a26
+2020-08-10 23:07:38 -0700 b7e9ab3
 
     tracking legacy ld/st permission check path
 
 
 
 
-2020-08-10 21:03:43 -0700 bafa521
+2020-08-10 21:03:43 -0700 0e92ec0
 
     todo: qemu-cheri: ld/st impl.
 
 
 
 
-2020-08-10 21:03:28 -0700 83b7c1a
+2020-08-10 21:03:28 -0700 6b5f0f2
 
     freebsd vm overview
 
 
 
 
-2020-08-10 09:52:20 -0700 b695a42
+2020-08-10 09:52:20 -0700 cedeff9
 
     todo: vm and page fault in FreeBSD
 
 
 
 
-2020-08-10 09:49:35 -0700 1d5229d
+2020-08-10 09:49:35 -0700 9c5fd70
 
     .init sections
 
 
 
 
-2020-08-09 17:08:09 -0700 a735c1e
+2020-08-09 17:08:09 -0700 76ae000
 
     tracking parse_notes in freebsd
 
 
 
 
-2020-08-07 18:24:41 -0700 c980502
+2020-08-07 18:24:41 -0700 1a8ece3
 
     add a menu entry.
 
 
 
 
-2020-08-07 18:24:13 -0700 4e511f4
+2020-08-07 18:24:13 -0700 087830b
 
     FreeBSD: tracking `get_branchinfo` ---> `parse_notes()`
 
@@ -2945,7 +3782,7 @@ parse_notes() will read section data from the binary file.
 
 
 
-2020-08-07 14:12:03 -0700 36e9114
+2020-08-07 14:12:03 -0700 0ab26ad
 
     tracking load_sections.
 
@@ -2953,21 +3790,21 @@ load_sections->load_section->map_insert->....
 
 
 
-2020-08-07 09:58:23 -0700 87a81ff
+2020-08-07 09:58:23 -0700 c893256
 
     add link to Prof. Micheal's PLDI
 
 
 
 
-2020-08-07 09:52:01 -0700 e098c90
+2020-08-07 09:52:01 -0700 6399768
 
     TODO: categories of memory safety solutions
 
 
 
 
-2020-08-07 09:36:28 -0700 2f0793c
+2020-08-07 09:36:28 -0700 b729a60
 
     Wonderings on ease of the program analysis challenge:
 
@@ -2975,7 +3812,7 @@ Revise the foundamental models?
 
 
 
-2020-08-07 00:29:12 -0700 8de55e2
+2020-08-07 00:29:12 -0700 1b06a69
 
     tracking elf laoding in FreeBSD.
 
@@ -2983,56 +3820,56 @@ Todo: load_sections
 
 
 
-2020-08-06 22:09:36 -0700 38d3fb4
+2020-08-06 22:09:36 -0700 8cdb365
 
     what is ast in freebsd kernel code???
 
 
 
 
-2020-08-06 22:09:02 -0700 4e1b0f2
+2020-08-06 22:09:02 -0700 44e9dd6
 
     vnode basic
 
 
 
 
-2020-08-06 21:01:54 -0700 d7a6198
+2020-08-06 21:01:54 -0700 0a0a5ae
 
     thunk note: calling convention in LLD.
 
 
 
 
-2020-08-06 21:01:23 -0700 b2aed67
+2020-08-06 21:01:23 -0700 a4859f8
 
     tracking sythetic section creation in LLD.
 
 
 
 
-2020-08-06 21:00:32 -0700 b977ed8
+2020-08-06 21:00:32 -0700 3ecfaae
 
     tracking the relation between sectionCommands and outputSections.
 
 
 
 
-2020-08-05 18:30:57 -0700 4bc8287
+2020-08-05 18:30:57 -0700 d4399de
 
     note on relocation time in linking process: near the end.
 
 
 
 
-2020-08-05 14:32:06 -0700 e0d370a
+2020-08-05 14:32:06 -0700 c7ffc8c
 
     llvm: lld: tracking relocate/relocateAlloc/getRelocTargetVA
 
 
 
 
-2020-08-05 13:22:02 -0700 7d3f1ff
+2020-08-05 13:22:02 -0700 ae057b0
 
     tracking assignAddresses() in LLD.
 
@@ -3040,35 +3877,35 @@ This is where all the virtual addresses for each output section got determined (
 
 
 
-2020-08-05 11:53:22 -0700 db50000
+2020-08-05 11:53:22 -0700 a6ab1d0
 
     thunk note in lld
 
 
 
 
-2020-08-05 11:51:34 -0700 0f8ec1e
+2020-08-05 11:51:34 -0700 60409e5
 
     todo LLD reloctions, Thunks
 
 
 
 
-2020-08-05 11:45:26 -0700 e443e6c
+2020-08-05 11:45:26 -0700 eb73caf
 
     llvm: lld: tracking program header entry creation
 
 
 
 
-2020-08-04 17:23:37 -0700 2d7cbd1
+2020-08-04 17:23:37 -0700 5f17362
 
     rela.text example
 
 
 
 
-2020-08-03 22:44:32 -0700 0517d62
+2020-08-03 22:44:32 -0700 ab8226f
 
     tracking program header creation in LLD
 
@@ -3078,28 +3915,28 @@ This is where all the virtual addresses for each output section got determined (
 
 
 
-2020-08-03 21:03:18 -0700 2d9de7d
+2020-08-03 21:03:18 -0700 b97c3e8
 
     LMA and VMA in linker and loader
 
 
 
 
-2020-08-03 19:00:04 -0700 efee9e2
+2020-08-03 19:00:04 -0700 d5edd3a
 
     LLD partitions
 
 
 
 
-2020-08-03 18:46:06 -0700 7096a29
+2020-08-03 18:46:06 -0700 197de96
 
     program header entry creation in Writer.cpp'
 
 
 
 
-2020-08-03 12:18:53 -0700 1ab62fa
+2020-08-03 12:18:53 -0700 e57cc89
 
     Output Sections stored as `BaseCommand *` in sectionCommands.
 
@@ -3109,7 +3946,7 @@ see llvm-project 772424f5bfb467f7b43d217ab0fd4b93430541d7
 
 
 
-2020-08-03 12:15:04 -0700 774024e
+2020-08-03 12:15:04 -0700 a9e5ec7
 
     tracking program header generation in LLD.
 
@@ -3117,7 +3954,7 @@ TOOD: Writer::finializeSections() handles the generation.
 
 
 
-2020-08-03 09:11:22 -0700 8319d1a
+2020-08-03 09:11:22 -0700 cec7834
 
     explain p_paddr field in program header entry.
 
@@ -3125,70 +3962,70 @@ not used for executable and shared objects
 
 
 
-2020-08-03 00:41:44 -0700 e7b8de3
+2020-08-03 00:41:44 -0700 dedc9c8
 
     refer to the table from oracle book
 
 
 
 
-2020-08-03 00:29:45 -0700 57df730
+2020-08-03 00:29:45 -0700 236a88f
 
     add section types in llvm.
 
 
 
 
-2020-08-02 20:06:18 -0700 2bbc46f
+2020-08-02 20:06:18 -0700 77b3f93
 
     MCObjectStreamer::emitBytes
 
 
 
 
-2020-08-02 20:04:52 -0700 b939d68
+2020-08-02 20:04:52 -0700 536b1a4
 
     program header format
 
 
 
 
-2020-08-02 17:37:19 -0700 3dd45af
+2020-08-02 17:37:19 -0700 22bf855
 
     AsmPrinter: emitGlobalVariable
 
 
 
 
-2020-08-02 16:04:29 -0700 39c8147
+2020-08-02 16:04:29 -0700 fcec8ed
 
     linker .o and .a
 
 
 
 
-2020-08-02 15:35:18 -0700 812e38e
+2020-08-02 15:35:18 -0700 a012f70
 
     the symbol resolution
 
 
 
 
-2020-07-31 22:36:12 -0700 713039a
+2020-07-31 22:36:12 -0700 dc049fd
 
     freebsd scan for elf headers
 
 
 
 
-2020-07-30 21:20:57 -0700 f16556e
+2020-07-30 21:20:57 -0700 c268807
 
     freebsd tracking: the __elfN(imgact) function
 
 
 
 
-2020-07-30 16:37:24 -0700 8fb351e
+2020-07-30 16:37:24 -0700 d296ce8
 
     done loading in linux;
 
@@ -3196,77 +4033,77 @@ todo: loading in freebsd
 
 
 
-2020-07-30 14:36:49 -0700 1816c3e
+2020-07-30 14:36:49 -0700 7e6bdb1
 
     remove sym table dir
 
 
 
 
-2020-07-30 14:36:11 -0700 05e7dfb
+2020-07-30 14:36:11 -0700 1176148
 
     todo: LLD: handling syntheticSection
 
 
 
 
-2020-07-30 14:35:30 -0700 d21e568
+2020-07-30 14:35:30 -0700 4bca5aa
 
     todo: relocation support in LLD
 
 
 
 
-2020-07-30 14:34:51 -0700 3011371
+2020-07-30 14:34:51 -0700 0634278
 
     a full list of section types in LLVM
 
 
 
 
-2020-07-30 14:33:12 -0700 890b144
+2020-07-30 14:33:12 -0700 c82ca72
 
     loading elf files, to do
 
 
 
 
-2020-07-30 13:59:29 -0700 805d93c
+2020-07-30 13:59:29 -0700 080d363
 
     a link of capsicum for linux
 
 
 
 
-2020-07-29 11:32:03 -0700 2c3b228
+2020-07-29 11:32:03 -0700 bc0236a
 
     tracking symbol table: common symbol;
 
 
 
 
-2020-07-28 22:05:50 -0700 ebbbf80
+2020-07-28 22:05:50 -0700 2e06bad
 
     todo: linking process, merge .text sections
 
 
 
 
-2020-07-28 22:00:10 -0700 cb9746b
+2020-07-28 22:00:10 -0700 7ae6970
 
     relocation explained
 
 
 
 
-2020-07-28 21:23:18 -0700 123f182
+2020-07-28 21:23:18 -0700 6a6dbb4
 
     symbol table section explained
 
 
 
 
-2020-07-28 20:02:00 -0700 daf7467
+2020-07-28 20:02:00 -0700 0e71362
 
     todo elf sections.
 
@@ -3274,105 +4111,105 @@ goal: manage section relation mappings
 
 
 
-2020-07-28 17:09:08 -0700 f95d399
+2020-07-28 17:09:08 -0700 1d6027d
 
     simple dwarf format overview
 
 
 
 
-2020-07-28 15:17:24 -0700 79fc9f7
+2020-07-28 15:17:24 -0700 8c5af36
 
      linker impl to handle sections
 
 
 
 
-2020-07-28 15:03:17 -0700 1ab4b83
+2020-07-28 15:03:17 -0700 3437c70
 
     lld todo
 
 
 
 
-2020-07-28 01:39:28 -0700 591276a
+2020-07-28 01:39:28 -0700 8a12b36
 
     tracking emitinstruction deep into emitbytes; todo: lld elf writer
 
 
 
 
-2020-07-27 23:00:17 -0700 4eb30a2
+2020-07-27 23:00:17 -0700 82079d1
 
     emit instruction tracking in asmprinter/mipsasmprinter
 
 
 
 
-2020-07-27 11:53:53 -0700 ff63d5b
+2020-07-27 11:53:53 -0700 a35405d
 
     tracking up to MCStreamer::EmitInstruction
 
 
 
 
-2020-07-27 11:12:51 -0700 a6a2c42
+2020-07-27 11:12:51 -0700 3429dc3
 
     tracking object streamer; todo: where to switch sections
 
 
 
 
-2020-07-26 19:56:22 -0700 79747c8
+2020-07-26 19:56:22 -0700 03a599a
 
     a list of steps to create a new section in an ELF object file
 
 
 
 
-2020-07-26 13:42:03 -0700 25974d1
+2020-07-26 13:42:03 -0700 330f4ca
 
     selection dag: DAG opt stages
 
 
 
 
-2020-07-26 00:22:02 -0700 7d45198
+2020-07-26 00:22:02 -0700 7bab3dc
 
     DAG to MachineInstruction transfer
 
 
 
 
-2020-07-25 00:39:44 -0700 4a69e43
+2020-07-25 00:39:44 -0700 5ac175b
 
     pass init code for codegen
 
 
 
 
-2020-07-25 00:35:50 -0700 091cd3d
+2020-07-25 00:35:50 -0700 14ea2e3
 
     todo: track DAG to MIR
 
 
 
 
-2020-07-25 00:35:14 -0700 6f88d64
+2020-07-25 00:35:14 -0700 0157e52
 
     todo prolog epilog details
 
 
 
 
-2020-07-24 11:38:25 -0700 f19df2d
+2020-07-24 11:38:25 -0700 052b503
 
     overview of CodeGenAndEmitDAG()
 
 
 
 
-2020-07-24 10:54:23 -0700 0965e9c
+2020-07-24 10:54:23 -0700 e607ec0
 
     llvm: SelectionDAG: runOnMachineFunction overview;
 
@@ -3382,28 +4219,28 @@ code to detect a return block
 
 
 
-2020-07-24 02:00:37 -0700 84b8377
+2020-07-24 02:00:37 -0700 3d2dbc9
 
     todo code gen and emit dag
 
 
 
 
-2020-07-24 01:13:43 -0700 57fb826
+2020-07-24 01:13:43 -0700 fd4f322
 
     tracking visitXXX instruction lowering from IR to DAG
 
 
 
 
-2020-07-23 19:27:40 -0700 affdcf7
+2020-07-23 19:27:40 -0700 2a83d2a
 
     instr emission
 
 
 
 
-2020-07-23 16:56:38 -0700 c69c351
+2020-07-23 16:56:38 -0700 b78e74f
 
     passing Metadata across DAG using a specific node to store metadata node;
 
@@ -3411,119 +4248,119 @@ code to detect a return block
 
 
 
-2020-07-23 16:55:29 -0700 92836f6
+2020-07-23 16:55:29 -0700 d0e6358
 
     tracking SDNode creation
 
 
 
 
-2020-07-23 15:58:21 -0700 2d121d5
+2020-07-23 15:58:21 -0700 912b73d
 
     llvm: codegen: debugloc creation and propagation in DAG
 
 
 
 
-2020-07-23 15:57:22 -0700 533e620
+2020-07-23 15:57:22 -0700 bb41c35
 
     llvm: codegen CallingConv
 
 
 
 
-2020-07-22 18:27:25 -0700 91e925e
+2020-07-22 18:27:25 -0700 55926ae
 
     overview of selection dag
 
 
 
 
-2020-07-22 11:28:52 -0700 b972b49
+2020-07-22 11:28:52 -0700 5b0242e
 
     llvm: core inst selection passes for mips
 
 
 
 
-2020-07-22 10:01:19 -0700 ad1a77d
+2020-07-22 10:01:19 -0700 84066be
 
     llvm: codegen add coreISel, move GlobalISel as subdir
 
 
 
 
-2020-07-22 09:58:22 -0700 3c1b65f
+2020-07-22 09:58:22 -0700 23f56fb
 
     llvm: move instruction select to globalISel
 
 
 
 
-2020-07-22 09:55:58 -0700 03e5087
+2020-07-22 09:55:58 -0700 8ad3e51
 
     llvm: move IRTranslator to GlobalISel
 
 
 
 
-2020-07-22 09:52:40 -0700 ca36e79
+2020-07-22 09:52:40 -0700 741eff3
 
     llvm: codegen: note on globalISel
 
 
 
 
-2020-07-22 09:52:12 -0700 34e015e
+2020-07-22 09:52:12 -0700 9dbf1c4
 
     llvm: attribute
 
 
 
 
-2020-07-22 09:51:42 -0700 a758481
+2020-07-22 09:51:42 -0700 23bea04
 
     llvm: codegen: global inst selection framework, not for mips yet
 
 
 
 
-2020-07-22 01:24:41 -0700 a05abe5
+2020-07-22 01:24:41 -0700 1858f80
 
     three kinds of selectors
 
 
 
 
-2020-07-22 01:12:33 -0700 25955c8
+2020-07-22 01:12:33 -0700 6fb32df
 
     add source code for reference
 
 
 
 
-2020-07-22 01:04:00 -0700 0b15dad
+2020-07-22 01:04:00 -0700 f4ea0a7
 
     ir translator, not for mips arch
 
 
 
 
-2020-07-22 00:25:52 -0700 4b60647
+2020-07-22 00:25:52 -0700 43af8ea
 
     llvm: codegen todo call lowering
 
 
 
 
-2020-07-21 23:27:50 -0700 fe52b59
+2020-07-21 23:27:50 -0700 bf5352b
 
     add column highlight setting for mscode/vim
 
 
 
 
-2020-07-20 11:37:52 -0700 6e1153e
+2020-07-20 11:37:52 -0700 2195e6b
 
     llvm: codegen IRTranslator
 
@@ -3531,7 +4368,7 @@ TODO: set the ownership of MIR from IR values (for instructions currently)
 
 
 
-2020-07-20 11:36:55 -0700 630920d
+2020-07-20 11:36:55 -0700 9a3d41d
 
     llvm: codegen MCStreamers:
 
@@ -3542,7 +4379,7 @@ Two `friends` with  each others instance as its member, and used by all its chil
 
 
 
-2020-07-20 00:10:21 -0700 e47fea5
+2020-07-20 00:10:21 -0700 9269ddd
 
     llvm: codegen: todo MCAsmStreamer.
 
@@ -3550,7 +4387,7 @@ Compare it with MCObjectStreamer, see how TextSection got handled.
 
 
 
-2020-07-20 00:02:38 -0700 50057cc
+2020-07-20 00:02:38 -0700 06d550d
 
     llvm: codegen overview of asmprinter
 
@@ -3558,21 +4395,21 @@ Emit Labels from MachineFunctions
 
 
 
-2020-07-19 23:44:23 -0700 2f85d55
+2020-07-19 23:44:23 -0700 1bda931
 
     llvm: codegen todo: MCStreamer series
 
 
 
 
-2020-07-19 23:04:32 -0700 15fb256
+2020-07-19 23:04:32 -0700 0175483
 
     llvm: codegen MCStreamer and MCTargetStreamer
 
 
 
 
-2020-07-19 16:48:27 -0700 35f1246
+2020-07-19 16:48:27 -0700 7c67ac8
 
     llvm: codegen: IR translator;
 
@@ -3580,21 +4417,21 @@ todo metadata
 
 
 
-2020-07-19 09:35:57 -0700 001791b
+2020-07-19 09:35:57 -0700 7d5868a
 
     llvm: codegen: remove redundant
 
 
 
 
-2020-07-19 09:34:49 -0700 d8d7c6d
+2020-07-19 09:34:49 -0700 1af35b7
 
     llvm: codegen: steps in AsmPrinter::EmitStackSizeSection()
 
 
 
 
-2020-07-19 08:59:21 -0700 e426fad
+2020-07-19 08:59:21 -0700 7feee6e
 
     llvm: codegen: MipsAsmPrinter pass tracking.
 
@@ -3614,14 +4451,14 @@ todo metadata
 
 
 
-2020-07-18 21:33:00 -0700 68ca0c7
+2020-07-18 21:33:00 -0700 5e6dbf6
 
     llvm: codegen asmprinter pass overview
 
 
 
 
-2020-07-18 20:03:52 -0700 6b67e48
+2020-07-18 20:03:52 -0700 2cf3122
 
     llvm: codegen tracking TextSection
 
@@ -3631,28 +4468,28 @@ but most instruction does not have such Expr in Mips.
 
 
 
-2020-07-18 17:20:15 -0700 97c60da
+2020-07-18 17:20:15 -0700 a0ee8e3
 
     llvm: codegen AsmPrinter
 
 
 
 
-2020-07-18 01:41:25 -0700 5858069
+2020-07-18 01:41:25 -0700 32aebda
 
     llvm: codegen: MCAssembler registerSection
 
 
 
 
-2020-07-18 01:23:15 -0700 bf0bd79
+2020-07-18 01:23:15 -0700 70c40d0
 
     llvm: codegen: EmitBytes explained
 
 
 
 
-2020-07-18 01:09:24 -0700 b9dcb9a
+2020-07-18 01:09:24 -0700 ec50bda
 
     llvm: codegen: found EmitBytes
 
@@ -3660,35 +4497,35 @@ in MCObjectStreamer class, not in MCStreamer class
 
 
 
-2020-07-18 00:47:07 -0700 9cf8502
+2020-07-18 00:47:07 -0700 174a9ec
 
     llvm: codegen section init in MC layer
 
 
 
 
-2020-07-18 00:45:09 -0700 ffdafe9
+2020-07-18 00:45:09 -0700 a265b53
 
     llvm: codegen elf flags
 
 
 
 
-2020-07-18 00:07:57 -0700 4403d40
+2020-07-18 00:07:57 -0700 d052dbd
 
     llvm: codegen SelectSectionForGlobal
 
 
 
 
-2020-07-17 22:14:25 -0700 d17970e
+2020-07-17 22:14:25 -0700 81be84f
 
     llvm: codegen: MCContext, create MCSectionELF
 
 
 
 
-2020-07-17 21:52:06 -0700 d3064c2
+2020-07-17 21:52:06 -0700 6d51c21
 
     llvm: codegen: track finish()
 
@@ -3696,28 +4533,28 @@ in MCObjectStreamer class, not in MCStreamer class
 
 
 
-2020-07-17 15:31:36 -0700 7cbb6b0
+2020-07-17 15:31:36 -0700 61cb484
 
     llvm: codegen tracking data section
 
 
 
 
-2020-07-17 14:50:59 -0700 e791b0f
+2020-07-17 14:50:59 -0700 088fbcb
 
     compilers,os: dwarf links, text todo, move llvm-elf to mc
 
 
 
 
-2020-07-17 12:09:29 -0700 f68d210
+2020-07-17 12:09:29 -0700 059ca72
 
     arch,os: elf call frame information
 
 
 
 
-2020-07-17 11:48:09 -0700 55389fe
+2020-07-17 11:48:09 -0700 1c1a8c0
 
     arch: asm: links for CFI directives
 
@@ -3725,63 +4562,63 @@ and .eh_frame section
 
 
 
-2020-07-17 11:15:15 -0700 fd7808e
+2020-07-17 11:15:15 -0700 753c0e8
 
     llvm: codegen mc object file
 
 
 
 
-2020-07-17 10:17:57 -0700 d9d35c0
+2020-07-17 10:17:57 -0700 a47d327
 
     llvm: codegen: MipsTargetObjectFile, init
 
 
 
 
-2020-07-16 22:50:39 -0700 308a4ac
+2020-07-16 22:50:39 -0700 234d353
 
     llvm: codegen MipsTargetELFStreamer
 
 
 
 
-2020-07-16 00:17:51 -0700 7536793
+2020-07-16 00:17:51 -0700 abc40ef
 
     arch: asm, directives
 
 
 
 
-2020-07-16 00:04:38 -0700 6569b27
+2020-07-16 00:04:38 -0700 a60af4e
 
     compilers, os: update some links
 
 
 
 
-2020-07-15 23:54:53 -0700 b76656b
+2020-07-15 23:54:53 -0700 21754f0
 
     llvm: codegen: mc layer emmiting code
 
 
 
 
-2020-07-15 23:54:31 -0700 6f94f0d
+2020-07-15 23:54:31 -0700 4ac4a83
 
     llvm: codegen: overview of Machine* classes
 
 
 
 
-2020-07-15 23:13:24 -0700 f0adcd2
+2020-07-15 23:13:24 -0700 d92a7ee
 
     llvm: codegen: MachineInstr class
 
 
 
 
-2020-07-15 21:25:44 -0700 1b25803
+2020-07-15 21:25:44 -0700 ffa9828
 
     compilers: overview of codegen core classes:
 
@@ -3790,56 +4627,56 @@ and .eh_frame section
 
 
 
-2020-07-15 21:09:05 -0700 2702f55
+2020-07-15 21:09:05 -0700 3509a58
 
     compilers: note on asm
 
 
 
 
-2020-07-15 21:07:39 -0700 ccb6318
+2020-07-15 21:07:39 -0700 d88ace7
 
     compilers: codegen: move arch/basics/asm here
 
 
 
 
-2020-07-15 21:05:59 -0700 0231a44
+2020-07-15 21:05:59 -0700 43dc7ad
 
     arch: asm: some section related directives
 
 
 
 
-2020-07-15 18:47:25 -0700 70ac096
+2020-07-15 18:47:25 -0700 b9afb5c
 
     compilers: codegen todo: stack frame algs
 
 
 
 
-2020-07-15 18:39:20 -0700 c79582e
+2020-07-15 18:39:20 -0700 24f48ed
 
     compilers: llvm codegen, MC layer, MCInst
 
 
 
 
-2020-07-15 17:21:07 -0700 35a008e
+2020-07-15 17:21:07 -0700 7d24748
 
     compilers: class hierachy defs
 
 
 
 
-2020-07-15 13:02:22 -0700 703f36c
+2020-07-15 13:02:22 -0700 3983979
 
     compilers: codegen: MCSection overview
 
 
 
 
-2020-07-15 12:49:06 -0700 47a58db
+2020-07-15 12:49:06 -0700 64b6324
 
     compilers: codegen: the MCSymbol class intro;
 
@@ -3847,14 +4684,14 @@ todo MCSection class
 
 
 
-2020-07-15 12:41:53 -0700 aacbd93
+2020-07-15 12:41:53 -0700 a59a4f7
 
     compilers: code generation, todo: symbol table gen
 
 
 
 
-2020-07-15 12:28:47 -0700 5a799f1
+2020-07-15 12:28:47 -0700 6c03f27
 
     compilers,os: temporarily move backend related stuff
 
@@ -3862,35 +4699,35 @@ move to top level of contents for easy access; will distribute back after work d
 
 
 
-2020-07-15 12:24:08 -0700 0ab9399
+2020-07-15 12:24:08 -0700 bcbf00a
 
     llvm: codegen MCStreamer class
 
 
 
 
-2020-07-15 11:57:42 -0700 771c5f9
+2020-07-15 11:57:42 -0700 faef3fe
 
     llvm: todo, locate the sym table generation code in llvm
 
 
 
 
-2020-07-15 11:55:36 -0700 2af63f4
+2020-07-15 11:55:36 -0700 aad3510
 
     os: add a new linker loader book from oracle
 
 
 
 
-2020-07-15 10:41:58 -0700 19bcdc9
+2020-07-15 10:41:58 -0700 3929d51
 
     fm: todo: coq and kami
 
 
 
 
-2020-07-15 10:33:50 -0700 bfea955
+2020-07-15 10:33:50 -0700 239d486
 
     util: disable the re matching check.
 
@@ -3898,77 +4735,77 @@ It cannot recognize the tag with two letters, such as os, fm
 
 
 
-2020-07-15 10:32:14 -0700 211a04a
+2020-07-15 10:32:14 -0700 a05f095
 
     fm: move cspec to papers/
 
 
 
 
-2020-07-15 01:28:14 -0700 7158e99
+2020-07-15 01:28:14 -0700 da22a89
 
     os: elf, GOT and PLT and dynamic links
 
 
 
 
-2020-07-14 21:04:57 -0700 c104302
+2020-07-14 21:04:57 -0700 748dc91
 
     compilers: global relocation mode
 
 
 
 
-2020-07-14 18:54:55 -0700 f603a56
+2020-07-14 18:54:55 -0700 8d351ed
 
     compilers: table gen usage examples
 
 
 
 
-2020-07-14 17:57:22 -0700 64461ad
+2020-07-14 17:57:22 -0700 447c1b1
 
     compilers: backend todo, global var code gen with tags
 
 
 
 
-2020-07-14 09:49:43 -0700 d923bc0
+2020-07-14 09:49:43 -0700 98157d0
 
     compilers: dag construction links
 
 
 
 
-2020-07-13 20:02:11 -0700 fa3c7cc
+2020-07-13 20:02:11 -0700 83bd1c1
 
     compilers: DAG intro and peephole opt intro
 
 
 
 
-2020-07-13 19:15:59 -0700 8473a43
+2020-07-13 19:15:59 -0700 a5df007
 
     llvm: code gen with DAG
 
 
 
 
-2020-07-13 19:12:43 -0700 aaf9dc9
+2020-07-13 19:12:43 -0700 117afaa
 
     llvm: global var DAG node
 
 
 
 
-2020-07-13 13:22:59 -0700 ac0930f
+2020-07-13 13:22:59 -0700 81d51da
 
     compilers: backend object file gen, llvm code
 
 
 
 
-2020-07-13 10:25:26 -0700 99c0d17
+2020-07-13 10:25:26 -0700 807c06a
 
     llvm: mpx in bogo, handling global
 
@@ -3976,21 +4813,21 @@ insert global bnd set at beginning of main instead of ctor
 
 
 
-2020-07-13 10:24:32 -0700 2670323
+2020-07-13 10:24:32 -0700 54e1baf
 
     os: elf ctor dtor section
 
 
 
 
-2020-07-12 23:35:19 -0700 e899510
+2020-07-12 23:35:19 -0700 a990b07
 
     os: elf relocation/program header
 
 
 
 
-2020-07-12 23:03:02 -0700 d722811
+2020-07-12 23:03:02 -0700 f5f42f3
 
     os: elf header, section headers
 
@@ -3998,259 +4835,259 @@ Symbol Table, String Table, BSS
 
 
 
-2020-07-12 21:01:23 -0700 7ed5501
+2020-07-12 21:01:23 -0700 fa34a56
 
     os: todo elf global constructors
 
 
 
 
-2020-07-12 16:11:13 -0700 a8441af
+2020-07-12 16:11:13 -0700 826b17d
 
     llvm: mpx in bogo, transform functions and globals
 
 
 
 
-2020-07-12 14:04:33 -0700 3a6f271
+2020-07-12 14:04:33 -0700 97c8bf9
 
     llvm: mpx in bogo: looks like a recursive calling chain
 
 
 
 
-2020-07-11 23:52:13 -0700 e0cb1e6
+2020-07-11 23:52:13 -0700 854207d
 
     llvm: bogo mpx pass, instruction insertion.
 
 
 
 
-2020-07-11 22:57:04 -0700 811d5f3
+2020-07-11 22:57:04 -0700 257deee
 
     mem-safe: mpx basics and tester pass from bogo
 
 
 
 
-2020-07-10 22:44:07 -0700 4f915b4
+2020-07-10 22:44:07 -0700 d16ad56
 
     llvm: bogo: overview of the mpx pass
 
 
 
 
-2020-07-10 21:59:20 -0700 15d9000
+2020-07-10 21:59:20 -0700 1550486
 
     llvm: llvm mpx todo; update tags
 
 
 
 
-2020-07-10 09:33:54 -0700 d204a61
+2020-07-10 09:33:54 -0700 d6a81e8
 
     qemu: guest ram block -- memory region def
 
 
 
 
-2020-07-10 09:33:26 -0700 f4c7e19
+2020-07-10 09:33:26 -0700 53f89bd
 
     qemu: event handler of simple trace in qemu
 
 
 
 
-2020-07-04 23:28:57 -0700 0094e48
+2020-07-04 23:28:57 -0700 bbd1bc8
 
     qemu: add def for ramblock
 
 
 
 
-2020-07-03 22:54:12 -0700 2ec21a1
+2020-07-03 22:54:12 -0700 dcb4a4a
 
     util: check git commit msg with tags
 
 
 
 
-2020-07-03 22:22:37 -0700 9ffbb03
+2020-07-03 22:22:37 -0700 7395724
 
     trace cpu: trace generation and reading
 
 
 
 
-2020-07-03 21:06:52 -0700 0ab52d9
+2020-07-03 21:06:52 -0700 fa7f55e
 
     todo v-to-p; bin load in Gem5
 
 
 
 
-2020-07-03 18:48:50 -0700 962d9c7
+2020-07-03 18:48:50 -0700 efb05c8
 
     memory mapping in gem5
 
 
 
 
-2020-07-03 10:39:48 -0700 e3c9f4b
+2020-07-03 10:39:48 -0700 4767f35
 
     tag to do
 
 
 
 
-2020-06-26 10:31:44 -0700 1ae7b20
+2020-06-26 10:31:44 -0700 0b7bde5
 
     tutorial link of stats in gem5
 
 
 
 
-2020-06-26 10:09:56 -0700 2eda51d
+2020-06-26 10:09:56 -0700 b2ae94f
 
     todo: stats.txt readings in gem5
 
 
 
 
-2020-06-21 22:34:55 -0700 60f6c5c
+2020-06-21 22:34:55 -0700 b15fbf9
 
     tlb entry creation and query in qemu
 
 
 
 
-2020-06-21 00:50:09 -0700 0247ed7
+2020-06-21 00:50:09 -0700 cd829a6
 
     tlb hit test, virt address/valid bit match
 
 
 
 
-2020-06-21 00:07:57 -0700 3f87215
+2020-06-21 00:07:57 -0700 cf30eda
 
     todo code tracking for guest ram access
 
 
 
 
-2020-06-21 00:07:27 -0700 0801611
+2020-06-21 00:07:27 -0700 a540d82
 
     guest ram memory region overlapping and priority
 
 
 
 
-2020-06-20 15:43:43 -0700 f010720
+2020-06-20 15:43:43 -0700 1478056
 
     region overlap with priority example
 
 
 
 
-2020-06-20 15:22:30 -0700 a6b3486
+2020-06-20 15:22:30 -0700 3571114
 
     qemu memory region
 
 
 
 
-2020-06-20 10:27:51 -0700 157b634
+2020-06-20 10:27:51 -0700 776933a
 
     todo guest ram
 
 
 
 
-2020-06-19 10:52:22 -0700 61317df
+2020-06-19 10:52:22 -0700 f2937e3
 
     gem5: trace file passed to traffic gen cfg file
 
 
 
 
-2020-06-19 01:59:46 -0700 098a9e1
+2020-06-19 01:59:46 -0700 e97e91b
 
     todo add figure; freebsd memory and binary layout
 
 
 
 
-2020-06-19 01:41:46 -0700 14396a9
+2020-06-19 01:41:46 -0700 380f00f
 
     Basics: demand paging when loading binary for execution
 
 
 
 
-2020-06-18 23:04:50 -0700 e997eb0
+2020-06-18 23:04:50 -0700 9ec5a7f
 
     an example of using traffic gen
 
 
 
 
-2020-06-18 22:03:47 -0700 43d13f0
+2020-06-18 22:03:47 -0700 5002020
 
     overview of traffic gen
 
 
 
 
-2020-06-18 16:34:15 -0700 f3b12d1
+2020-06-18 16:34:15 -0700 00e06fa
 
     todo binary loading in gem5
 
 
 
 
-2020-06-18 16:31:11 -0700 9343421
+2020-06-18 16:31:11 -0700 18ab8ea
 
     simple timing cpu todo
 
 
 
 
-2020-06-18 15:19:47 -0700 68855af
+2020-06-18 15:19:47 -0700 b2b23f2
 
     ask simobj simulation in gem5
 
 
 
 
-2020-06-18 13:51:40 -0700 37ad993
+2020-06-18 13:51:40 -0700 47be000
 
     figures from gem5 book
 
 
 
 
-2020-06-18 12:46:28 -0700 b0a0706
+2020-06-18 12:46:28 -0700 3286c65
 
     Computer Security: Art and Sciences
 
 
 
 
-2020-06-18 12:43:30 -0700 9ad0994
+2020-06-18 12:43:30 -0700 bfe18d7
 
     a new book: 程序员的自我修养--链接、装载与库
 
 
 
 
-2020-06-18 05:45:43 -0700 329c386
+2020-06-18 05:45:43 -0700 c455a05
 
     add a mem obj figure; remove old site
 
 
 
 
-2020-06-17 21:51:01 -0700 b9e348c
+2020-06-17 21:51:01 -0700 d052d32
 
     new(old?) gem5 book site;
 
@@ -4258,413 +5095,413 @@ Linker and loader link;
 
 
 
-2020-06-17 18:33:06 -0700 7f471ad
+2020-06-17 18:33:06 -0700 316eb0b
 
     linker and loader slides from Cornell
 
 
 
 
-2020-06-17 14:32:41 -0700 df4bcb1
+2020-06-17 14:32:41 -0700 fcf222a
 
     notes on extending gem5
 
 
 
 
-2020-06-17 00:17:31 -0700 fd6f1dc
+2020-06-17 00:17:31 -0700 9c3f904
 
     common options for se.py and fs.py
 
 
 
 
-2020-06-17 00:08:04 -0700 80e5a51
+2020-06-17 00:08:04 -0700 6586326
 
     commands to run se.py`
 
 
 
 
-2020-06-16 23:59:44 -0700 1e8e4b5
+2020-06-16 23:59:44 -0700 345a378
 
     gem5 configuration examples
 
 
 
 
-2020-06-16 00:28:11 -0700 e111ffd
+2020-06-16 00:28:11 -0700 9303dbf
 
     many authors not listed
 
 
 
 
-2020-06-15 22:01:03 -0700 f96c34e
+2020-06-15 22:01:03 -0700 b6f0b4a
 
     typo in pump
 
 
 
 
-2020-06-15 22:00:20 -0700 df1ab02
+2020-06-15 22:00:20 -0700 1d77f74
 
     software foundations book
 
 
 
 
-2020-06-14 20:44:45 -0700 ba489eb
+2020-06-14 20:44:45 -0700 3aa07c2
 
     todo: whether a tlb hit should be counted as mem read? probably not
 
 
 
 
-2020-06-13 16:58:36 -0700 e719d42
+2020-06-13 16:58:36 -0700 7653348
 
     memtrace impl in qemu
 
 
 
 
-2020-06-08 12:37:02 -0700 c402787
+2020-06-08 12:37:02 -0700 5d80389
 
     startMem
 
 
 
 
-2020-06-08 12:36:40 -0700 3b2f3a9
+2020-06-08 12:36:40 -0700 e9624b7
 
     todo oxide
 
 
 
 
-2020-06-06 22:35:22 -0700 4a66e72
+2020-06-06 22:35:22 -0700 ba9f9dc
 
     execute csc
 
 
 
 
-2020-06-06 20:41:52 -0700 db30424
+2020-06-06 20:41:52 -0700 b5fb376
 
     memaccess csc
 
 
 
 
-2020-06-06 18:15:24 -0700 ac77ed2
+2020-06-06 18:15:24 -0700 d504a15
 
     decodeInstruction
 
 
 
 
-2020-06-06 17:29:47 -0700 7cdf849
+2020-06-06 17:29:47 -0700 521a39f
 
     csc decodeInstruction
 
 
 
 
-2020-06-06 03:24:44 -0700 804fd32
+2020-06-06 03:24:44 -0700 f75c4d3
 
     r4000 encoding; csc instruction tracking
 
 
 
 
-2020-06-06 02:49:24 -0700 8f83ca0
+2020-06-06 02:49:24 -0700 1ead2ff
 
     move inst encoding to isa
 
 
 
 
-2020-06-06 02:46:02 -0700 52967d8
+2020-06-06 02:46:02 -0700 669a3cb
 
     mips inst types
 
 
 
 
-2020-06-05 21:29:36 -0700 a69ff08
+2020-06-05 21:29:36 -0700 43f47a3
 
     encoding of mips
 
 
 
 
-2020-06-05 21:03:39 -0700 da1c542
+2020-06-05 21:03:39 -0700 fd71f26
 
     encoding summary figures
 
 
 
 
-2020-06-05 18:57:25 -0700 952738c
+2020-06-05 18:57:25 -0700 04c269f
 
     cloadtags
 
 
 
 
-2020-06-04 18:19:20 -0700 5ee923a
+2020-06-04 18:19:20 -0700 de0005d
 
     qemu: cloadtags to do
 
 
 
 
-2020-06-01 23:00:33 -0700 e80a496
+2020-06-01 23:00:33 -0700 5bbe6a3
 
     q/a merge.bsv
 
 
 
 
-2020-06-01 22:57:51 -0700 ace1e42
+2020-06-01 22:57:51 -0700 6b992a0
 
     icache dcache merge
 
 
 
 
-2020-06-01 20:20:27 -0700 131cbad
+2020-06-01 20:20:27 -0700 d2a1b75
 
     mips, writeback stage
 
 
 
 
-2020-06-01 10:07:05 -0700 fb17418
+2020-06-01 10:07:05 -0700 9e3cf1e
 
     icache in cap2_ccall.log
 
 
 
 
-2020-05-30 18:51:11 -0700 4048dfc
+2020-05-30 18:51:11 -0700 5b8c76d
 
     icache; mem partition
 
 
 
 
-2020-05-27 23:36:48 -0700 342a0ba
+2020-05-27 23:36:48 -0700 70b4674
 
     cap runtime refinement
 
 
 
 
-2020-05-27 23:15:45 -0700 f626a75
+2020-05-27 23:15:45 -0700 63f1c5f
 
     todo execve
 
 
 
 
-2020-05-27 22:02:18 -0700 4d55543
+2020-05-27 22:02:18 -0700 0715942
 
     todo cheri tag
 
 
 
 
-2020-05-27 22:02:00 -0700 51fee14
+2020-05-27 22:02:00 -0700 cd64e37
 
     tracking cheri tag in qemu
 
 
 
 
-2020-05-27 22:01:15 -0700 4e7f9b4
+2020-05-27 22:01:15 -0700 dfcfb70
 
     qemu new instruction
 
 
 
 
-2020-05-27 22:00:44 -0700 d631495
+2020-05-27 22:00:44 -0700 d3eabe5
 
     more dcache notes
 
 
 
 
-2020-05-27 22:00:10 -0700 ed35abd
+2020-05-27 22:00:10 -0700 ee0cf39
 
     todo icache
 
 
 
 
-2020-05-27 21:43:21 -0700 088f6d4
+2020-05-27 21:43:21 -0700 e441ede
 
     tag figure in 2017
 
 
 
 
-2020-05-25 21:49:44 -0700 99f1100
+2020-05-25 21:49:44 -0700 8cd06d4
 
     cheritest note
 
 
 
 
-2020-05-25 13:12:42 -0700 df30632
+2020-05-25 13:12:42 -0700 d1c73dc
 
     builtins
 
 
 
 
-2020-05-25 04:24:01 -0700 80740a1
+2020-05-25 04:24:01 -0700 2eef921
 
     cheir tag mem in qemu
 
 
 
 
-2020-05-24 23:42:24 -0700 c336290
+2020-05-24 23:42:24 -0700 23f80ec
 
     test framework to learn
 
 
 
 
-2020-05-24 18:11:25 -0700 5636c75
+2020-05-24 18:11:25 -0700 5f10d0d
 
     todo cheritest
 
 
 
 
-2020-05-24 17:09:51 -0700 6390ef9
+2020-05-24 17:09:51 -0700 4f17506
 
     todo reinforcement
 
 
 
 
-2020-05-24 17:02:48 -0700 a18a688
+2020-05-24 17:02:48 -0700 4b7f811
 
     a list of trainging and inference opt
 
 
 
 
-2020-05-24 15:49:23 -0700 d9b7901
+2020-05-24 15:49:23 -0700 35163f0
 
     review perceptron
 
 
 
 
-2020-05-24 13:19:01 -0700 f91d857
+2020-05-24 13:19:01 -0700 076e237
 
     tensor link
 
 
 
 
-2020-05-23 23:50:45 -0700 a7caa11
+2020-05-23 23:50:45 -0700 4f3d4bf
 
     algorithms ai
 
 
 
 
-2020-05-23 21:44:55 -0700 1b15a0c
+2020-05-23 21:44:55 -0700 131d016
 
     move tf to ai
 
 
 
 
-2020-05-23 19:04:15 -0700 5226b88
+2020-05-23 19:04:15 -0700 b9a8bac
 
     tensor
 
 
 
 
-2020-05-23 17:04:28 -0700 2362f56
+2020-05-23 17:04:28 -0700 2a56a92
 
     rename cheri-> cheri-mips; todo: cheri-flute. cheri-piccolo
 
 
 
 
-2020-05-23 17:00:07 -0700 9fea47b
+2020-05-23 17:00:07 -0700 6ed86ef
 
     tail
 
 
 
 
-2020-05-23 16:59:35 -0700 18dd68b
+2020-05-23 16:59:35 -0700 e3a4c9e
 
     cloadtags since isav7
 
 
 
 
-2020-05-19 23:51:40 -0700 8606121
+2020-05-19 23:51:40 -0700 5eb9d45
 
     sp quarter
 
 
 
 
-2020-05-19 23:04:23 -0700 075862a
+2020-05-19 23:04:23 -0700 159f377
 
     sp notes
 
 
 
 
-2020-05-17 02:35:30 -0700 ea8fd03
+2020-05-17 02:35:30 -0700 8bc547f
 
     cnn, todo generative
 
 
 
 
-2020-05-16 23:51:13 -0700 f0004fc
+2020-05-16 23:51:13 -0700 2074e86
 
     intro to dl
 
 
 
 
-2020-05-16 23:00:55 -0700 a6c9277
+2020-05-16 23:00:55 -0700 5b4d84b
 
     6s191 mit
 
 
 
 
-2020-05-16 21:51:26 -0700 fb6f0b3
+2020-05-16 21:51:26 -0700 4d20b5b
 
     todo psos,cap
 
 
 
 
-2020-05-16 00:03:10 -0700 9ee3ee9
+2020-05-16 00:03:10 -0700 1c20b61
 
     some todos
 
 
 
 
-2020-05-14 20:14:32 -0700 e2302b0
+2020-05-14 20:14:32 -0700 f36da71
 
     Multi: almost done for flat table;
 
@@ -4672,42 +5509,42 @@ Next: test on compilation
 
 
 
-2020-05-14 16:50:18 -0700 fc79629
+2020-05-14 16:50:18 -0700 2774cce
 
     getReq: drain unused memory responses (write rsp)
 
 
 
 
-2020-05-14 16:47:24 -0700 e909a66
+2020-05-14 16:47:24 -0700 868fc54
 
     done doLookup
 
 
 
 
-2020-05-14 14:47:25 -0700 d2f1a2b
+2020-05-14 14:47:25 -0700 8ff670d
 
     ask fl vs docker migration
 
 
 
 
-2020-05-14 00:08:57 -0700 12c5854
+2020-05-14 00:08:57 -0700 fd91d58
 
     tagController.bsv todo: handling tag response from tagcache: the burst index
 
 
 
 
-2020-05-14 00:08:13 -0700 5d4cf47
+2020-05-14 00:08:13 -0700 917dbba
 
     a possible bug/disinformation in CHERI burst specification
 
 
 
 
-2020-05-13 21:50:20 -0700 16aa98e
+2020-05-13 21:50:20 -0700 87e3ddd
 
     MutiLevel: done Slave response get()
 
@@ -4715,14 +5552,14 @@ No need to change since it grabs response from queue and returns the struct of a
 
 
 
-2020-05-13 21:34:13 -0700 e302c06
+2020-05-13 21:34:13 -0700 b5087f8
 
     MultiLevel: finish the Slave.request.put; write
 
 
 
 
-2020-05-13 20:57:22 -0700 de4c292
+2020-05-13 20:57:22 -0700 d36faaa
 
     more notes on the flit;
 
@@ -4730,35 +5567,35 @@ TO continue: the request.put() in multi-level-tag-lookup
 
 
 
-2020-05-11 20:04:36 -0700 97df363
+2020-05-11 20:04:36 -0700 3d10abf
 
     skeleton MultiLevelTagLookup.bsv
 
 
 
 
-2020-05-11 19:52:41 -0700 a541a3a
+2020-05-11 19:52:41 -0700 71b5000
 
     state of multi-level tag
 
 
 
 
-2020-05-11 19:43:23 -0700 98ace08
+2020-05-11 19:43:23 -0700 6f402e2
 
     multi-level tag: todo: slave interface; tagsparams.py todo: tagStructure
 
 
 
 
-2020-05-11 19:01:44 -0700 4d8f194
+2020-05-11 19:01:44 -0700 9c690cd
 
     Memory request bits width
 
 
 
 
-2020-05-11 17:27:18 -0700 abe305f
+2020-05-11 17:27:18 -0700 42b6deb
 
     master interface of tag-controller:
 
@@ -4766,28 +5603,28 @@ connected to main memory interface via =
 
 
 
-2020-05-11 17:02:12 -0700 aa2ff6c
+2020-05-11 17:02:12 -0700 efd0718
 
     TagLookup: response contains tags for four flits of data
 
 
 
 
-2020-05-11 13:30:50 -0700 90944e3
+2020-05-11 13:30:50 -0700 bc9bfb6
 
     todo fedarated learning
 
 
 
 
-2020-05-11 00:36:46 -0700 c98f1fe
+2020-05-11 00:36:46 -0700 a37fba5
 
     todo: changes in CacheCore is needed
 
 
 
 
-2020-05-11 00:12:40 -0700 c98caca
+2020-05-11 00:12:40 -0700 ab3e73e
 
     cachecore learned;
 
@@ -4797,7 +5634,7 @@ todo: tagLookup the response side tag manipulation;
 
 
 
-2020-05-10 20:41:23 -0700 40fb8b3
+2020-05-10 20:41:23 -0700 aa3d5a9
 
     done TagLookup.bsv
 
@@ -4805,70 +5642,70 @@ Tag bits is inspected in the slave interface implementation request/response.
 
 
 
-2020-05-09 21:10:30 -0700 2ed7bba
+2020-05-09 21:10:30 -0700 0dc4644
 
     difference of DNN and brain
 
 
 
 
-2020-05-09 21:06:29 -0700 96d392f
+2020-05-09 21:06:29 -0700 f2da545
 
     pattern matching in DNN?
 
 
 
 
-2020-05-09 20:59:36 -0700 f97ce79
+2020-05-09 20:59:36 -0700 53df322
 
     revise ai; add deep learning videos
 
 
 
 
-2020-05-09 19:11:08 -0700 0a45856
+2020-05-09 19:11:08 -0700 c5a2ab9
 
     ai: big data
 
 
 
 
-2020-05-09 17:06:44 -0700 3ad6bdd
+2020-05-09 17:06:44 -0700 f89d727
 
     ask AI general
 
 
 
 
-2020-05-09 16:13:32 -0700 54e5de7
+2020-05-09 16:13:32 -0700 81853d3
 
     ml->ai
 
 
 
 
-2020-05-09 15:36:25 -0700 94fc0b4
+2020-05-09 15:36:25 -0700 3d68d6d
 
     MemTypes: line and cheribusbytes
 
 
 
 
-2020-05-09 15:14:15 -0700 de3bd62
+2020-05-09 15:14:15 -0700 da739d1
 
     the valid physical memory range in tagLookup
 
 
 
 
-2020-05-09 15:01:01 -0700 848a95b
+2020-05-09 15:01:01 -0700 188312d
 
     the init of masterID in tagLookup
 
 
 
 
-2020-05-09 14:55:46 -0700 0e42b18
+2020-05-09 14:55:46 -0700 ce3a0a8
 
     Memory - TagController response dispatch:
 
@@ -4876,21 +5713,21 @@ using masterID field to distinguish the response to be either regular memory or 
 
 
 
-2020-05-09 03:06:06 -0700 27105db
+2020-05-09 03:06:06 -0700 1869490
 
     TagLookup: LineTags
 
 
 
 
-2020-05-09 03:02:12 -0700 40ed632
+2020-05-09 03:02:12 -0700 c8d18d6
 
     two equal meaning vars
 
 
 
 
-2020-05-09 02:52:27 -0700 6cd45ac
+2020-05-09 02:52:27 -0700 e48c338
 
     done CapNumber; CheriCapAddress: a unpacked version of phy addr;
 
@@ -4900,14 +5737,14 @@ confusing name of 'capBytesPerFlit', should be same as cheriBusBytes? Looks like
 
 
 
-2020-05-09 02:19:04 -0700 f7dc463
+2020-05-09 02:19:04 -0700 b467c49
 
     some thoughts on reuse phy mem addr bits
 
 
 
 
-2020-05-09 02:09:35 -0700 fc09b54
+2020-05-09 02:09:35 -0700 042e28c
 
     ask: reuse of unused address bits;
 
@@ -4915,14 +5752,14 @@ todo: meaning of CapNumber;
 
 
 
-2020-05-09 02:07:14 -0700 33194f3
+2020-05-09 02:07:14 -0700 51961b3
 
     processor memory interface, 256-bit data WORD, and 35-bit WORD address width (40-bit byte address); not 64-bit byte addressable!
 
 
 
 
-2020-05-09 01:55:12 -0700 69ceab4
+2020-05-09 01:55:12 -0700 393c0a1
 
     learning tagLookup; flit resolved:
 
@@ -4930,7 +5767,7 @@ Flit is a bus-width data chunk
 
 
 
-2020-05-08 21:08:49 -0700 71d9524
+2020-05-08 21:08:49 -0700 f57d7a3
 
     todo: tracking how tag-lookup manage tags;
 
@@ -4938,63 +5775,63 @@ todo2: tracking how tag in Data#{CapTags, } got updated
 
 
 
-2020-05-08 15:34:41 -0700 5cda9c9
+2020-05-08 15:34:41 -0700 35638da
 
     CAP: a guess on meaning of flit
 
 
 
 
-2020-05-08 11:55:07 -0700 255973b
+2020-05-08 11:55:07 -0700 01b59e3
 
     revise tagController figure
 
 
 
 
-2020-05-08 11:00:21 -0700 c1cd6ab
+2020-05-08 11:00:21 -0700 a267ea3
 
     draft exp bits
 
 
 
 
-2020-05-08 01:48:25 -0700 4e511eb
+2020-05-08 01:48:25 -0700 92f0cf1
 
     todo: tag-lookup & files need to be changed
 
 
 
 
-2020-05-08 01:25:22 -0700 2737d8a
+2020-05-08 01:25:22 -0700 75e613c
 
     revise tag controller; files to change
 
 
 
 
-2020-05-08 01:12:46 -0700 ff4b1c6
+2020-05-08 01:12:46 -0700 9fcf7da
 
     answer one question about tag controller
 
 
 
 
-2020-05-08 00:22:25 -0700 3363ced
+2020-05-08 00:22:25 -0700 b88a97a
 
     tag-lookup: maybe an easier place to learn the code
 
 
 
 
-2020-05-08 00:20:41 -0700 7b075be
+2020-05-08 00:20:41 -0700 c4433bc
 
     flit: some clue but still need more info to know what it is
 
 
 
 
-2020-05-08 00:19:01 -0700 1dad87c
+2020-05-08 00:19:01 -0700 89abbe1
 
     done TagController:
 
@@ -5007,7 +5844,7 @@ TODO: look into tagLookup, and its tag format, and change it.
 
 
 
-2020-05-08 00:11:58 -0700 c48bb38
+2020-05-08 00:11:58 -0700 ecda867
 
     tag bits in Data#
 
@@ -5015,14 +5852,14 @@ TODO: the relationship between number of tag bits, data_width, and CHERI cap bit
 
 
 
-2020-05-07 20:00:27 -0700 1deba5a
+2020-05-07 20:00:27 -0700 96be0a6
 
     connection: tagLookup.cache.response --> lookupRsp
 
 
 
 
-2020-05-07 18:02:29 -0700 7d47397
+2020-05-07 18:02:29 -0700 3917416
 
     note on Master-Slave Get/Put interface connections:
 
@@ -5030,28 +5867,28 @@ Master as client and Slave as server
 
 
 
-2020-05-07 17:35:07 -0700 1208009
+2020-05-07 17:35:07 -0700 100356a
 
     bsv: GetPut
 
 
 
 
-2020-05-07 02:23:52 -0700 ff0af00
+2020-05-07 02:23:52 -0700 2ce18ec
 
     replace
 
 
 
 
-2020-05-07 02:20:58 -0700 e08b319
+2020-05-07 02:20:58 -0700 709eab4
 
     revise
 
 
 
 
-2020-05-07 02:16:51 -0700 bf5c6e1
+2020-05-07 02:16:51 -0700 b88ddaf
 
     critic on AI vs HI: AI is a tool to assist HI, mimic HI seems useless.
 
@@ -5061,84 +5898,84 @@ When HI has flaw, AI should find some new ways to assist humans to overcome huma
 
 
 
-2020-05-07 01:52:45 -0700 ecddf6b
+2020-05-07 01:52:45 -0700 1441a7f
 
     critic on learning objects from the picture
 
 
 
 
-2020-05-07 01:31:27 -0700 86ab359
+2020-05-07 01:31:27 -0700 77dd102
 
     intro: early stage of AI: formal informal solutions ==> representation dependence
 
 
 
 
-2020-05-07 00:49:56 -0700 df41091
+2020-05-07 00:49:56 -0700 5aaa2f4
 
     re-order items top level
 
 
 
 
-2020-05-07 00:31:09 -0700 8befea8
+2020-05-07 00:31:09 -0700 95673a9
 
     pull before update/push
 
 
 
 
-2020-05-07 00:07:10 -0700 58661fe
+2020-05-07 00:07:10 -0700 0af5d07
 
     dl: intro
 
 
 
 
-2020-05-06 23:58:13 -0700 246ff50
+2020-05-06 23:58:13 -0700 6ff1392
 
     todo: search for algorithms in deep learning
 
 
 
 
-2020-05-06 23:56:04 -0700 0f86b8c
+2020-05-06 23:56:04 -0700 48c4e82
 
     split the questions
 
 
 
 
-2020-05-06 23:49:29 -0700 e038bf0
+2020-05-06 23:49:29 -0700 4fcfb7a
 
     move vmi to sys-sec
 
 
 
 
-2020-05-06 23:48:31 -0700 519278f
+2020-05-06 23:48:31 -0700 b1058b9
 
     move fm to logics
 
 
 
 
-2020-05-06 23:45:48 -0700 f2ba6cd
+2020-05-06 23:45:48 -0700 680ed05
 
     ask logics: general connection between logic, representation and computing
 
 
 
 
-2020-05-06 23:41:33 -0700 7b5d59f
+2020-05-06 23:41:33 -0700 9b82a7c
 
     什么是应用逻辑
 
 
 
 
-2020-05-06 23:35:01 -0700 de54c0d
+2020-05-06 23:35:01 -0700 e6fc493
 
     merge
 
@@ -5166,7 +6003,7 @@ When HI has flaw, AI should find some new ways to assist humans to overcome huma
 
 
 
-2020-05-06 14:07:51 -0700 5b5907b
+2020-05-06 14:07:51 -0700 0692b12
 
     Enable edit link
 
